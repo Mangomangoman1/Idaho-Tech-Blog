@@ -5,6 +5,7 @@
 ## Core pages
 
 - [Home](/): Publication front page and current editorial frame.
+- [AI & Automation in Idaho](/ai-automation.html): First sector hub with adoption guidance, public-sector governance, workflow checklists, sector playbooks, map entries, and source links.
 - [Idaho Business Technology Baseline](/business-technology-baseline.html): Practical scorecard for Idaho businesses deciding what to fix, implement, automate, document, secure, or leave alone.
 - [Idaho Tech Briefing: What We’re Tracking First](/briefing-what-were-tracking-first.html): First briefing on Micron, INL, broadband, water, AI, repair, and workforce.
 - [The Constraint](/the-constraint.html): Series intro on water, power, labor, housing, land, software, and time.
