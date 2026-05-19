@@ -6,6 +6,11 @@
 
 - [Home](/): Publication front page and current editorial frame.
 - [AI & Automation in Idaho](/ai-automation.html): First sector hub with adoption guidance, public-sector governance, workflow checklists, sector playbooks, map entries, and source links.
+- [AgTech & Water in Idaho](/agtech-water.html): A practical Idaho agtech and water hub: irrigation, Snake River groundwater, food processing, water data, workforce, and what growers, processors, policymakers, and students should track.
+- [Broadband & Infrastructure in Idaho](/broadband-infrastructure.html): A practical Idaho broadband hub: BEAD funding, rural and mountain connectivity, provider accountability, public infrastructure, outage resilience, and what businesses and communities should track.
+- [Energy & Nuclear in Idaho](/energy-nuclear.html): A practical Idaho energy and nuclear hub: INL, Idaho Power planning, grid demand, advanced reactors, transmission, cybersecurity, storage, data centers, and workforce.
+- [Repair & Hardware in Idaho](/repair-hardware.html): A practical Idaho repair and hardware hub: right-to-repair, device repair, farm equipment, business maintenance, e-waste, workforce skills, and technology that keeps working.
+- [Semiconductors in Idaho](/semiconductors.html): A practical Idaho semiconductor hub: Micron, memory chips, CHIPS Act funding, Photronics, Boise State microelectronics, workforce, water, power, housing, and supplier constraints.
 - [Idaho Business Technology Baseline](/business-technology-baseline.html): Practical scorecard for Idaho businesses deciding what to fix, implement, automate, document, secure, or leave alone.
 - [Idaho Tech Briefing: What We’re Tracking First](/briefing-what-were-tracking-first.html): First briefing on Micron, INL, broadband, water, AI, repair, and workforce.
 - [The Constraint](/the-constraint.html): Series intro on water, power, labor, housing, land, software, and time.
