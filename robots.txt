@@ -7,4 +7,7 @@ Allow: /
 User-agent: ClaudeBot
 Allow: /
 
-Sitemap: https://theidahosignal.com/sitemap.xml
+User-agent: OAI-SearchBot
+Allow: /
+
+Sitemap: https://theidahoreview.com/sitemap.xml

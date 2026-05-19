@@ -1,15 +1,21 @@
-# The Idaho Signal
+# The Idaho Review
 
-> Tracking Idaho’s technology economy: companies, AI, infrastructure, semiconductors, energy, agriculture, broadband, repair, and practical B2B technology across Idaho.
+> Tracking Idaho’s technology economy: companies, AI, infrastructure, semiconductors, energy, agriculture, broadband, repair, workforce, and practical business technology across Idaho.
 
-## Key pages
+## Trust and participation
 
-- [Home](/): Publication homepage and launch stories.
-- [Companies](/companies.html): Future Idaho technology company directory.
-- [Submit a Signal](/submit.html): Tip and company submission path.
+- [About](/about.html): Mission, scope, and publisher note.
+- [Contribute](/contribute.html): Field-note and contributor guidelines.
+- [Interviews](/interviews.html): Idaho Builders interview format.
+- [Editorial Policy](/editorial-policy.html): Sourcing, quotes, labels, corrections.
+- [Send a Tip](/submit.html): Company tips, corrections, events, leads.
 
 ## Launch articles
 
-- [Why Idaho Matters More to American Technology Than Most People Think](/articles/why-idaho-matters-to-american-technology.html): Idaho is not trying to be Silicon Valley. Its technology story is more physical: chips, reactors, farms, broadband, repair, and the small businesses where new tools either work or fail.
-- [What AI Actually Means for Idaho Small Businesses](/articles/what-ai-actually-means-for-idaho-small-businesses.html): The useful version of AI for Idaho is not magic. It is missed-call follow-up, cleaner intake, faster estimates, better staff handoffs, and human-approved systems that reduce admin drag.
 - [Micron, Memory, and Idaho’s Place in the Chip Supply Chain](/articles/micron-memory-and-idahos-place-in-the-chip-supply-chain.html): Micron is more than a familiar Boise headquarters name. Memory chips put Idaho inside one of the most important industrial shifts in the country.
+- [What AI Actually Means for Idaho Small Businesses](/articles/what-ai-actually-means-for-idaho-small-businesses.html): The useful version of AI for Idaho is not magic. It is missed-call follow-up, cleaner intake, faster estimates, better staff handoffs, and human-approved systems that reduce admin drag.
+- [Why Idaho Matters More to American Technology Than Most People Think](/articles/why-idaho-matters-to-american-technology.html): Idaho is not trying to be Silicon Valley. Its technology story is more physical: chips, reactors, farms, broadband, repair, and the small businesses where new tools either work or fail.
+
+## Directory
+
+- [Companies](/companies.html): Idaho technology watchlist v0.

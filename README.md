@@ -1,6 +1,6 @@
-# The Idaho Signal
+# The Idaho Review
 
-Idaho technology publication and future B2B regional intelligence hub.
+Idaho technology, business, and infrastructure publication plus future B2B regional intelligence hub.
 
 ## Run locally
 
@@ -12,8 +12,8 @@ Open `http://localhost:5173`.
 
 ## Current launch package
 
+- Current working brand: The Idaho Review
 - Home page with publication/hub positioning
 - Three launch articles
-- Companies directory seed page
-- Submit-a-Signal page
+- About, Contribute, Interviews, Editorial Policy, Field Notes, Submit, Companies pages
 - robots.txt, sitemap.xml, llms.txt
