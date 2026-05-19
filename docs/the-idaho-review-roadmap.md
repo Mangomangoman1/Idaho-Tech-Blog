@@ -1,16 +1,16 @@
-# The Idaho Review Roadmap
+# The Idaho Stack Roadmap
 
-> **Purpose:** Define what The Idaho Review is trying to become, why it should exist, what it owes Idaho readers, and how it becomes the definitive technology resource for Idaho businesses, public leaders, students, workers, and ordinary residents.
+> **Purpose:** Define what The Idaho Stack is trying to become, why it should exist, what it owes Idaho readers, and how it becomes the definitive technology resource for Idaho businesses, public leaders, students, workers, and ordinary residents.
 >
-> **Working brand:** The Idaho Review  
-> **Core line:** Idaho’s technology economy, reported and mapped.  
+> **Working brand:** The Idaho Stack
+> **Core line:** Idaho’s technology economy, reported and mapped.
 > **Operating ambition:** Become the place Idaho looks when it needs to understand what technology is doing, what to build next, what to study, what to fund, what to fix, and what to avoid.
 
 ---
 
 ## 1. The Claim
 
-The Idaho Review exists to answer one practical question:
+The Idaho Stack exists to answer one practical question:
 
 **What should Idaho do with technology now?**
 
@@ -25,23 +25,23 @@ That question has different forms depending on who is asking.
 - A city or county asks: **What infrastructure, software, data, and staffing choices will matter next?**
 - An ordinary Idaho resident asks: **What is going on in technology, and how does it touch my town, job, school, utility bill, clinic, shop, farm, or home?**
 
-The Idaho Review should have serious answers.
+The Idaho Stack should have serious answers.
 
 Not slogans. Not borrowed Silicon Valley narratives. Not press-release rewrites. Not generic articles about innovation. Serious answers that name the company, the public system, the constraint, the opportunity, the cost, the tradeoff, the source, and the next decision.
 
-If we do this correctly, The Idaho Review becomes more than a publication. It becomes a working map of Idaho’s future.
+If we do this correctly, The Idaho Stack becomes more than a publication. It becomes a working map of Idaho’s future.
 
 ---
 
 ## 2. The North Star
 
-**The Idaho Review will become Idaho’s practical intelligence layer for technology, business, infrastructure, and workforce decisions.**
+**The Idaho Stack will become Idaho’s practical intelligence layer for technology, business, infrastructure, and workforce decisions.**
 
 That means we are not only writing about technology. We are building the resource layer that helps Idaho act wisely around technology.
 
 The test is simple:
 
-> If someone in Idaho has to make a technology-related decision, The Idaho Review should help them make it better.
+> If someone in Idaho has to make a technology-related decision, The Idaho Stack should help them make it better.
 
 That decision might be small:
 
@@ -60,13 +60,13 @@ Or it might be large:
 - Which industries are quietly becoming technology industries?
 - What will happen if power, water, broadband, labor, or repair capacity cannot keep up?
 
-The Idaho Review should become the place where these questions are collected, clarified, researched, and answered.
+The Idaho Stack should become the place where these questions are collected, clarified, researched, and answered.
 
 ---
 
 ## 3. The Psyche
 
-The Idaho Review should think like an operator, write like a regional publication, and behave like a public utility for decision-making.
+The Idaho Stack should think like an operator, write like a regional publication, and behave like a public utility for decision-making.
 
 ### We think like an operator
 
@@ -94,7 +94,7 @@ Credibility is the asset.
 
 ## 4. The Audience We Serve
 
-The Idaho Review has several audiences. The goal is not to dilute the publication for all of them. The goal is to build a resource deep enough that each group can use it from their own position.
+The Idaho Stack has several audiences. The goal is not to dilute the publication for all of them. The goal is to build a resource deep enough that each group can use it from their own position.
 
 ### 1. Idaho business owners
 
@@ -127,7 +127,7 @@ The best companies are often built around constraints others ignore:
 - Small-business operations
 - Energy project coordination
 
-The Idaho Review should help builders find real problems, not fashionable ones.
+The Idaho Stack should help builders find real problems, not fashionable ones.
 
 ### 3. Public officials and candidates
 
@@ -145,7 +145,7 @@ Useful answers look like this:
 - Help small businesses adopt safe AI and automation without exposing customer data.
 - Build cybersecurity capacity for counties, schools, clinics, utilities, and small firms.
 
-The Idaho Review should be able to publish that agenda with evidence.
+The Idaho Stack should be able to publish that agenda with evidence.
 
 ### 4. Students and workers
 
@@ -163,7 +163,7 @@ The answer cannot be only “learn to code.” Idaho needs hybrid workers:
 - public employees who understand data systems
 - small-business operators who understand AI limits
 
-The Idaho Review should explain the real skill map.
+The Idaho Stack should explain the real skill map.
 
 ### 5. Ordinary Idaho residents
 
@@ -179,7 +179,7 @@ Technology is not only apps, funding rounds, or national policy. It is also:
 - whether emergency communication works during fire season
 - whether power and water planning can handle growth
 
-The Idaho Review should make invisible systems visible.
+The Idaho Stack should make invisible systems visible.
 
 ---
 
@@ -248,25 +248,25 @@ If a claim is based on a company statement, we say that. If a number is from a p
 
 ## 6. The Editorial Doctrine
 
-The Idaho Review should organize coverage around questions Idaho actually needs answered.
+The Idaho Stack should organize coverage around questions Idaho actually needs answered.
 
 ### The five-question test
 
 Before publishing a serious piece, ask:
 
-1. What is the Idaho object?  
+1. What is the Idaho object?
    A company, system, place, institution, person, project, public decision, infrastructure asset, workflow, or constraint.
 
-2. What changed?  
+2. What changed?
    A project launched, funding moved, a tool entered a workflow, a system failed, a policy changed, a market shifted, or a job path opened.
 
-3. Why does Idaho change the story?  
+3. Why does Idaho change the story?
    Geography, water, power, agriculture, broadband, housing, labor, public land, local government, distance, trust, or small-business margins.
 
-4. Who can verify it?  
+4. Who can verify it?
    Public records, source links, interviews, meeting packets, filings, datasets, budgets, contracts, job postings, permits, or direct observation.
 
-5. What happens next?  
+5. What happens next?
    A vote, buildout, deadline, hiring push, budget decision, implementation risk, or metric to watch.
 
 If a piece cannot answer at least three of these, it is not ready to be an article. It may be a pitch, research note, field-note request, or watchlist item.
@@ -288,7 +288,7 @@ We do not publish:
 
 ## 7. The Core Products
 
-The Idaho Review should become a set of durable editorial products. Articles matter, but products compound.
+The Idaho Stack should become a set of durable editorial products. Articles matter, but products compound.
 
 ### 1. Idaho Tech Map
 
@@ -425,7 +425,7 @@ This should eventually become an annual report.
 
 A business-facing maturity model.
 
-This is where The Idaho Review becomes invaluable.
+This is where The Idaho Stack becomes invaluable.
 
 The index should let a business ask: **What should we be doing better?**
 
@@ -462,7 +462,7 @@ This can become a diagnostic, report, consulting product, newsletter series, and
 
 ## 8. The Reader Questions We Must Own
 
-The Idaho Review should deliberately own the most important Idaho technology questions.
+The Idaho Stack should deliberately own the most important Idaho technology questions.
 
 ### Business questions
 
@@ -513,7 +513,7 @@ If we answer these better than anyone else, we become the reference point.
 
 **Status:** underway.
 
-Goal: Make The Idaho Review real enough that a stranger understands the mission and a potential contributor trusts the project.
+Goal: Make The Idaho Stack real enough that a stranger understands the mission and a potential contributor trusts the project.
 
 Required assets:
 
@@ -540,25 +540,25 @@ Goal: Move from “promising publication” to “this is useful now.”
 
 Build these first:
 
-1. **Idaho Business Technology Baseline**  
+1. **Idaho Business Technology Baseline**
    What every Idaho business should have in place by 2027.
 
-2. **AI Readiness for Idaho Small Businesses**  
+2. **AI Readiness for Idaho Small Businesses**
    A practical framework: safe use cases, risky use cases, privacy rules, workflow-first adoption, and vendor questions.
 
-3. **Idaho Skill Map v0**  
+3. **Idaho Skill Map v0**
    What students and workers should study for Idaho’s actual technical economy.
 
-4. **Public Technology Agenda for Idaho**  
+4. **Public Technology Agenda for Idaho**
    The nonpartisan list of technology issues candidates and public leaders should understand.
 
-5. **Idaho Broadband Ground Truth**  
+5. **Idaho Broadband Ground Truth**
    A map/reporting project collecting lived broadband quality, provider notes, grants, and reliability gaps.
 
-6. **The Constraint: Water**  
+6. **The Constraint: Water**
    The first deep piece in the series.
 
-7. **The Constraint: Workforce**  
+7. **The Constraint: Workforce**
    A deep piece on hybrid technical jobs and training bottlenecks.
 
 Acceptance test:
@@ -584,13 +584,13 @@ Build:
 
 Acceptance test:
 
-> The Idaho Review is not only publishing stories. It is maintaining the underlying map of Idaho’s technology economy.
+> The Idaho Stack is not only publishing stories. It is maintaining the underlying map of Idaho’s technology economy.
 
 ### Phase 4: Pace-setting — become the reference point
 
 Goal: Shape the conversation.
 
-This is where businesses, candidates, schools, chambers, and local leaders begin using The Idaho Review to decide what matters.
+This is where businesses, candidates, schools, chambers, and local leaders begin using The Idaho Stack to decide what matters.
 
 Products:
 
@@ -607,7 +607,7 @@ Products:
 
 Acceptance test:
 
-> People cite The Idaho Review when discussing Idaho technology priorities.
+> People cite The Idaho Stack when discussing Idaho technology priorities.
 
 ### Phase 5: Platform — become infrastructure for the market
 
@@ -803,7 +803,7 @@ Sections:
 
 ## 12. How We Become Invaluable
 
-The Idaho Review becomes invaluable by doing work that is annoying, specific, and useful enough that others do not do it consistently.
+The Idaho Stack becomes invaluable by doing work that is annoying, specific, and useful enough that others do not do it consistently.
 
 ### We maintain maps
 
@@ -840,13 +840,13 @@ Every major page should answer:
 
 If a page cannot answer those six questions, it is probably content, not infrastructure.
 
-The Idaho Review should build infrastructure.
+The Idaho Stack should build infrastructure.
 
 ---
 
 ## 14. Editorial Independence and Revenue
 
-The Idaho Review can support business opportunities without becoming fake.
+The Idaho Stack can support business opportunities without becoming fake.
 
 The rule:
 
@@ -879,7 +879,7 @@ Trust is more valuable than short-term revenue.
 
 ## 15. The Operating System
 
-To execute, The Idaho Review needs a repeatable internal system.
+To execute, The Idaho Stack needs a repeatable internal system.
 
 ### Weekly rhythm
 
@@ -920,41 +920,41 @@ To execute, The Idaho Review needs a repeatable internal system.
 
 Priority order:
 
-1. **Idaho Business Technology Baseline**  
+1. **Idaho Business Technology Baseline**
    Highest direct value for business owners.
 
-2. **AI Readiness for Idaho Small Businesses**  
+2. **AI Readiness for Idaho Small Businesses**
    Strongest Actrix-adjacent authority piece without turning the publication into an ad.
 
-3. **Idaho Skill Map v0**  
+3. **Idaho Skill Map v0**
    Serves students, workforce groups, schools, employers, and public leaders.
 
-4. **Public Technology Agenda v0**  
+4. **Public Technology Agenda v0**
    Serves politicians, agencies, chambers, civic groups, and serious readers.
 
-5. **Idaho Implementation Index v0**  
+5. **Idaho Implementation Index v0**
    Turns the publication into a practical diagnostic resource.
 
-6. **The Constraint: Water**  
+6. **The Constraint: Water**
    First serious reported series piece.
 
-7. **The Constraint: Workforce**  
+7. **The Constraint: Workforce**
    Connects business, schools, technical training, and public policy.
 
-8. **Broadband Ground Truth Project**  
+8. **Broadband Ground Truth Project**
    Builds public utility and reader participation.
 
-9. **First five operator interviews**  
+9. **First five operator interviews**
    Builds relationships and firsthand authority.
 
-10. **First five field notes**  
+10. **First five field notes**
    Gives the site local texture nobody else can fake.
 
 ---
 
 ## 17. What Winning Looks Like
 
-The Idaho Review is winning when:
+The Idaho Stack is winning when:
 
 - Idaho businesses use our guides before buying software, AI tools, websites, or automation.
 - Students use our skill maps to choose classes, certificates, jobs, and projects.
@@ -969,13 +969,13 @@ The end state is not just traffic.
 
 The end state is authority.
 
-Authority means people trust The Idaho Review to set the field: what matters, what is real, what is missing, what is risky, what is worth learning, and what Idaho should do next.
+Authority means people trust The Idaho Stack to set the field: what matters, what is real, what is missing, what is risky, what is worth learning, and what Idaho should do next.
 
 ---
 
 ## 18. The One-Sentence Mission
 
-**The Idaho Review helps Idaho make better technology decisions by mapping the companies, systems, constraints, skills, and public choices shaping the state’s future.**
+**The Idaho Stack helps Idaho make better technology decisions by mapping the companies, systems, constraints, skills, and public choices shaping the state’s future.**
 
 ## 19. The Short Manifesto
 
@@ -985,7 +985,7 @@ It is already in Idaho’s farms, clinics, labs, schools, shops, utilities, fact
 
 The question is whether Idaho understands it well enough to use it wisely.
 
-The Idaho Review exists to build that understanding.
+The Idaho Stack exists to build that understanding.
 
 We will map the companies. We will follow the constraints. We will ask who pays, who maintains it, who gets trained, who is exposed, and what happens when it breaks.
 

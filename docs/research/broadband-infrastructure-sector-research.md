@@ -1,6 +1,6 @@
 # Idaho Broadband and Infrastructure Sector Hub — source-aware research notes
 
-Purpose: working research for The Idaho Review sector hub. Treat as a living source map, not a finished article. Where a source could not be directly fetched because of Cloudflare or payment restrictions, the URL is still listed and uncertainty is flagged.
+Purpose: working research for The Idaho Stack sector hub. Treat as a living source map, not a finished article. Where a source could not be directly fetched because of Cloudflare or payment restrictions, the URL is still listed and uncertainty is flagged.
 
 ## 1) Sector thesis for Idaho
 

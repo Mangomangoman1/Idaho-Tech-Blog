@@ -1,6 +1,6 @@
 # Idaho Agtech and Water Sector Hub — source-aware research notes
 
-Prepared for The Idaho Review sector hub. Scope: Idaho-specific agriculture, water, irrigation, food processing, groundwater/Snake River/aquifer issues, university/manufacturing resources, and verifiable technology providers. Avoid generic hype: this sector is anchored in water law, irrigation infrastructure, crop and livestock economics, processing capacity, and practical field/manufacturing tech.
+Prepared for The Idaho Stack sector hub. Scope: Idaho-specific agriculture, water, irrigation, food processing, groundwater/Snake River/aquifer issues, university/manufacturing resources, and verifiable technology providers. Avoid generic hype: this sector is anchored in water law, irrigation infrastructure, crop and livestock economics, processing capacity, and practical field/manufacturing tech.
 
 ## Executive thesis
 

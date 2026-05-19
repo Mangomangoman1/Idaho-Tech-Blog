@@ -1,4 +1,4 @@
-# The Idaho Review
+# The Idaho Stack
 
 Idaho technology, business, and infrastructure publication plus future B2B regional intelligence hub.
 
@@ -12,7 +12,7 @@ Open `http://localhost:5173`.
 
 ## Current launch package
 
-- Current working brand: The Idaho Review
+- Current working brand: The Idaho Stack
 - Home page with publication/hub positioning
 - Three launch articles
 - About, Contribute, Interviews, Editorial Policy, Field Notes, Submit, Companies pages

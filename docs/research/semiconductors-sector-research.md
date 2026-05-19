@@ -141,7 +141,7 @@ Idaho's semiconductor story is not a generic “chips boom.” It is a concentra
 - Childcare/transportation: City/NIST cite childcare efforts and modern zoning; these are workforce issues, not side issues.
 - Public trust: publish water-use numbers, environmental permits, mitigation commitments, and community-benefit measures where possible.
 
-## Decision framework ideas for The Idaho Review
+## Decision framework ideas for The Idaho Stack
 
 ### 1) “Announcement → execution” tracker
 For each project/program:

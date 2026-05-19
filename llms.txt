@@ -1,4 +1,4 @@
-# The Idaho Review
+# The Idaho Stack
 
 > Regional publication and company map tracking Idaho’s technology economy: companies, people, infrastructure, AI, semiconductors, energy, agriculture, broadband, repair, workforce, and practical business technology.
 
@@ -23,4 +23,4 @@
 
 ## Editorial rules
 
-The Idaho Review prioritizes specific Idaho evidence over smooth generic prose. Strong pieces name a place, company, public system, constraint, source, and next thing to watch.
+The Idaho Stack prioritizes specific Idaho evidence over smooth generic prose. Strong pieces name a place, company, public system, constraint, source, and next thing to watch.

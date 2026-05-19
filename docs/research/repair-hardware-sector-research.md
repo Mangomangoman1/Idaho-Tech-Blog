@@ -1,8 +1,8 @@
 # Idaho Repair and Hardware Sector Hub — research notes
 
-Prepared for: The Idaho Review  
-Prepared: 2026-05-19 02:17 MDT  
-Scope: right-to-repair, device and electronics repair, farm and industrial equipment repair, maintenance workforce, e-waste/reuse, repair shops and institutions.  
+Prepared for: The Idaho Stack
+Prepared: 2026-05-19 02:17 MDT
+Scope: right-to-repair, device and electronics repair, farm and industrial equipment repair, maintenance workforce, e-waste/reuse, repair shops and institutions.
 Editorial caution: Samuel operates Hailey Device Repair; use practical repair knowledge as editorial context, but avoid making the hub an HDR advertisement. If HDR is mentioned, disclose relationship and treat it as one example among many or omit from directory pages unless there is an editorial reason.
 
 ## 1) Sector thesis
@@ -16,7 +16,7 @@ Idaho repair is not one industry. It is an overlapping set of local services, wo
 - Skills and education: diesel/heavy equipment technicians, electronics/mechatronics skills, IT support, soldering, troubleshooting, safety, customer documentation.
 - Policy: right-to-repair, warranty law, software locks, emissions-system diagnostics, security pairing, manufacturer parts access, repair documentation.
 
-The Idaho Review can own this sector by connecting local decision support, policy explainers, and business risk guidance.
+The Idaho Stack can own this sector by connecting local decision support, policy explainers, and business risk guidance.
 
 ## 2) Source-aware findings
 

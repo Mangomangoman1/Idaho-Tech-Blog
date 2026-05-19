@@ -1,6 +1,6 @@
 # Idaho Energy and Nuclear sector hub research notes
 
-Date: 2026-05-19. Scope: source-aware desk notes for The Idaho Review; emphasize official/public URLs and decision support. Caveat: web_search/web_extract credits failed; notes were grounded with direct public pages/PDFs fetched via terminal, plus a few official INL/NRIC URLs that were reachable only as 403/Cloudflare from this environment and should be manually checked before publication.
+Date: 2026-05-19. Scope: source-aware desk notes for The Idaho Stack; emphasize official/public URLs and decision support. Caveat: web_search/web_extract credits failed; notes were grounded with direct public pages/PDFs fetched via terminal, plus a few official INL/NRIC URLs that were reachable only as 403/Cloudflare from this environment and should be manually checked before publication.
 
 ## Executive takeaways
 
