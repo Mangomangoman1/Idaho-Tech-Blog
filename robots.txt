@@ -10,4 +10,4 @@ Allow: /
 User-agent: OAI-SearchBot
 Allow: /
 
-Sitemap: https://theidahoreview.com/sitemap.xml
+Sitemap: https://idahostack.com/sitemap.xml
