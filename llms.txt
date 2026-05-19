@@ -1,21 +1,19 @@
 # The Idaho Review
 
-> Tracking Idaho’s technology economy: companies, AI, infrastructure, semiconductors, energy, agriculture, broadband, repair, workforce, and practical business technology across Idaho.
+> Regional publication and company map tracking Idaho’s technology economy: companies, people, infrastructure, AI, semiconductors, energy, agriculture, broadband, repair, workforce, and practical business technology.
 
-## Trust and participation
+## Core pages
 
-- [About](/about.html): Mission, scope, and publisher note.
-- [Contribute](/contribute.html): Field-note and contributor guidelines.
-- [Interviews](/interviews.html): Idaho Builders interview format.
-- [Editorial Policy](/editorial-policy.html): Sourcing, quotes, labels, corrections.
-- [Send a Tip](/submit.html): Company tips, corrections, events, leads.
+- [Home](/): Publication front page and current editorial frame.
+- [Idaho Tech Briefing: What We’re Tracking First](/briefing-what-were-tracking-first.html): First briefing on Micron, INL, broadband, water, AI, repair, and workforce.
+- [The Constraint](/the-constraint.html): Series intro on water, power, labor, housing, land, software, and time.
+- [Idaho Tech Map v0](/companies.html): Source-linked directory of 38 seed entities.
+- [Sectors](/sectors.html): AI, semiconductors, energy/nuclear, agtech/water, broadband, repair/hardware.
+- [Regions](/regions.html): Treasure Valley, eastern Idaho, Magic Valley, north Idaho, Wood River Valley, statewide/rural.
+- [Field Notes](/field-notes.html): Contributor format for firsthand observations.
+- [Interviews](/interviews.html): Five Questions with Idaho Operators.
+- [Submit](/submit.html): Tips, companies, corrections, field notes, events, and interview suggestions.
 
-## Launch articles
+## Editorial rules
 
-- [Micron, Memory, and Idaho’s Place in the Chip Supply Chain](/articles/micron-memory-and-idahos-place-in-the-chip-supply-chain.html): Micron is more than a familiar Boise headquarters name. Memory chips put Idaho inside one of the most important industrial shifts in the country.
-- [What AI Actually Means for Idaho Small Businesses](/articles/what-ai-actually-means-for-idaho-small-businesses.html): The useful version of AI for Idaho is not magic. It is missed-call follow-up, cleaner intake, faster estimates, better staff handoffs, and human-approved systems that reduce admin drag.
-- [Why Idaho Matters More to American Technology Than Most People Think](/articles/why-idaho-matters-to-american-technology.html): Idaho is not trying to be Silicon Valley. Its technology story is more physical: chips, reactors, farms, broadband, repair, and the small businesses where new tools either work or fail.
-
-## Directory
-
-- [Companies](/companies.html): Idaho technology watchlist v0.
+The Idaho Review prioritizes specific Idaho evidence over smooth generic prose. Strong pieces name a place, company, public system, constraint, source, and next thing to watch.
