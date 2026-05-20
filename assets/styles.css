@@ -43,3 +43,7 @@ footer a{display:block;text-decoration:none;margin:7px 0;color:var(--muted)}foot
 /* News infrastructure 2026-05-19 */
 .news-hero h1{font-family:var(--serif);font-size:clamp(2.55rem,7vw,5.8rem);line-height:.92;letter-spacing:-.055em;max-width:980px;margin:10px 0}.news-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px}.news-card{border:1px solid var(--line);border-radius:24px;background:rgba(255,250,240,.78);padding:22px;box-shadow:0 12px 34px rgba(31,38,35,.06)}.news-card h2{font-family:var(--serif);font-size:clamp(1.55rem,3vw,2.45rem);line-height:1.03;margin:6px 0 10px}.news-card h2 a{text-decoration:none}.article-meta-box{display:flex;flex-wrap:wrap;gap:8px;margin:18px 0 22px}.article-meta-box span{border:1px solid var(--line);border-radius:999px;background:rgba(244,239,228,.74);padding:7px 10px;color:var(--basalt);font-size:.9rem}.news-article ul{padding-left:1.2rem}.news-article li{margin:9px 0}.source-list{border-top:1px solid var(--line-dark);margin-top:34px;padding-top:16px}.source-list ul{display:grid;gap:8px}.source-list a{font-weight:800;text-underline-offset:4px}
 @media(max-width:850px){.news-grid{grid-template-columns:1fr}.news-hero h1{font-size:clamp(2.25rem,12vw,4.1rem);overflow-wrap:anywhere}.article-meta-box span{border-radius:14px}}
+
+
+/* Idaho Stack logo mark 2026-05-20 */
+.mark.logo-mark{border-radius:12px;background:#1f2623;border-color:rgba(255,250,240,.22);overflow:hidden;padding:0;box-shadow:0 6px 18px rgba(31,38,35,.14)}.mark.logo-mark img{display:block;width:100%;height:100%;object-fit:cover}
