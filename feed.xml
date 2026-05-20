@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Idaho Stack</title>
+    <link>https://idahostack.com/</link>
+    <description>Idaho technology news, business, infrastructure, and practical reporting.</description>
+    <language>en-us</language>
+    <atom:link href="https://idahostack.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What Idaho’s Tech Economy Is Actually Made Of</title>
+      <link>https://idahostack.com/articles/what-idahos-tech-economy-is-actually-made-of.html</link>
+      <guid>https://idahostack.com/articles/what-idahos-tech-economy-is-actually-made-of.html</guid>
+      <description>Idaho’s technology economy is not apps first. It is memory chips, nuclear labs, broadband buildout, irrigation systems, manufacturing fixes, and small businesses trying to make AI useful.</description>
+      <pubDate>Tue, 19 May 2026 21:26:27 -0600</pubDate>
+    </item>
+    <item>
+      <title>Idaho Tech Briefing: What We’re Tracking First</title>
+      <link>https://idahostack.com/briefing-what-were-tracking-first.html</link>
+      <guid>https://idahostack.com/briefing-what-were-tracking-first.html</guid>
+      <description>Micron, INL, broadband, water, small-business AI, repair culture, and the workforce questions underneath it all.</description>
+      <pubDate>Tue, 19 May 2026 12:00:00 -0600</pubDate>
+    </item>
+    <item>
+      <title>Why Idaho Matters More to American Technology Than Most People Think</title>
+      <link>https://idahostack.com/articles/why-idaho-matters-to-american-technology.html</link>
+      <guid>https://idahostack.com/articles/why-idaho-matters-to-american-technology.html</guid>
+      <description>Idaho is not trying to be Silicon Valley. Its technology story is more physical: chips, reactors, farms, broadband, repair, and the small businesses where new tools either work or fail.</description>
+      <pubDate>Mon, 18 May 2026 12:00:00 -0600</pubDate>
+    </item>
+  </channel>
+</rss>

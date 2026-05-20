@@ -24,3 +24,8 @@
 ## Editorial rules
 
 The Idaho Stack prioritizes specific Idaho evidence over smooth generic prose. Strong pieces name a place, company, public system, constraint, source, and next thing to watch.
+
+- News and briefings: https://idahostack.com/news.html
+- RSS feed: https://idahostack.com/feed.xml
+- News sitemap: https://idahostack.com/news-sitemap.xml
+- Anchor article: https://idahostack.com/articles/what-idahos-tech-economy-is-actually-made-of.html
