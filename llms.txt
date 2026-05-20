@@ -29,3 +29,7 @@ The Idaho Stack prioritizes specific Idaho evidence over smooth generic prose. S
 - RSS feed: https://idahostack.com/feed.xml
 - News sitemap: https://idahostack.com/news-sitemap.xml
 - Anchor article: https://idahostack.com/articles/what-idahos-tech-economy-is-actually-made-of.html
+
+## Latest articles
+
+- [The Data Center Question Idaho Hasn’t Settled: Who Pays for the Power?](/articles/data-center-power-idaho-ratepayers.html): Analysis of Idaho Power, Micron, Meta, large loads, electric rates, and who carries grid-cost risk.

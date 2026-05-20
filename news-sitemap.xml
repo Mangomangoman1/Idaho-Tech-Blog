@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://idahostack.com/articles/data-center-power-idaho-ratepayers.html</loc>
+    <news:news>
+      <news:publication><news:name>The Idaho Stack</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-05-20T16:47:01-06:00</news:publication_date>
+      <news:title>The Data Center Question Idaho Hasn’t Settled: Who Pays for the Power?</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://idahostack.com/articles/what-idahos-tech-economy-is-actually-made-of.html</loc>
     <news:news>
       <news:publication><news:name>The Idaho Stack</news:name><news:language>en</news:language></news:publication>
