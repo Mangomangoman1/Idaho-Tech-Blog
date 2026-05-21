@@ -10,5 +10,5 @@ Allow: /
 User-agent: OAI-SearchBot
 Allow: /
 
-Sitemap: https://idahostack.com/sitemap.xml
-Sitemap: https://idahostack.com/news-sitemap.xml
+Sitemap: https://www.idahostack.com/sitemap.xml
+Sitemap: https://www.idahostack.com/news-sitemap.xml
