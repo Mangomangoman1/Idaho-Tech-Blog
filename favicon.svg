@@ -1,11 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="The Idaho Stack mark">
-  <rect width="512" height="512" rx="96" fill="#1f2623"/>
-  <g filter="url(#soft)">
-    <path d="M147 145c0-17 10-25 28-26l163-3c20 0 31 8 36 28l11 41c4 16-4 27-21 28l-194 3c-17 0-25-8-23-25l0-46z" fill="#fff6df"/>
-    <path d="M145 228c1-14 9-21 24-21h205c15 0 24 7 26 21l6 31c3 15-5 25-21 25H166c-14 0-21-7-21-21v-35z" fill="#fff6df"/>
-    <path d="M145 301c0-15 8-23 23-23h151c15 0 23 8 23 23v36c0 15-8 22-23 22H168c-15 0-23-7-23-22v-36z" fill="#fff6df"/>
-    <rect x="358" y="278" width="69" height="81" rx="16" fill="#c58b32"/>
-    <path d="M145 379c0-15 8-23 23-23h219c15 0 23 8 23 23v34c0 15-8 23-23 23H168c-15 0-23-8-23-23v-34z" fill="#fff6df"/>
-  </g>
-  <defs><filter id="soft" x="120" y="90" width="330" height="370" color-interpolation-filters="sRGB"><feDropShadow dx="0" dy="8" stdDeviation="8" flood-color="#0e1211" flood-opacity=".22"/></filter></defs>
+  <rect width="512" height="512" rx="64" fill="#182028"/>
+  <rect x="64" y="64" width="384" height="80" rx="20" fill="#fff3d6"/>
+  <rect x="64" y="216" width="384" height="80" rx="20" fill="#fff3d6"/>
+  <rect x="64" y="368" width="240" height="80" rx="20" fill="#fff3d6"/>
+  <rect x="336" y="368" width="112" height="80" rx="20" fill="#d99a35"/>
 </svg>
