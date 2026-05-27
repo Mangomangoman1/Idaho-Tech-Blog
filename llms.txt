@@ -33,6 +33,7 @@ The Idaho Stack prioritizes specific Idaho evidence over smooth generic prose. S
 
 ## Latest articles
 
+- [Idaho’s Broadband Money Is Leaving the Map Phase. Now the Hard Part Starts.](/articles/idaho-broadband-bead-delivery-deadline.html): Analysis of Idaho BEAD broadband funding moving from award maps into contracts, permitting, construction schedules, low-cost plans, and delivery accountability.
 - [The Data Center Question Idaho Hasn’t Settled: Who Pays for the Power?](/articles/data-center-power-idaho-ratepayers.html): Analysis of Idaho Power, Micron, Meta, large loads, electric rates, and who carries grid-cost risk.
 
 
