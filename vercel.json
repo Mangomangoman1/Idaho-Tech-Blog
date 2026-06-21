@@ -1,0 +1,10 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "buildCommand": "",
+  "outputDirectory": ".",
+  "cleanUrls": false,
+  "redirects": [
+    { "source": "/idaho-technology-intelligence.html", "destination": "/about.html", "permanent": true },
+    { "source": "/contribute.html", "destination": "/submit.html", "permanent": true }
+  ]
+}
