@@ -3,6 +3,7 @@ import re, sys
 root=Path(__file__).resolve().parents[1]
 fail=[]
 for f in root.rglob('*.html'):
+    if 'partials' in f.parts: continue  # header/footer fragments, not full pages
     s=f.read_text()
     if '<title>' not in s: fail.append(f'{f}: missing title')
     if 'name="description"' not in s: fail.append(f'{f}: missing meta description')

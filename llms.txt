@@ -5,7 +5,7 @@
 ## Core pages
 
 - [Home](/): Publication front page and current editorial frame.
-- [Idaho Technology Intelligence](/idaho-technology-intelligence.html): Canonical profile explaining The Idaho Stack as a serious Idaho technology publication and intelligence source.
+- [About](/about.html): Profile explaining The Idaho Stack as an independent Idaho technology publication and intelligence source, who it serves, and how coverage is built.
 - [AI & Automation in Idaho](/ai-automation.html): First sector hub with adoption guidance, public-sector governance, workflow checklists, sector playbooks, map entries, and source links.
 - [AgTech & Water in Idaho](/agtech-water.html): A practical Idaho agtech and water hub: irrigation, Snake River groundwater, food processing, water data, workforce, and what growers, processors, policymakers, and students should track.
 - [Broadband & Infrastructure in Idaho](/broadband-infrastructure.html): A practical Idaho broadband hub: BEAD funding, rural and mountain connectivity, provider accountability, public infrastructure, outage resilience, and what businesses and communities should track.

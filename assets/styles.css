@@ -47,3 +47,26 @@ footer a{display:block;text-decoration:none;margin:7px 0;color:var(--muted)}foot
 
 /* Idaho Stack logo mark 2026-05-20 */
 .mark.logo-mark{border-radius:12px;background:#1f2623;border-color:rgba(255,250,240,.22);overflow:hidden;padding:0;box-shadow:0 6px 18px rgba(31,38,35,.14)}.mark.logo-mark img{display:block;width:100%;height:100%;object-fit:cover}
+
+
+/* Mobile navigation toggle 2026-06-20 */
+.nav-toggle{display:none;min-height:40px;padding:0 16px;border:1px solid var(--line-dark);border-radius:999px;background:rgba(255,250,240,.78);font:inherit;font-weight:850;letter-spacing:.04em;text-transform:uppercase;font-size:.82rem;color:var(--ink);cursor:pointer}
+@media(max-width:850px){
+  .utility-bar{flex-wrap:wrap}
+  .nav-toggle{display:inline-flex;align-items:center;justify-content:center}
+  .topbar.nav-open .utility-nav{display:flex;flex-direction:column;align-items:flex-start;gap:14px;width:100%;padding:14px 2px 4px;border-top:1px solid var(--line);margin-top:10px}
+  .topbar.nav-open .navlinks{display:flex;flex-direction:column;align-items:flex-start;gap:16px;padding:12px 2px 4px;font-size:1.02rem}
+  .topbar.nav-open .navlinks a,.topbar.nav-open .utility-nav a{font-weight:750}
+}
+
+
+/* Homepage lead story 2026-06-20 */
+.lead-story{position:relative;overflow:hidden;border:1px solid var(--ink);border-radius:30px;background:linear-gradient(135deg,rgba(31,38,35,.97),rgba(58,67,60,.93));color:var(--cream);padding:clamp(26px,5vw,54px);box-shadow:var(--shadow)}
+.lead-story:after{content:"ID";position:absolute;right:-10px;bottom:-46px;font-family:var(--serif);font-size:12rem;line-height:1;color:rgba(255,250,240,.06);font-weight:800;pointer-events:none}
+.lead-story .kicker{color:var(--amber-soft)}
+.lead-story h2{font-family:var(--serif);font-size:clamp(2.1rem,5vw,4.3rem);line-height:.98;letter-spacing:-.03em;margin:10px 0 16px;max-width:18ch;position:relative}
+.lead-story h2 a{color:inherit;text-decoration:none}
+.lead-story h2 a:hover{text-decoration:underline;text-underline-offset:6px}
+.lead-story p{color:rgba(255,250,240,.82);font-size:clamp(1.05rem,1.6vw,1.3rem);max-width:62ch;position:relative}
+.lead-story .pill-row span{border-color:rgba(255,250,240,.26);background:rgba(255,250,240,.08);color:var(--cream)}
+.lead-story .button{margin-top:22px;background:var(--cream);color:var(--ink);border-color:var(--cream);position:relative}
