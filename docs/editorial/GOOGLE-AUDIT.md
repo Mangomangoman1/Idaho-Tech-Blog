@@ -26,7 +26,7 @@ credential, analytics or tracking change was made.
 | RSS | Valid feed omitted Micron analysis. | New story and archive Micron item added; all article files are checked for sitemap/RSS inclusion and duplicate GUIDs. Browser autodiscovery retained. RSS itself does not constitute Google submission. |
 | Transparency | About identifies Samuel/Hailey/businesses; editorial standards, source lists and contact links exist. | Added public AI process disclosures. No invented staff or credentials. Mailbox delivery untested. Any future coverage of affiliated businesses needs specific conflict disclosure. |
 | Index presentation | Home lead claimed latest but showed May 20 while news had May 27. | Home and news now lead with October 16 follow-up and desk/archive forward links. Removed technical search-promotion prose from news intro. |
-| Build/deployment | Local stdlib Python build/check; empty Vercel buildCommand; no GitHub Actions workflow. Current SHA had Vercel success status. | Vercel now runs build/check, including sitemap generation, internal links, parseable JSON-LD/XML, article dates, RSS coverage and freshness-boundary tests. Confirm result for pushed SHA separately. |
+| Build/deployment | Local stdlib Python build/check; empty Vercel buildCommand; no GitHub Actions workflow. Current SHA had Vercel success status. | Vercel now runs build/check, including sitemap generation, internal links, parseable JSON-LD/XML, article dates, RSS coverage and freshness-boundary tests. Release b5a4bc5 has a successful Vercel status; fresh public behavior remains unverified. |
 
 ## Remaining verification
 

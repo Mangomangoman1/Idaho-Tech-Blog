@@ -55,3 +55,25 @@ pre-release note as proof of publication.
   remain queued; do not invent or silently certify historical authorship/facts.
 - Static news sitemap ages without rebuild. Daily hold runs must prune/push as
   necessary; quality takes precedence over article quota.
+
+## Release evidence
+
+- Content/infrastructure release: `b5a4bc5d74bcc3d81a3b0ef59a5bb9820c1975a0`
+  ([GitHub commit](https://github.com/Mangomangoman1/Idaho-Tech-Blog/commit/b5a4bc5d74bcc3d81a3b0ef59a5bb9820c1975a0)).
+  Normal push main succeeded and `git ls-remote origin refs/heads/main` matched.
+- GitHub's Vercel status for that exact SHA returned `success` on October 16,
+  approximately 07:06 UTC. [Deployment status](https://vercel.com/wpbfls-5183s-projects/idaho-tech-blog/39pByUS1NLveHriFSfpf3V2LhGBn).
+  No GitHub Actions check-runs existed on the original baseline; the deployment
+  status and local tests are the available CI evidence.
+- Article target: https://www.idahostack.com/articles/idaho-bead-provider-withdrawals-rebid.html
+- Post-deploy read-only curl checks of that article and apex domain at 07:06 UTC
+  still returned `CONNECT tunnel failed, response 403` from the workspace proxy.
+  Public verification remains blocked by network access; outcome on the live
+  domain is unverified here, not known to have failed. Web retrieval of the new
+  URL also returned inaccessible. Do not call the release publicly verified.
+- No outreach, spending, new account, subscription, credentials, domain/security
+  setting or tracking change occurred. No force push or overwritten user work.
+- This release-record update is a separate documentation commit after the content
+  release. Inspect the remote HEAD for its latest SHA rather than assuming the
+  content release remains tip. The next operator should finish fresh public checks
+  first, then work the next verified reporting lead.
