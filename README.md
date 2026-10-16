@@ -17,3 +17,9 @@ Open `http://localhost:5173`.
 - Three launch articles
 - About, Contribute, Interviews, Editorial Policy, Field Notes, Submit, Companies pages
 - robots.txt, sitemap.xml, llms.txt
+
+## Editorial operations
+
+Start each daily session with [the handoff](docs/editorial/HANDOFF.md) and [operating rules](docs/editorial/OPERATIONS.md). [Inventory/backlog](docs/editorial/INVENTORY.md) and the [Google publishing audit](docs/editorial/GOOGLE-AUDIT.md) record evidence and limits.
+
+Run `npm run build` and `npm run check` before release. The build also prunes the news sitemap; run it even on quality-hold days. Vercel runs these checks on deployment.

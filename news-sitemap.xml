@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
-    <loc>https://www.idahostack.com/articles/idaho-broadband-bead-delivery-deadline.html</loc>
+    <loc>https://www.idahostack.com/articles/idaho-bead-provider-withdrawals-rebid.html</loc>
     <news:news>
-      <news:publication><news:name>The Idaho Stack</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-05-27T01:32:09-06:00</news:publication_date>
-      <news:title>Idaho’s Broadband Money Is Leaving the Map Phase. Now the Hard Part Starts.</news:title>
+      <news:publication>
+        <news:name>The Idaho Stack</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-16T00:58:32-06:00</news:publication_date>
+      <news:title>Four Providers Withdrew From Idaho’s Broadband Plan. What Happens to Those Locations?</news:title>
     </news:news>
   </url>
 </urlset>

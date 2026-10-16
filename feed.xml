@@ -1,11 +1,18 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>The Idaho Stack</title>
     <link>https://www.idahostack.com/</link>
     <description>Idaho technology news, business, infrastructure, and practical reporting.</description>
     <language>en-us</language>
     <atom:link href="https://www.idahostack.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Four Providers Withdrew From Idaho’s Broadband Plan. What Happens to Those Locations?</title>
+      <link>https://www.idahostack.com/articles/idaho-bead-provider-withdrawals-rebid.html</link>
+      <guid>https://www.idahostack.com/articles/idaho-bead-provider-withdrawals-rebid.html</guid>
+      <description>An October state briefing documents a broadband rebid after provider withdrawals. Here is how Idaho households can check project status without mistaking an award for service.</description>
+      <pubDate>Fri, 16 Oct 2026 00:58:32 -0600</pubDate>
+    </item>
     <item>
       <title>Idaho’s Broadband Money Is Leaving the Map Phase. Now the Hard Part Starts.</title>
       <link>https://www.idahostack.com/articles/idaho-broadband-bead-delivery-deadline.html</link>
@@ -40,6 +47,12 @@
       <guid>https://www.idahostack.com/articles/why-idaho-matters-to-american-technology.html</guid>
       <description>Idaho is not trying to be Silicon Valley. Its technology story is more physical: chips, reactors, farms, broadband, repair, and the small businesses where new tools either work or fail.</description>
       <pubDate>Mon, 18 May 2026 12:00:00 -0600</pubDate>
+    </item>
+    <item>
+      <title>Micron, Memory, and Idaho’s Place in the Chip Supply Chain</title>
+      <link>https://www.idahostack.com/articles/micron-memory-and-idahos-place-in-the-chip-supply-chain.html</link>
+      <guid>https://www.idahostack.com/articles/micron-memory-and-idahos-place-in-the-chip-supply-chain.html</guid>
+      <description>An archive analysis of Idaho’s place in the memory-chip supply chain. The page displays an updated date; its original publication time has not been verified.</description>
     </item>
   </channel>
 </rss>

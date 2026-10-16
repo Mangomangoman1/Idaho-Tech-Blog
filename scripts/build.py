@@ -13,6 +13,7 @@ The script is idempotent: running it twice produces no further changes.
 import re
 import sys
 import pathlib
+from news_sitemap import render as render_news_sitemap
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 HEADER = (ROOT / "partials" / "header.html").read_text().strip()
@@ -48,6 +49,14 @@ def main():
         else:
             p.write_text(built)
             changed.append(p.relative_to(ROOT))
+    news = ROOT / "news-sitemap.xml"
+    generated = render_news_sitemap()
+    if news.read_text() != generated:
+        if check:
+            stale.append(news.relative_to(ROOT))
+        else:
+            news.write_text(generated)
+            changed.append(news.relative_to(ROOT))
     if check:
         if stale:
             print("Out of date (run `python3 scripts/build.py`):")
