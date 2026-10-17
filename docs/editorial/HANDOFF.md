@@ -49,9 +49,8 @@ home, news and semiconductor desk checks at 320px, 390px and 1440px: no overflow
 broken images or console errors; mobile menus toggle, visible dates/canonicals
 match, and latest links begin October17 then October16. Desktop/article imagery
 and homepage ordering were visually inspected. Browser results are saved in
-[validation-2026-10-17.json](validation-2026-10-17.json); final observations and exact
-release/deployment evidence will be appended after push. A prepared article and
-local response are not by themselves proof of a live public response.
+[validation-2026-10-17.json](validation-2026-10-17.json); release evidence is recorded below. Local responses and successful deployment
+status are not by themselves proof of fresh behavior on the public domain.
 
 Official Google Article, news-sitemap and publication-date guidance reviewed.
 No authenticated Search Console/URL Inspection or Rich Results Test run. No
@@ -59,10 +58,11 @@ Google inclusion, ranking or submitted/accepted sitemap claim.
 
 ## Precise next steps
 
-1. Source/editorial, mobile/desktop and local discovery checks are complete.
-   Fetch/reconcile, push normally, compare exact remote SHA, inspect Vercel status
-   and fresh public article/home/feed/sitemap behavior. Record any current blocker
-   precisely.
+1. Source/editorial, mobile/desktop, local discovery, remote SHA and Vercel
+   status checks are complete. Finish independent fresh public article/home/latest
+   list/feed/image/sitemap checks using an environment with access. No additional
+   deployment is indicated by current evidence; do not mistake a stale web extract
+   for a production failure.
 2. Recheck Micron Day arrangements before October20. If changed, add a substantive
    sourced update with an appropriate modification note; preserve publication date.
 3. Before November2 open registration, look for an actual published timetable,
@@ -76,3 +76,25 @@ Google inclusion, ranking or submitted/accepted sitemap claim.
 No payments, new accounts, subscriptions, tracking, credential/domain/security
 changes, hosting migration, force push or third-party contact were authorized or
 performed. Routine article, source, discovery and validation commits are authorized.
+
+## Release evidence and exact remaining blocker
+
+- Content release [543055264c3c1a80fee9b9cca12243bebc0deca9](https://github.com/Mangomangoman1/Idaho-Tech-Blog/commit/543055264c3c1a80fee9b9cca12243bebc0deca9)
+  was pushed normally to main. `git ls-remote origin refs/heads/main` matched.
+- GitHub's Vercel status for that exact SHA returned success October17 at about
+  15:55 UTC. [Deployment](https://vercel.com/wpbfls-5183s-projects/idaho-tech-blog/7y5QHzqK52RCU7jSmQvHwyuVCrUV).
+  Vercel's configured build runs npm build/check. No new GitHub Actions workflow.
+- Blocked action: fresh public HTTPS validation of
+  https://www.idahostack.com/articles/cwi-micron-day-training-job-path.html and
+  https://www.idahostack.com/feed.xml after deployment. Workspace proxy returned
+  `403 CONNECT tunnel failed` at 15:55 UTC; this is an access failure, not an
+  automatic approval-review denial or a known live-site failure. No request
+  reached a confirmed public application response, so public outcome is unverified.
+- Web retrieval of the article was inaccessible; the homepage extract still showed
+  May content and was unsuitable as fresh deploy evidence. Parent's independent
+  confirmation of October16 remains valid; it does not validate today's article.
+- No current Google index, selected canonical, URL Inspection or Rich Results
+  result was inspected. No inclusion guarantee. No other action awaits approval.
+- This evidence record is a documentation follow-up commit after the content
+  release. Read current remote HEAD for the newest tip. Working tree was clean
+  following the content push; no unrelated change was overwritten.

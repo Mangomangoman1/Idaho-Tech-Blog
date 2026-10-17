@@ -56,3 +56,8 @@ URL Inspection or Rich Results Test was run, and no indexing/inclusion claim is 
 Parent independently verified the October16 article and public feeds after the
 previous workspace proxy block; that release is already reported live. See the
 current handoff for October17 validation and deployment evidence.
+
+October17 content release 5430552 has a successful Vercel status. Fresh article/feed
+HTTPS checks from this workspace returned proxy CONNECT 403; current public
+behavior remains unverified here. Cached May homepage extraction is not a valid
+indicator of today’s deployment. Exact evidence is in the current handoff.
