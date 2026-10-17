@@ -1,6 +1,7 @@
 # Content inventory and maintenance priorities
 
 Read existing articles and mission/about/policy at takeover, October 16, 2026.
+Inventory maintained October 17; new reporting and source review recorded below.
 Old display dates and bylines below are observations, not newly certified history.
 
 | File | Format / displayed history | Evidence and next action |
@@ -11,6 +12,7 @@ Old display dates and bylines below are observations, not newly certified histor
 | articles/data-center-power-idaho-ratepayers.html | Analysis; published May 20; Samuel Torres | NewsArticle; public rate cases, power plans, legislative and other-state sources. Explicitly avoids blaming data centers for a specific rate increase. Follow IPC-E-26-07 for current developments. |
 | articles/idaho-broadband-bead-delivery-deadline.html | Analysis; published May 27; Samuel Torres | NewsArticle; April guidance/June target is historical. Added dated forward link to October follow-up, retaining original account, byline and article timestamps. |
 | articles/idaho-bead-provider-withdrawals-rebid.html | October 16 public-document reporting; The Idaho Stack, AI-assisted | New briefing-based follow-up with inline primary links, stage distinctions, method, uncertainty and original explanatory graphics. See research ledger and handoff for publication evidence. |
+| articles/cwi-micron-day-training-job-path.html | October 17 public-document reporting and analysis; The Idaho Stack, AI-assisted | Compares current certificate/catalog, course sequence, spring registration, employer hiring, cost and locations before Oct20 event. No current vacancy, class-seat or placement guarantee. See October17 ledger/handoff for release state. |
 | briefing-what-were-tracking-first.html | First briefing; updated May 19 | Seven operating beats. Article markup lacks author/publication dates. No invented historical data added. |
 | business-technology-baseline.html | Living resource; updated May 19, index says May 20 | 14-area maturity checklist. TechArticle and FAQPage; not a newly dated news story. Source-sensitive legal/security/vendor claims need evidence when revised. |
 | the-constraint.html | Series introduction | Defines bottlenecks, cost and execution frame; CollectionPage, not a fabricated new reported series installment. |
@@ -41,7 +43,7 @@ Old display dates and bylines below are observations, not newly certified histor
 | Priority | Reader question / angle | Primary lead / verification gate |
 | --- | --- | --- |
 | Now | Which broadband location/provider assignment survived the rebid? | Follow new federal PAC approvals or reconciled state location list. Current piece makes no address-level findings. |
-| Next, before Oct 20 if verified | What can a student actually learn/ask at CWI Micron Day? | https://cwi.edu/news/discover-your-path-high-tech-career-micron-day and https://cwi.edu/academics/career-technical-education/semiconductor-manufacturing-technology — independently confirm 2026 event, place, 4–7:30 time, registration, access and program outcomes/cost before writing. No attendance or job guarantee. |
+| Published topic Oct17; revisit before Oct20/Nov2 | How does a personal course sequence connect to a paid role? | https://cwi.edu/news/discover-your-path-high-tech-career-micron-day and https://cwi.edu/academics/career-technical-education/semiconductor-manufacturing-technology — independently confirm 2026 event, place, 4–7:30 time, registration, access and program outcomes/cost before writing. No attendance or job guarantee. |
 | Next | What does MARVEL safety approval authorize, and what still precedes operation? | https://inl.gov/news-release/marvel-reactor-gets-federal-safety-approval-as-its-primary-vessel-arrives-in-idaho/ — verify Oct 6 date and distinction between approval, vessel arrival, assembly and operation. |
 | Watch | What changed in large-load cost allocation after May? | https://puc.idaho.gov/case/Details/7731 — read new IPC-E-26-07 filings/orders, distinguish proposal from binding order. No allegation of improper cost shifting without evidence and approval. |
 | Research | What irrigation-data change helps an Idaho grower decide? | University of Idaho Extension/IDWR public records; choose a current dated local trial, measurement change or decision. No generic water essay. |

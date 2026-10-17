@@ -57,7 +57,8 @@ piece touching his businesses rather than implying editorial independence from i
    follow-up links to old coverage without silently changing what it originally
    said. Set dateModified only for substantive changes; record material corrections.
 7. Run `npm run build` then `npm run check`. The build injects shared header/footer
-   and regenerates news-sitemap.xml using only NewsArticles published within 48
+   and generates the homepage latest list from original dated article metadata,
+   newest first. It regenerates news-sitemap.xml using only NewsArticles published within 48
    hours, excluding future dates. RSS remains hand-maintained; checks require each
    /articles page in RSS and the normal sitemap. Unknown archival publication times
    must remain unknown; RSS pubDate can be omitted.
@@ -104,8 +105,10 @@ accuracy and useful follow-ups over expanding an unmaintained directory.
 
 ## Next two weeks
 
-Publish the verified broadband follow-up first. Next prioritize the time-sensitive
-CWI workforce event if current verification supports it, then the INL safety/design
-milestone with careful operating-status language. Advance the energy docket only
+The October16 broadband follow-up is live per parent verification. October17
+reporting covers CWI course sequencing and employer hiring before Micron Day;
+recheck the event by October20 and course guidance before November2 registration.
+Next investigate the INL safety/design milestone with careful operating-status
+language. Advance the energy docket only
 on an actual new filing/order. Build remaining backlog items into claim ledgers
 before committing to dates. No interview quota is authorized; outreach needs approval.

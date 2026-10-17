@@ -28,6 +28,9 @@ The publication's longer mission remains `docs/the-idaho-review-roadmap.md`.
 - Run `npm run build` and `npm run check`. Check new/relevant links, mobile and
   desktop rendering, remote SHA, CI/deployment and live public responses before
   claiming publication. Git push alone is not proof of a live deployment.
+- The homepage latest list is generated between its HTML markers from original
+  article publication dates. Add truthful metadata and rebuild; do not hand-order
+  that list or promote an old article by changing its modification time.
 - On every daily run, including a publication hold, rebuild discovery files so
   expired news-sitemap entries are removed. Save results and next steps in the
   handoff. Do not create a duplicate daily automation; parent configured one.

@@ -42,3 +42,17 @@ headers. Use Google's Rich Results Test for markup and URL Inspection/Search Con
 for live fetch, selected canonical, crawl/index state and sitemap submission if an
 existing authorized property is available. None of those authenticated Google
 checks was performed here, and no indexing claim should be made.
+
+## October 17 daily check
+
+Reopened official Article, publication-date and news-sitemap guidance. New CWI
+article uses a genuine October17 timestamp, matching visible date and canonical,
+Organization author, visible AI method, related public sources and original
+representative imagery in three ratios. RSS and normal sitemap updated; news
+sitemap rebuilt. Homepage latest list now generates from original article dates
+and excludes future metadata; old archive dates remain intact. No Search Console,
+URL Inspection or Rich Results Test was run, and no indexing/inclusion claim is made.
+
+Parent independently verified the October16 article and public feeds after the
+previous workspace proxy block; that release is already reported live. See the
+current handoff for October17 validation and deployment evidence.

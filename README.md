@@ -22,4 +22,4 @@ Open `http://localhost:5173`.
 
 Start each daily session with [the handoff](docs/editorial/HANDOFF.md) and [operating rules](docs/editorial/OPERATIONS.md). [Inventory/backlog](docs/editorial/INVENTORY.md) and the [Google publishing audit](docs/editorial/GOOGLE-AUDIT.md) record evidence and limits.
 
-Run `npm run build` and `npm run check` before release. The build also prunes the news sitemap; run it even on quality-hold days. Vercel runs these checks on deployment.
+Run `npm run build` and `npm run check` before release. The build generates the newest-first homepage article list and prunes the news sitemap; run it even on quality-hold days. Vercel runs these checks on deployment.

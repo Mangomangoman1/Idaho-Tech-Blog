@@ -4,6 +4,8 @@
 Injects the canonical site header and footer (from /partials) into every page
 so navigation and footer are defined ONCE and stay consistent across the site.
 
+Also renders the homepage latest list and prunes the optional news sitemap.
+
 Pages opt out simply by not containing a <header> (e.g. redirect stubs).
 The script is idempotent: running it twice produces no further changes.
 
@@ -14,6 +16,7 @@ import re
 import sys
 import pathlib
 from news_sitemap import render as render_news_sitemap
+from homepage_latest import render as render_latest
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 HEADER = (ROOT / "partials" / "header.html").read_text().strip()
@@ -42,6 +45,8 @@ def main():
     for p in pages():
         original = p.read_text()
         built = render(original)
+        if p.name == "index.html":
+            built = render_latest(built)
         if built == original:
             continue
         if check:

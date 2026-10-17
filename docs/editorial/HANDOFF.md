@@ -1,79 +1,78 @@
-# Session handoff — October 16, 2026
-
-## Start here
+# Session handoff — October 17, 2026
 
 Read AGENTS.md, [OPERATIONS.md](OPERATIONS.md), [INVENTORY.md](INVENTORY.md),
-[GOOGLE-AUDIT.md](GOOGLE-AUDIT.md), the original mission roadmap, and the
-[October broadband claim ledger](../research/2026-10-16-bead-provider-withdrawals.md).
-Parent has configured daily recurrence beginning October 17; do not duplicate it.
+[GOOGLE-AUDIT.md](GOOGLE-AUDIT.md) and today's
+[research ledger](../research/2026-10-17-cwi-micron-training-pathways.md).
+Prior session retained in [October16 record](sessions/2026-10-16.md).
+The parent independently verified the October16 article and public feeds after
+this workspace's proxy block; that release is already reported live. Do not
+re-open it as an unresolved publication. Daily recurrence already exists.
 
-## Completed this session
+## Today's reporting decision
 
-- Safely fetched and fast-forward checked verified origin
-  Mangomangoman1/Idaho-Tech-Blog. Initial HEAD/work and origin/main both 4648abe;
-  no prior user edits or divergence. GitHub connector confirms public repo/main.
-- Read all five prior articles, briefing, baseline, Constraint, mission/about/policy
-  and participation pages; inspected hubs/source conventions and deployment scripts.
-- Coordinated with parent's researcher before choosing broadband follow-up.
-  Independently verified the October board book and official FAQs, scoped current
-  knowledge carefully, avoided provider motives, allegations, fabricated outreach
-  and exact contracted-project count.
-- Added articles/idaho-bead-provider-withdrawals-rebid.html, an original public-
-  document piece with a practical location-checking method, honest Organization
-  byline, visible AI disclosure and relevant original process graphic in 3 ratios.
-- Updated homepage/news/desk/RSS/normal sitemap, dated link from May broadband
-  piece, and public AI standards. Historical human credit and article dates retained.
-- News sitemap now generated at build; Vercel build runs normal checks. Added local
-  links, JSON-LD/date/XML/RSS coverage checks and 48-hour/future-date boundary tests.
-- Created durable operating rules, inventory/backlog, source ledger and Google audit.
+Article: **Before Micron Day, Check the Route From CWI Classes to a Paid Job**
 
-## Validation and release state
+Target: https://www.idahostack.com/articles/cwi-micron-day-training-job-path.html
 
-Before commit: npm build/check passed; 3 freshness tests passed; all local links,
-JSON-LD/XML and article RSS/sitemap coverage passed. Playwright/Chromium passed for
-new article, home and news at 390×844 and 1440×1000: no horizontal overflow, broken
-images or browser errors; mobile menu toggles and is visible. Screenshots inspected.
+CWI's October20 event meets the fresh October15 spring-registration announcement.
+Independent reading of the 2026–27 catalog and course descriptions shows why a
+college-wide January start, certificate completion and paid Micron employment
+need separate planning. SMT200/210 are fall-tagged, SMT220/260 spring-tagged;
+SMT260 requires SMT210. Do not claim that spring entry is forbidden, that a new
+January cohort exists, or that any seat, job, aid or pay offer was verified.
+The article also distinguishes Nampa event location from advertised Boise training.
+Sources and institutional/employer claims are attributed, with precise limits.
+No outreach, interview, campus visit, application, quotation or exclusive scoop.
 
-Final commit/push/deployment evidence will be appended below. Do not interpret this
-pre-release note as proof of publication.
+## Repository and implementation
 
-## Open limits and next actions
+Initial work tree clean. Verified origin Mangomangoman1/Idaho-Tech-Blog, default
+main. Fetch and fast-forward check showed no divergence at
+26326072be2b5744b4a6cad7c5266543209e66cf. No concurrent work overwritten.
 
-- Public HTTP checks from this environment hit proxy 403, including an escalated
-  read-only attempt; no direct DNS without proxy. This was an access/network error,
-  not an automatic approval-review denial and not evidence of site downtime.
-- Existing baseline 4648abe had Vercel success via GitHub status. Check new SHA after
-  push. Public fresh HTTP/canonical/indexability checks remain mandatory before
-  reporting the piece as publicly verified; cached web extracts alone do not do it.
-- No authenticated Search Console, live URL Inspection or Rich Results Test run.
-  Do not claim Google inclusion or submitted/accepted sitemap. No accounts created.
-- ArcGIS dashboard address data was not readable. No final replacement-provider,
-  individual address outcome, price or service date is asserted.
-- Review current sources before next piece; CWI Oct20 Micron Day is the next
-  time-sensitive lead. INL MARVEL safety/vessel milestone and IPC-E-26-07 follow.
-- Legacy articles with “Sources to verify,” missing bylines/dates or logo images
-  remain queued; do not invent or silently certify historical authorship/facts.
-- Static news sitemap ages without rebuild. Daily hold runs must prune/push as
-  necessary; quality takes precedence over article quota.
+- Added the sourced article, truthful Organization byline, AI method, original
+  planning graphics (16:9, 4:3 and 1:1), date/canonical/NewsArticle and related links.
+- Updated home lead, news index, semiconductor desk, RSS and normal sitemap.
+- Confirmed the separate homepage latest list omitted October16 and began in May.
+  Build now generates its bounded five-article list from original publication
+  metadata, newest first, excluding future and unknown publication times. Other
+  resources remain accessible through the archive/navigation and existing sections.
+- Added regression coverage for date ordering, future exclusion, modification-date
+  independence and safe bounded rendering. Build/check remains stdlib-only.
+- Updated standards/operations/inventory and preserved source evidence and decisions.
 
-## Release evidence
+## Checks and release state
 
-- Content/infrastructure release: `b5a4bc5d74bcc3d81a3b0ef59a5bb9820c1975a0`
-  ([GitHub commit](https://github.com/Mangomangoman1/Idaho-Tech-Blog/commit/b5a4bc5d74bcc3d81a3b0ef59a5bb9820c1975a0)).
-  Normal push main succeeded and `git ls-remote origin refs/heads/main` matched.
-- GitHub's Vercel status for that exact SHA returned `success` on October 16,
-  approximately 07:06 UTC. [Deployment status](https://vercel.com/wpbfls-5183s-projects/idaho-tech-blog/39pByUS1NLveHriFSfpf3V2LhGBn).
-  No GitHub Actions check-runs existed on the original baseline; the deployment
-  status and local tests are the available CI evidence.
-- Article target: https://www.idahostack.com/articles/idaho-bead-provider-withdrawals-rebid.html
-- Post-deploy read-only curl checks of that article and apex domain at 07:06 UTC
-  still returned `CONNECT tunnel failed, response 403` from the workspace proxy.
-  Public verification remains blocked by network access; outcome on the live
-  domain is unverified here, not known to have failed. Web retrieval of the new
-  URL also returned inaccessible. Do not call the release publicly verified.
-- No outreach, spending, new account, subscription, credentials, domain/security
-  setting or tracking change occurred. No force push or overwritten user work.
-- This release-record update is a separate documentation commit after the content
-  release. Inspect the remote HEAD for its latest SHA rather than assuming the
-  content release remains tip. The next operator should finish fresh public checks
-  first, then work the next verified reporting lead.
+`npm run build`, `npm run check` and `git diff --check` passed during preparation;
+five date/discovery regression tests passed. Playwright/Chromium passed article,
+home, news and semiconductor desk checks at 320px, 390px and 1440px: no overflow,
+broken images or console errors; mobile menus toggle, visible dates/canonicals
+match, and latest links begin October17 then October16. Desktop/article imagery
+and homepage ordering were visually inspected. Browser results are saved in
+[validation-2026-10-17.json](validation-2026-10-17.json); final observations and exact
+release/deployment evidence will be appended after push. A prepared article and
+local response are not by themselves proof of a live public response.
+
+Official Google Article, news-sitemap and publication-date guidance reviewed.
+No authenticated Search Console/URL Inspection or Rich Results Test run. No
+Google inclusion, ranking or submitted/accepted sitemap claim.
+
+## Precise next steps
+
+1. Source/editorial, mobile/desktop and local discovery checks are complete.
+   Fetch/reconcile, push normally, compare exact remote SHA, inspect Vercel status
+   and fresh public article/home/feed/sitemap behavior. Record any current blocker
+   precisely.
+2. Recheck Micron Day arrangements before October20. If changed, add a substantive
+   sourced update with an appropriate modification note; preserve publication date.
+3. Before November2 open registration, look for an actual published timetable,
+   cohort posting or advising document. No automatic January SMT-cohort inference.
+4. Next distinct beat: investigate INL's October6 MARVEL safety/vessel milestone
+   from primary records, separating authorization/assembly from operating status.
+   Then watch IPC-E-26-07 for actual new orders/filings; do not recycle May analysis.
+5. Rebuild discovery on quality-hold days. October16 news metadata must expire on
+   the next build after its original 48h window; no publication-date refresh.
+
+No payments, new accounts, subscriptions, tracking, credential/domain/security
+changes, hosting migration, force push or third-party contact were authorized or
+performed. Routine article, source, discovery and validation commits are authorized.
