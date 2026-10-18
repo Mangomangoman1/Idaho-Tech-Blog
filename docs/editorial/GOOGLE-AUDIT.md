@@ -75,3 +75,8 @@ Parent confirmed October 17 release 0068e05 is live with public metadata, home, 
 sitemaps and image checked at 15:58 UTC. Prior workspace-network notes do not negate
 that confirmation. Today's exact remote/deployment/public result goes in handoff.
 No authenticated Search Console, URL Inspection or Rich Results Test is claimed.
+
+October 18 content release 552a7b4 has a successful Vercel status and matching
+remote SHA. Fresh article/news-sitemap HTTPS requests remain blocked by the
+workspace proxy (CONNECT 403). Current public behavior requires independent
+verification; exact actions and outcome are in the current handoff.

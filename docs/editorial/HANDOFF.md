@@ -56,9 +56,9 @@ later public confirmation and its relative document links repaired for archive.
 ## Checks and release state
 
 Build/check and five date/discovery regression tests passed during preparation.
-Playwright/Chromium passed article/home/news/energy-desk checks at 320px,390px
-and1440px (12 cases): no overflow, broken images or console errors; mobile menus
-toggle, date/canonical match and latest ordering begins October 18,17,16. Desktop,
+Playwright/Chromium passed article/home/news/energy-desk checks at 320px, 390px
+and 1440px (12 cases): no overflow, broken images or console errors; mobile menus
+toggle, date/canonical match and latest ordering begins October 18, 17, 16. Desktop,
 mobile and original artwork were visually reviewed. Browser observations are in
 [validation-2026-10-18.json](validation-2026-10-18.json). Final exact
 release/deployment evidence will be recorded below. A prepared article/local response/successful deployment is not alone proof
@@ -67,9 +67,10 @@ Test run; no indexing or Google News inclusion claim.
 
 ## Next steps
 
-1. Finish editorial/visual/discovery checks, fetch/reconcile, commit/push normally,
-   compare exact remote SHA, confirm Vercel and attempt fresh public checks. Parent
-   can verify independently if this workspace proxy blocks the public origin.
+1. Local editorial/visual/discovery, remote SHA and Vercel checks are complete.
+   Finish independent fresh public article/home/RSS/sitemap/image verification
+   using an environment with origin access. Parent can verify; do not equate the
+   workspace proxy rejection with an application failure.
 2. Follow actual MARVEL dry-test completion/data, public safety-document release,
    clarified schedule or final end-user plans. Keep physics, heat/electricity and
    commercial deployment as separate evidence stages; never refresh date for quota.
@@ -82,3 +83,25 @@ Test run; no indexing or Google News inclusion claim.
 
 No outreach, accounts, payments/subscriptions, sensitive disclosures, security/
 domain/tracking changes, hosting migration, force push or bypassed protections.
+
+## Release evidence and current public-check limit
+
+- Content release [552a7b4c3b997c259adac2477d6cd89b343fa842](https://github.com/Mangomangoman1/Idaho-Tech-Blog/commit/552a7b4c3b997c259adac2477d6cd89b343fa842)
+  pushed normally to main; remote `git ls-remote` matched the exact local SHA.
+- GitHub Vercel context for that SHA returned success on October 18 about 15:23
+  UTC. [Deployment status](https://vercel.com/wpbfls-5183s-projects/idaho-tech-blog/FUQqgDPpgV4NkMKgyuUNtKm1hHwa).
+  Configured Vercel build runs normal npm build/check; no new CI workflow.
+- Exact blocked actions: fresh HTTPS requests to
+  https://www.idahostack.com/articles/marvel-idaho-dry-criticality-physics-test.html
+  and https://www.idahostack.com/news-sitemap.xml after deployment. At 15:23 UTC
+  the workspace proxy returned `403 CONNECT tunnel failed`; no confirmed public
+  application response was reached. Web retrieval of the new article was also
+  inaccessible. Current public behavior is unverified here, not known failed.
+- This is a network access error, not an automatic approval-review denial. No
+  restricted action awaits approval. Prior parent confirmations remain valid.
+- No full safety-analysis access, signed authorization inspection, measured output
+  or final experiment agreement was verified; claims use attributed public sources.
+  No Search Console, URL Inspection, Rich Results Test or Google indexing claim.
+- This release-record update follows the content commit as a documentation commit.
+  Inspect current remote HEAD for the latest tip; publication facts/code remain
+  those of the content release.
