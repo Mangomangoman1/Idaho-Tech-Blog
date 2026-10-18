@@ -105,10 +105,13 @@ accuracy and useful follow-ups over expanding an unmaintained directory.
 
 ## Next two weeks
 
-The October16 broadband follow-up is live per parent verification. October17
-reporting covers CWI course sequencing and employer hiring before Micron Day;
-recheck the event by October20 and course guidance before November2 registration.
-Next investigate the INL safety/design milestone with careful operating-status
-language. Advance the energy docket only
-on an actual new filing/order. Build remaining backlog items into claim ledgers
-before committing to dates. No interview quota is authorized; outreach needs approval.
+The October 16 broadband and October 17 CWI pieces are live per parent verification.
+October 17 reporting covers CWI course sequencing and employer hiring before Micron Day;
+recheck the event by October 20 and course guidance before November2 registration.
+October 18 reporting explains MARVEL's dry physics milestone and distinct thermal/
+end-use tests. Follow dated completion data and public schedule clarification,
+without claiming full operation or commercial supply. A newer transformer shake-
+test lead should advance with released results and primary supply-chain evidence.
+Advance the energy docket only on an actual new filing/order, not its update date.
+Build remaining backlog items into claim ledgers before committing to dates. No
+interview quota is authorized; outreach needs approval.

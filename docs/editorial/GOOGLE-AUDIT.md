@@ -46,18 +46,32 @@ checks was performed here, and no indexing claim should be made.
 ## October 17 daily check
 
 Reopened official Article, publication-date and news-sitemap guidance. New CWI
-article uses a genuine October17 timestamp, matching visible date and canonical,
+article uses a genuine October 17 timestamp, matching visible date and canonical,
 Organization author, visible AI method, related public sources and original
 representative imagery in three ratios. RSS and normal sitemap updated; news
 sitemap rebuilt. Homepage latest list now generates from original article dates
 and excludes future metadata; old archive dates remain intact. No Search Console,
 URL Inspection or Rich Results Test was run, and no indexing/inclusion claim is made.
 
-Parent independently verified the October16 article and public feeds after the
+Parent independently verified the October 16 article and public feeds after the
 previous workspace proxy block; that release is already reported live. See the
-current handoff for October17 validation and deployment evidence.
+current handoff for October 17 validation and deployment evidence.
 
-October17 content release 5430552 has a successful Vercel status. Fresh article/feed
+October 17 content release 5430552 has a successful Vercel status. Fresh article/feed
 HTTPS checks from this workspace returned proxy CONNECT 403; current public
 behavior remains unverified here. Cached May homepage extraction is not a valid
 indicator of today’s deployment. Exact evidence is in the current handoff.
+
+## October 18 daily publishing check
+
+Official Article and news-sitemap guidance reopened. New MARVEL report uses an
+honest Organization author/AI method, current publication timestamp and matching
+visible date/canonical/JSON-LD, plus original representative graphics in3 ratios.
+Homepage latest list is generated; RSS/news index/energy desk and normal sitemap
+updated. Build expires October 16 metadata from news sitemap without changing its
+article date or removing its RSS/normal sitemap/archive record.
+
+Parent confirmed October 17 release 0068e05 is live with public metadata, home, feed,
+sitemaps and image checked at 15:58 UTC. Prior workspace-network notes do not negate
+that confirmation. Today's exact remote/deployment/public result goes in handoff.
+No authenticated Search Console, URL Inspection or Rich Results Test is claimed.

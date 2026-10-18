@@ -1,100 +1,84 @@
-# Session handoff — October 17, 2026
+# Session handoff — October 18, 2026
 
 Read AGENTS.md, [OPERATIONS.md](OPERATIONS.md), [INVENTORY.md](INVENTORY.md),
-[GOOGLE-AUDIT.md](GOOGLE-AUDIT.md) and today's
-[research ledger](../research/2026-10-17-cwi-micron-training-pathways.md).
-Prior session retained in [October16 record](sessions/2026-10-16.md).
-The parent independently verified the October16 article and public feeds after
-this workspace's proxy block; that release is already reported live. Do not
-re-open it as an unresolved publication. Daily recurrence already exists.
+[GOOGLE-AUDIT.md](GOOGLE-AUDIT.md), and the
+[MARVEL evidence/decision ledger](../research/2026-10-18-marvel-physics-testing.md).
+Previous session: [October 17](sessions/2026-10-17.md).
+
+## Continuity and authority
+
+October 16 broadband and October 17 CWI articles are live, independently confirmed
+by the parent. For October 17, parent verified remote main 0068e05, Vercel success,
+fresh public article/NewsArticle/canonical/dates, latest ordering, RSS, sitemaps
+and image at 15:58 UTC. The user's single notification is already complete.
+Do not reopen those releases as unresolved. Google indexing remains unverified.
+Daily recurrence exists; no duplicate automation is needed. This session is the
+sole writer and has authorized routine article edits/checks/normal main pushes.
 
 ## Today's reporting decision
 
-Article: **Before Micron Day, Check the Route From CWI Classes to a Paid Job**
+**MARVEL’s Safety Approval Sets Up a Physics Test in Idaho**
 
-Target: https://www.idahostack.com/articles/cwi-micron-day-training-job-path.html
+Target: https://www.idahostack.com/articles/marvel-idaho-dry-criticality-physics-test.html
 
-CWI's October20 event meets the fresh October15 spring-registration announcement.
-Independent reading of the 2026–27 catalog and course descriptions shows why a
-college-wide January start, certificate completion and paid Micron employment
-need separate planning. SMT200/210 are fall-tagged, SMT220/260 spring-tagged;
-SMT260 requires SMT210. Do not claim that spring entry is forbidden, that a new
-January cohort exists, or that any seat, job, aid or pay offer was verified.
-The article also distinguishes Nampa event location from advertised Boise training.
-Sources and institutional/employer claims are attributed, with precise limits.
-No outreach, interview, campus visit, application, quotation or exclusive scoop.
+Distinct eastern Idaho report on the October 6 announcement, grounded further in
+DOE/INL project documents and April 2025 fabrication/testing report. Explains what
+non-nuclear thermal testing, dry criticality physics and later end-use experiments
+can establish. Criticality isn't a power-output or commercial-readiness measure.
+Current design figures from DOE/INL are 85 kW thermal/~10 kW electrical, not measured
+production. Initial end-user selections are proposals/feasibility work, not proven
+commercial service. No power-bill, commercial-cost or grid-capacity promise.
+
+Schedule forecasts differ: October 6 release anticipates December criticality;
+DOE/INL project FAQs reviewed today list 2027 dry/2028 full power. Article states
+both and supplies no firm startup date. Full approved safety analysis was not
+accessed or independently assessed. Registration/contact would be required; no
+account, access request, interview or third-party outreach was initiated.
+
+Compared alternative October 14 transformer test news and IPC-E-26-07. Transformer
+results/publications remain a lead; a docket update date alone is not a decision.
+Detailed selection and claim limits are in the source ledger.
 
 ## Repository and implementation
 
-Initial work tree clean. Verified origin Mangomangoman1/Idaho-Tech-Blog, default
-main. Fetch and fast-forward check showed no divergence at
-26326072be2b5744b4a6cad7c5266543209e66cf. No concurrent work overwritten.
+Clean checkout at 0068e05f3391e14e4d6ca3615923a98dce0658f7. Origin verified as
+Mangomangoman1/Idaho-Tech-Blog, main. Fetch/ff-only check showed no divergence.
+Workspace .agents/.codex empty; root AGENTS instructions read. No unrelated work.
 
-- Added the sourced article, truthful Organization byline, AI method, original
-  planning graphics (16:9, 4:3 and 1:1), date/canonical/NewsArticle and related links.
-- Updated home lead, news index, semiconductor desk, RSS and normal sitemap.
-- Confirmed the separate homepage latest list omitted October16 and began in May.
-  Build now generates its bounded five-article list from original publication
-  metadata, newest first, excluding future and unknown publication times. Other
-  resources remain accessible through the archive/navigation and existing sections.
-- Added regression coverage for date ordering, future exclusion, modification-date
-  independence and safe bounded rendering. Build/check remains stdlib-only.
-- Updated standards/operations/inventory and preserved source evidence and decisions.
+New article, truthful Organization byline, visible AI method, real publication
+metadata/canonical and original educational graphics in 16:9,4:3,1:1. Updated
+home lead, generated latest list, news index, energy desk, RSS and normal sitemap.
+News build prunes October 16's expired 48-hour metadata; original article/date remains
+in RSS and full sitemap. No publishing-system redesign or new dependency.
+Inventory/backlog/Google audit updated; October 17 record archived with parent's
+later public confirmation and its relative document links repaired for archive.
 
 ## Checks and release state
 
-`npm run build`, `npm run check` and `git diff --check` passed during preparation;
-five date/discovery regression tests passed. Playwright/Chromium passed article,
-home, news and semiconductor desk checks at 320px, 390px and 1440px: no overflow,
-broken images or console errors; mobile menus toggle, visible dates/canonicals
-match, and latest links begin October17 then October16. Desktop/article imagery
-and homepage ordering were visually inspected. Browser results are saved in
-[validation-2026-10-17.json](validation-2026-10-17.json); release evidence is recorded below. Local responses and successful deployment
-status are not by themselves proof of fresh behavior on the public domain.
+Build/check and five date/discovery regression tests passed during preparation.
+Playwright/Chromium passed article/home/news/energy-desk checks at 320px,390px
+and1440px (12 cases): no overflow, broken images or console errors; mobile menus
+toggle, date/canonical match and latest ordering begins October 18,17,16. Desktop,
+mobile and original artwork were visually reviewed. Browser observations are in
+[validation-2026-10-18.json](validation-2026-10-18.json). Final exact
+release/deployment evidence will be recorded below. A prepared article/local response/successful deployment is not alone proof
+of fresh public domain behavior. No Search Console/URL Inspection/Rich Results
+Test run; no indexing or Google News inclusion claim.
 
-Official Google Article, news-sitemap and publication-date guidance reviewed.
-No authenticated Search Console/URL Inspection or Rich Results Test run. No
-Google inclusion, ranking or submitted/accepted sitemap claim.
+## Next steps
 
-## Precise next steps
+1. Finish editorial/visual/discovery checks, fetch/reconcile, commit/push normally,
+   compare exact remote SHA, confirm Vercel and attempt fresh public checks. Parent
+   can verify independently if this workspace proxy blocks the public origin.
+2. Follow actual MARVEL dry-test completion/data, public safety-document release,
+   clarified schedule or final end-user plans. Keep physics, heat/electricity and
+   commercial deployment as separate evidence stages; never refresh date for quota.
+3. Investigate transformer results/DOE supply chain or a concrete water decision
+   for another beat. Do not infer local utility weaknesses without evidence.
+4. Recheck CWI Oct20 event before travel information changes; before Nov2 seek
+   actual spring timetable or cohort postings. No January SMT-start guarantee.
+5. Review IPC-E-26-07 on new filings/orders. Keep dates and proposals distinct from
+   binding approvals and current customer bills.
 
-1. Source/editorial, mobile/desktop, local discovery, remote SHA and Vercel
-   status checks are complete. Finish independent fresh public article/home/latest
-   list/feed/image/sitemap checks using an environment with access. No additional
-   deployment is indicated by current evidence; do not mistake a stale web extract
-   for a production failure.
-2. Recheck Micron Day arrangements before October20. If changed, add a substantive
-   sourced update with an appropriate modification note; preserve publication date.
-3. Before November2 open registration, look for an actual published timetable,
-   cohort posting or advising document. No automatic January SMT-cohort inference.
-4. Next distinct beat: investigate INL's October6 MARVEL safety/vessel milestone
-   from primary records, separating authorization/assembly from operating status.
-   Then watch IPC-E-26-07 for actual new orders/filings; do not recycle May analysis.
-5. Rebuild discovery on quality-hold days. October16 news metadata must expire on
-   the next build after its original 48h window; no publication-date refresh.
-
-No payments, new accounts, subscriptions, tracking, credential/domain/security
-changes, hosting migration, force push or third-party contact were authorized or
-performed. Routine article, source, discovery and validation commits are authorized.
-
-## Release evidence and exact remaining blocker
-
-- Content release [543055264c3c1a80fee9b9cca12243bebc0deca9](https://github.com/Mangomangoman1/Idaho-Tech-Blog/commit/543055264c3c1a80fee9b9cca12243bebc0deca9)
-  was pushed normally to main. `git ls-remote origin refs/heads/main` matched.
-- GitHub's Vercel status for that exact SHA returned success October17 at about
-  15:55 UTC. [Deployment](https://vercel.com/wpbfls-5183s-projects/idaho-tech-blog/7y5QHzqK52RCU7jSmQvHwyuVCrUV).
-  Vercel's configured build runs npm build/check. No new GitHub Actions workflow.
-- Blocked action: fresh public HTTPS validation of
-  https://www.idahostack.com/articles/cwi-micron-day-training-job-path.html and
-  https://www.idahostack.com/feed.xml after deployment. Workspace proxy returned
-  `403 CONNECT tunnel failed` at 15:55 UTC; this is an access failure, not an
-  automatic approval-review denial or a known live-site failure. No request
-  reached a confirmed public application response, so public outcome is unverified.
-- Web retrieval of the article was inaccessible; the homepage extract still showed
-  May content and was unsuitable as fresh deploy evidence. Parent's independent
-  confirmation of October16 remains valid; it does not validate today's article.
-- No current Google index, selected canonical, URL Inspection or Rich Results
-  result was inspected. No inclusion guarantee. No other action awaits approval.
-- This evidence record is a documentation follow-up commit after the content
-  release. Read current remote HEAD for the newest tip. Working tree was clean
-  following the content push; no unrelated change was overwritten.
+No outreach, accounts, payments/subscriptions, sensitive disclosures, security/
+domain/tracking changes, hosting migration, force push or bypassed protections.

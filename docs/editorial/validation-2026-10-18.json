@@ -1,0 +1,158 @@
+[
+  {
+    "width": 320,
+    "scrollWidth": 320,
+    "h1": "MARVEL\u2019s Safety Approval Sets Up a Physics Test in Idaho",
+    "brokenImages": [],
+    "canonical": "https://www.idahostack.com/articles/marvel-idaho-dry-criticality-physics-test.html",
+    "viewport": "small-mobile",
+    "path": "/articles/marvel-idaho-dry-criticality-physics-test.html",
+    "status": 200,
+    "errors": []
+  },
+  {
+    "width": 320,
+    "scrollWidth": 320,
+    "h1": "Idaho technology news, analysis, and field intelligence.",
+    "brokenImages": [],
+    "canonical": "https://www.idahostack.com/",
+    "viewport": "small-mobile",
+    "path": "/",
+    "status": 200,
+    "errors": [],
+    "latestLinks": [
+      "/articles/marvel-idaho-dry-criticality-physics-test.html",
+      "/articles/cwi-micron-day-training-job-path.html",
+      "/articles/idaho-bead-provider-withdrawals-rebid.html",
+      "/articles/idaho-broadband-bead-delivery-deadline.html",
+      "/articles/data-center-power-idaho-ratepayers.html",
+      "/news.html"
+    ]
+  },
+  {
+    "width": 320,
+    "scrollWidth": 320,
+    "h1": "Reporting on the systems Idaho is actually building.",
+    "brokenImages": [],
+    "canonical": "https://www.idahostack.com/news.html",
+    "viewport": "small-mobile",
+    "path": "/news.html",
+    "status": 200,
+    "errors": []
+  },
+  {
+    "width": 320,
+    "scrollWidth": 320,
+    "h1": "Idaho\u2019s energy future is being decided in load forecasts, not slogans.",
+    "brokenImages": [],
+    "canonical": "https://www.idahostack.com/energy-nuclear.html",
+    "viewport": "small-mobile",
+    "path": "/energy-nuclear.html",
+    "status": 200,
+    "errors": []
+  },
+  {
+    "width": 390,
+    "scrollWidth": 390,
+    "h1": "MARVEL\u2019s Safety Approval Sets Up a Physics Test in Idaho",
+    "brokenImages": [],
+    "canonical": "https://www.idahostack.com/articles/marvel-idaho-dry-criticality-physics-test.html",
+    "viewport": "mobile",
+    "path": "/articles/marvel-idaho-dry-criticality-physics-test.html",
+    "status": 200,
+    "errors": []
+  },
+  {
+    "width": 390,
+    "scrollWidth": 390,
+    "h1": "Idaho technology news, analysis, and field intelligence.",
+    "brokenImages": [],
+    "canonical": "https://www.idahostack.com/",
+    "viewport": "mobile",
+    "path": "/",
+    "status": 200,
+    "errors": [],
+    "latestLinks": [
+      "/articles/marvel-idaho-dry-criticality-physics-test.html",
+      "/articles/cwi-micron-day-training-job-path.html",
+      "/articles/idaho-bead-provider-withdrawals-rebid.html",
+      "/articles/idaho-broadband-bead-delivery-deadline.html",
+      "/articles/data-center-power-idaho-ratepayers.html",
+      "/news.html"
+    ]
+  },
+  {
+    "width": 390,
+    "scrollWidth": 390,
+    "h1": "Reporting on the systems Idaho is actually building.",
+    "brokenImages": [],
+    "canonical": "https://www.idahostack.com/news.html",
+    "viewport": "mobile",
+    "path": "/news.html",
+    "status": 200,
+    "errors": []
+  },
+  {
+    "width": 390,
+    "scrollWidth": 390,
+    "h1": "Idaho\u2019s energy future is being decided in load forecasts, not slogans.",
+    "brokenImages": [],
+    "canonical": "https://www.idahostack.com/energy-nuclear.html",
+    "viewport": "mobile",
+    "path": "/energy-nuclear.html",
+    "status": 200,
+    "errors": []
+  },
+  {
+    "width": 1440,
+    "scrollWidth": 1440,
+    "h1": "MARVEL\u2019s Safety Approval Sets Up a Physics Test in Idaho",
+    "brokenImages": [],
+    "canonical": "https://www.idahostack.com/articles/marvel-idaho-dry-criticality-physics-test.html",
+    "viewport": "desktop",
+    "path": "/articles/marvel-idaho-dry-criticality-physics-test.html",
+    "status": 200,
+    "errors": []
+  },
+  {
+    "width": 1440,
+    "scrollWidth": 1440,
+    "h1": "Idaho technology news, analysis, and field intelligence.",
+    "brokenImages": [],
+    "canonical": "https://www.idahostack.com/",
+    "viewport": "desktop",
+    "path": "/",
+    "status": 200,
+    "errors": [],
+    "latestLinks": [
+      "/articles/marvel-idaho-dry-criticality-physics-test.html",
+      "/articles/cwi-micron-day-training-job-path.html",
+      "/articles/idaho-bead-provider-withdrawals-rebid.html",
+      "/articles/idaho-broadband-bead-delivery-deadline.html",
+      "/articles/data-center-power-idaho-ratepayers.html",
+      "/news.html"
+    ]
+  },
+  {
+    "width": 1440,
+    "scrollWidth": 1440,
+    "h1": "Reporting on the systems Idaho is actually building.",
+    "brokenImages": [],
+    "canonical": "https://www.idahostack.com/news.html",
+    "viewport": "desktop",
+    "path": "/news.html",
+    "status": 200,
+    "errors": []
+  },
+  {
+    "width": 1440,
+    "scrollWidth": 1440,
+    "h1": "Idaho\u2019s energy future is being decided in load forecasts, not slogans.",
+    "brokenImages": [],
+    "canonical": "https://www.idahostack.com/energy-nuclear.html",
+    "viewport": "desktop",
+    "path": "/energy-nuclear.html",
+    "status": 200,
+    "errors": []
+  }
+]
