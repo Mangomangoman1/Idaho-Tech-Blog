@@ -1,107 +1,74 @@
-# Session handoff — October 18, 2026
+# Session handoff — October 19, 2026
 
 Read AGENTS.md, [OPERATIONS.md](OPERATIONS.md), [INVENTORY.md](INVENTORY.md),
-[GOOGLE-AUDIT.md](GOOGLE-AUDIT.md), and the
-[MARVEL evidence/decision ledger](../research/2026-10-18-marvel-physics-testing.md).
-Previous session: [October 17](sessions/2026-10-17.md).
+[GOOGLE-AUDIT.md](GOOGLE-AUDIT.md) and the
+[well-survey evidence ledger](../research/2026-10-19-treasure-valley-well-survey.md).
+Previous session: [October 18](sessions/2026-10-18.md).
 
 ## Continuity and authority
 
-October 16 broadband and October 17 CWI articles are live, independently confirmed
-by the parent. For October 17, parent verified remote main 0068e05, Vercel success,
-fresh public article/NewsArticle/canonical/dates, latest ordering, RSS, sitemaps
-and image at 15:58 UTC. The user's single notification is already complete.
-Do not reopen those releases as unresolved. Google indexing remains unverified.
-Daily recurrence exists; no duplicate automation is needed. This session is the
-sole writer and has authorized routine article edits/checks/normal main pushes.
+Sole writer for authorized routine publication/checks/normal pushes. Existing daily
+recurrence remains; do not create another. October16/17 releases were independently
+public-verified by parent; October18 remote/Vercel success is recorded in archive,
+while this environment’s fresh public check remained proxy-blocked. No new parent
+confirmation for October18 was received in this session. Google indexing unknown.
 
-## Today's reporting decision
+## Today's story
 
-**MARVEL’s Safety Approval Sets Up a Physics Test in Idaho**
+**Idaho’s Expanded Well Survey Targets Gaps in Treasure Valley’s Water Map**
 
-Target: https://www.idahostack.com/articles/marvel-idaho-dry-criticality-physics-test.html
+Target: https://www.idahostack.com/articles/treasure-valley-well-survey-water-map.html
 
-Distinct eastern Idaho report on the October 6 announcement, grounded further in
-DOE/INL project documents and April 2025 fabrication/testing report. Explains what
-non-nuclear thermal testing, dry criticality physics and later end-use experiments
-can establish. Criticality isn't a power-output or commercial-readiness measure.
-Current design figures from DOE/INL are 85 kW thermal/~10 kW electrical, not measured
-production. Initial end-user selections are proposals/feasibility work, not proven
-commercial service. No power-bill, commercial-cost or grid-capacity promise.
+Distinct water beat: September survey notice plus June/March technical committee
+records identify spatial and depth gaps, especially south of Lake Lowell. Explains
+private-well permission, collection/maintenance responsibilities, reading dates and
+references, public data access and the model’s dated $1.15m combined budget. The
+budget is not spending or a survey-only bill. Hypothetical numeric illustration
+clearly differs from actual data. No new aquifer trend/individual prognosis claimed.
 
-Schedule forecasts differ: October 6 release anticipates December criticality;
-DOE/INL project FAQs reviewed today list 2027 dry/2028 full power. Article states
-both and supplies no firm startup date. Full approved safety analysis was not
-accessed or independently assessed. Registration/contact would be required; no
-account, access request, interview or third-party outreach was initiated.
+Scheduled Sept28–Oct9 field window has passed; completion counts/new readings were
+not verified. State portal yielded no readable dataset through extraction. Repeat
+visits are planned spring/fall2027. Release and technical plans are reported in
+their own terms, with no claim all400 wells were measured. All source/method and
+next-evidence details live in the ledger; no invented interview/firsthand work.
 
-Compared alternative October 14 transformer test news and IPC-E-26-07. Transformer
-results/publications remain a lead; a docket update date alone is not a decision.
-Detailed selection and claim limits are in the source ledger.
+## Sync and implementation
 
-## Repository and implementation
+Verified origin Mangomangoman1/Idaho-Tech-Blog, main. Clean workspace branch work
+at 3a04f8395754b6d083934d6c4f44321d6b2416eb; fetch/prune showed0divergence and
+ff-only sync was already current. Root AGENTS/continuity and current articles read;
+.agents/.codex empty. No unrelated work, dependency or publishing-system change.
 
-Clean checkout at 0068e05f3391e14e4d6ca3615923a98dce0658f7. Origin verified as
-Mangomangoman1/Idaho-Tech-Blog, main. Fetch/ff-only check showed no divergence.
-Workspace .agents/.codex empty; root AGENTS instructions read. No unrelated work.
+New article, Organization author/visibleAI disclosure, genuine Oct19 timestamp,
+canonical/NewsArticle and original16:9/4:3/1:1 illustration. Updated lead, generated
+latest list, news index, water desk, RSS and normal sitemap. News sitemap includes
+only original dates within48hours at build; Oct17 CWI remains eligible until
+09:52:21MDT today, then next build must remove its news metadata. Older archive,
+RSS and full sitemap remain. Inventory/backlog/operations updated; Oct18 archived.
 
-New article, truthful Organization byline, visible AI method, real publication
-metadata/canonical and original educational graphics in 16:9,4:3,1:1. Updated
-home lead, generated latest list, news index, energy desk, RSS and normal sitemap.
-News build prunes October 16's expired 48-hour metadata; original article/date remains
-in RSS and full sitemap. No publishing-system redesign or new dependency.
-Inventory/backlog/Google audit updated; October 17 record archived with parent's
-later public confirmation and its relative document links repaired for archive.
+## Validation and release state
 
-## Checks and release state
+Build/check and five date/discovery regression tests passed. Chromium/Playwright
+passed12article/home/news/water-desk cases at320/390/1440px: no overflow, broken
+images or page errors; mobile menus work, byline/date/canonical match and latest
+order begins Oct19/18/17. Visual review covered mobile/desktop and artwork.
+[Browser observations](validation-2026-10-19.json). Final release evidence follows
+after push/deployment verification. No Search Console/URL Inspection/Rich Results
+Test or Google News/indexing guarantee.
 
-Build/check and five date/discovery regression tests passed during preparation.
-Playwright/Chromium passed article/home/news/energy-desk checks at 320px, 390px
-and 1440px (12 cases): no overflow, broken images or console errors; mobile menus
-toggle, date/canonical match and latest ordering begins October 18, 17, 16. Desktop,
-mobile and original artwork were visually reviewed. Browser observations are in
-[validation-2026-10-18.json](validation-2026-10-18.json). Final exact
-release/deployment evidence will be recorded below. A prepared article/local response/successful deployment is not alone proof
-of fresh public domain behavior. No Search Console/URL Inspection/Rich Results
-Test run; no indexing or Google News inclusion claim.
+## Next session
 
-## Next steps
+1. Verify fresh public article/home/latest/RSS/sitemaps/images if this environment
+   still cannot reach the domain. Parent can independently fetch; do not claim live
+   based solely on git push or a successful Vercel status.
+2. Water follow-up requires actual study dataset/coverage or repeat measurements,
+   not this notice again. No evidence for a new decline or recharge-storage total.
+3. Recheck CWI Oct20 event for material changes; before Nov2 seek current timetable
+   or hiring cohort. Keep certificate sequence and paid-job eligibility distinct.
+4. Follow MARVEL actual test/data and schedule clarification, transformer released
+   results, or actual large-load docket filings/orders; no update-date-only story.
+5. Rebuild discovery every daily run, including a quality hold. Rotate geography
+   and beats as evidence allows; preserve honest legacy dates and human bylines.
 
-1. Local editorial/visual/discovery, remote SHA and Vercel checks are complete.
-   Finish independent fresh public article/home/RSS/sitemap/image verification
-   using an environment with origin access. Parent can verify; do not equate the
-   workspace proxy rejection with an application failure.
-2. Follow actual MARVEL dry-test completion/data, public safety-document release,
-   clarified schedule or final end-user plans. Keep physics, heat/electricity and
-   commercial deployment as separate evidence stages; never refresh date for quota.
-3. Investigate transformer results/DOE supply chain or a concrete water decision
-   for another beat. Do not infer local utility weaknesses without evidence.
-4. Recheck CWI Oct20 event before travel information changes; before Nov2 seek
-   actual spring timetable or cohort postings. No January SMT-start guarantee.
-5. Review IPC-E-26-07 on new filings/orders. Keep dates and proposals distinct from
-   binding approvals and current customer bills.
-
-No outreach, accounts, payments/subscriptions, sensitive disclosures, security/
-domain/tracking changes, hosting migration, force push or bypassed protections.
-
-## Release evidence and current public-check limit
-
-- Content release [552a7b4c3b997c259adac2477d6cd89b343fa842](https://github.com/Mangomangoman1/Idaho-Tech-Blog/commit/552a7b4c3b997c259adac2477d6cd89b343fa842)
-  pushed normally to main; remote `git ls-remote` matched the exact local SHA.
-- GitHub Vercel context for that SHA returned success on October 18 about 15:23
-  UTC. [Deployment status](https://vercel.com/wpbfls-5183s-projects/idaho-tech-blog/FUQqgDPpgV4NkMKgyuUNtKm1hHwa).
-  Configured Vercel build runs normal npm build/check; no new CI workflow.
-- Exact blocked actions: fresh HTTPS requests to
-  https://www.idahostack.com/articles/marvel-idaho-dry-criticality-physics-test.html
-  and https://www.idahostack.com/news-sitemap.xml after deployment. At 15:23 UTC
-  the workspace proxy returned `403 CONNECT tunnel failed`; no confirmed public
-  application response was reached. Web retrieval of the new article was also
-  inaccessible. Current public behavior is unverified here, not known failed.
-- This is a network access error, not an automatic approval-review denial. No
-  restricted action awaits approval. Prior parent confirmations remain valid.
-- No full safety-analysis access, signed authorization inspection, measured output
-  or final experiment agreement was verified; claims use attributed public sources.
-  No Search Console, URL Inspection, Rich Results Test or Google indexing claim.
-- This release-record update follows the content commit as a documentation commit.
-  Inspect current remote HEAD for the latest tip; publication facts/code remain
-  those of the content release.
+No outreach, accounts, payments/subscriptions, sensitive allegations, credential/
+domain/security/tracking changes, force push or bypassed protection performed.

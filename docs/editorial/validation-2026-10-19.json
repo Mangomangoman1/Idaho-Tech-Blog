@@ -1,0 +1,137 @@
+{
+  "date": "2026-10-19",
+  "environment": "local Chromium / Python Playwright; not public deployment proof",
+  "cases": [
+    {
+      "page": "article",
+      "width": 320,
+      "height": 740,
+      "http": 200,
+      "overflow": false,
+      "broken_images": [],
+      "page_errors": [],
+      "mobile_menu": "passed"
+    },
+    {
+      "page": "home",
+      "width": 320,
+      "height": 740,
+      "http": 200,
+      "overflow": false,
+      "broken_images": [],
+      "page_errors": [],
+      "latest": [
+        "/articles/treasure-valley-well-survey-water-map.html",
+        "/articles/marvel-idaho-dry-criticality-physics-test.html",
+        "/articles/cwi-micron-day-training-job-path.html"
+      ],
+      "mobile_menu": "passed"
+    },
+    {
+      "page": "news",
+      "width": 320,
+      "height": 740,
+      "http": 200,
+      "overflow": false,
+      "broken_images": [],
+      "page_errors": [],
+      "mobile_menu": "passed"
+    },
+    {
+      "page": "desk",
+      "width": 320,
+      "height": 740,
+      "http": 200,
+      "overflow": false,
+      "broken_images": [],
+      "page_errors": [],
+      "mobile_menu": "passed"
+    },
+    {
+      "page": "article",
+      "width": 390,
+      "height": 844,
+      "http": 200,
+      "overflow": false,
+      "broken_images": [],
+      "page_errors": [],
+      "mobile_menu": "passed"
+    },
+    {
+      "page": "home",
+      "width": 390,
+      "height": 844,
+      "http": 200,
+      "overflow": false,
+      "broken_images": [],
+      "page_errors": [],
+      "latest": [
+        "/articles/treasure-valley-well-survey-water-map.html",
+        "/articles/marvel-idaho-dry-criticality-physics-test.html",
+        "/articles/cwi-micron-day-training-job-path.html"
+      ],
+      "mobile_menu": "passed"
+    },
+    {
+      "page": "news",
+      "width": 390,
+      "height": 844,
+      "http": 200,
+      "overflow": false,
+      "broken_images": [],
+      "page_errors": [],
+      "mobile_menu": "passed"
+    },
+    {
+      "page": "desk",
+      "width": 390,
+      "height": 844,
+      "http": 200,
+      "overflow": false,
+      "broken_images": [],
+      "page_errors": [],
+      "mobile_menu": "passed"
+    },
+    {
+      "page": "article",
+      "width": 1440,
+      "height": 1000,
+      "http": 200,
+      "overflow": false,
+      "broken_images": [],
+      "page_errors": []
+    },
+    {
+      "page": "home",
+      "width": 1440,
+      "height": 1000,
+      "http": 200,
+      "overflow": false,
+      "broken_images": [],
+      "page_errors": [],
+      "latest": [
+        "/articles/treasure-valley-well-survey-water-map.html",
+        "/articles/marvel-idaho-dry-criticality-physics-test.html",
+        "/articles/cwi-micron-day-training-job-path.html"
+      ]
+    },
+    {
+      "page": "news",
+      "width": 1440,
+      "height": 1000,
+      "http": 200,
+      "overflow": false,
+      "broken_images": [],
+      "page_errors": []
+    },
+    {
+      "page": "desk",
+      "width": 1440,
+      "height": 1000,
+      "http": 200,
+      "overflow": false,
+      "broken_images": [],
+      "page_errors": []
+    }
+  ]
+}

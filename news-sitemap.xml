@@ -22,4 +22,15 @@
       <news:title>MARVEL’s Safety Approval Sets Up a Physics Test in Idaho</news:title>
     </news:news>
   </url>
+  <url>
+    <loc>https://www.idahostack.com/articles/treasure-valley-well-survey-water-map.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>The Idaho Stack</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T09:13:54-06:00</news:publication_date>
+      <news:title>Idaho’s Expanded Well Survey Targets Gaps in Treasure Valley’s Water Map</news:title>
+    </news:news>
+  </url>
 </urlset>

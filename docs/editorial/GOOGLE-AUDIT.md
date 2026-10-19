@@ -80,3 +80,24 @@ October 18 content release 552a7b4 has a successful Vercel status and matching
 remote SHA. Fresh article/news-sitemap HTTPS requests remain blocked by the
 workspace proxy (CONNECT 403). Current public behavior requires independent
 verification; exact actions and outcome are in the current handoff.
+
+
+## October 19 follow-through
+
+Re-read current official [Article guidance](https://developers.google.com/search/docs/appearance/structured-data/article),
+[byline dates](https://developers.google.com/search/docs/appearance/publication-dates),
+[news sitemaps](https://developers.google.com/search/docs/crawling-indexing/sitemaps/news-sitemap)
+and [News transparency policy](https://support.google.com/news/publisher-center/answer/6204050).
+No guidance-based infrastructure change was needed. New water article uses honest
+Organization authorship linked to AI policy, genuine visible/structured Oct19 date,
+canonical, representative original images in three recommended ratios, inline
+primary sources, method and source limits. Publisher/about/contact remain linked.
+
+Local audits passed JSON-LD, titles, canonical/local links, date coherence, RSS and
+regular/news sitemaps. Robots permits crawling and advertises both sitemaps. RSS
+GUIDs preserved; newest first. News metadata uses original48-hour timestamp, not
+modification time; Oct17 CWI still qualifies at morning build until09:52:21MDT.
+No historical date refresh, fictitious reporter, tracking or credential changes.
+Build + five regression tests + twelve responsive browser cases passed. Public
+origin behavior, Rich Results Test, Search Console/URL Inspection and actual Google
+indexing are separate from these checks; exact release outcome is in HANDOFF.md.

@@ -1,7 +1,7 @@
 # Content inventory and maintenance priorities
 
 Read existing articles and mission/about/policy at takeover, October 16, 2026.
-Inventory maintained October 18; new reporting and source review recorded below.
+Inventory maintained October 19; new reporting and source review recorded below.
 Old display dates and bylines below are observations, not newly certified history.
 
 | File | Format / displayed history | Evidence and next action |
@@ -14,6 +14,7 @@ Old display dates and bylines below are observations, not newly certified histor
 | articles/idaho-bead-provider-withdrawals-rebid.html | October 16 public-document reporting; The Idaho Stack, AI-assisted | New briefing-based follow-up with inline primary links, stage distinctions, method, uncertainty and original explanatory graphics. See research ledger and handoff for publication evidence. |
 | articles/cwi-micron-day-training-job-path.html | October 17 public-document reporting and analysis; The Idaho Stack, AI-assisted | Compares current certificate/catalog, course sequence, spring registration, employer hiring, cost and locations before Oct20 event. No current vacancy, class-seat or placement guarantee. See October 17 ledger/handoff for release state. |
 | articles/marvel-idaho-dry-criticality-physics-test.html | October 18 public-document reporting and analysis; The Idaho Stack, AI-assisted | Explains dry criticality versus thermal engineering and end-use demonstrations, using October announcement and technical report. Differing public forecasts and unavailable full safety analysis are explicit. See October 18 ledger/handoff for release state. |
+| articles/treasure-valley-well-survey-water-map.html | October 19 public-document reporting and analysis; The Idaho Stack, AI-assisted | Explains the fall survey’s spatial/depth gaps, private access, comparison methods and publicly funded model. No completion count, new trend or spending finding. See October 19 source ledger/handoff. |
 | briefing-what-were-tracking-first.html | First briefing; updated May 19 | Seven operating beats. Article markup lacks author/publication dates. No invented historical data added. |
 | business-technology-baseline.html | Living resource; updated May 19, index says May 20 | 14-area maturity checklist. TechArticle and FAQPage; not a newly dated news story. Source-sensitive legal/security/vendor claims need evidence when revised. |
 | the-constraint.html | Series introduction | Defines bottlenecks, cost and execution frame; CollectionPage, not a fabricated new reported series installment. |
@@ -48,7 +49,7 @@ Old display dates and bylines below are observations, not newly certified histor
 | Covered Oct18; watch for measured result | What does MARVEL safety approval authorize, and what still precedes operation? | https://inl.gov/news-release/marvel-reactor-gets-federal-safety-approval-as-its-primary-vessel-arrives-in-idaho/ — verify Oct 6 date and distinction between approval, vessel arrival, assembly and operation. |
 | New lead; wait for primary data | What does full-scale transformer testing establish about grid recovery? | https://inl.gov/news-release/idaho-researchers-put-electric-grids-most-expensive-component-through-an-earthquake-on-purpose/ — Oct14 release describes testing in San Diego; follow public OSTI/peer-reviewed results and DOE supply-chain records. No Idaho substation risk inference from a lab test. |
 | Watch | What changed in large-load cost allocation after May? | https://puc.idaho.gov/case/Details/7731 — read new IPC-E-26-07 filings/orders, distinguish proposal from binding order. No allegation of improper cost shifting without evidence and approval. |
-| Research | What irrigation-data change helps an Idaho grower decide? | University of Idaho Extension/IDWR public records; choose a current dated local trial, measurement change or decision. No generic water essay. |
+| Covered Oct19; follow actual data | What did the fall Treasure/Payette Valley well survey measure, and which gaps remain? | IDWR groundwater portal and Western Snake Plain model committee materials. Verify completed visit count, dated study dataset/coverage and spring/fall 2027 repeats. Do not invent a regional decline, individual-well prognosis or new allocation from a measurement plan. |
 | Research | Which technical training path serves rural workers beyond Boise? | Current college/CTE catalogs, fee schedules and employer requirements; do not promise hiring. |
 | Research | What does a local repair dependency cost in time? | Public procurement/warranty/parts documents first. Interviews or vendor contact require approval. Disclose founder's repair-business interest if relevant. |
 | Maintenance | Which guide claims need current sources? | Baseline/AI readiness source audit before a substantive update; avoid unsourced security or legal advice. |

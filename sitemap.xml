@@ -2,11 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.idahostack.com/</loc>
-    <lastmod>2026-10-18</lastmod>
+    <lastmod>2026-10-19</lastmod>
   </url>
   <url>
     <loc>https://www.idahostack.com/news.html</loc>
-    <lastmod>2026-10-18</lastmod>
+    <lastmod>2026-10-19</lastmod>
   </url>
   <url>
     <loc>https://www.idahostack.com/articles/what-idahos-tech-economy-is-actually-made-of.html</loc>
@@ -38,7 +38,7 @@
   </url>
   <url>
     <loc>https://www.idahostack.com/agtech-water.html</loc>
-    <lastmod>2026-05-20</lastmod>
+    <lastmod>2026-10-19</lastmod>
   </url>
   <url>
     <loc>https://www.idahostack.com/briefing-what-were-tracking-first.html</loc>
@@ -107,5 +107,9 @@
   <url>
     <loc>https://www.idahostack.com/articles/marvel-idaho-dry-criticality-physics-test.html</loc>
     <lastmod>2026-10-18</lastmod>
+  </url>
+  <url>
+    <loc>https://www.idahostack.com/articles/treasure-valley-well-survey-water-map.html</loc>
+    <lastmod>2026-10-19</lastmod>
   </url>
 </urlset>

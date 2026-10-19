@@ -112,6 +112,9 @@ October 18 reporting explains MARVEL's dry physics milestone and distinct therma
 end-use tests. Follow dated completion data and public schedule clarification,
 without claiming full operation or commercial supply. A newer transformer shake-
 test lead should advance with released results and primary supply-chain evidence.
+October 19 reporting rotates to Treasure/Payette Valley groundwater measurements,
+spatial/depth gaps and model funding. Follow actual survey data and coverage before
+claiming a new trend; next scheduled repeats are spring/fall 2027.
 Advance the energy docket only on an actual new filing/order, not its update date.
 Build remaining backlog items into claim ledgers before committing to dates. No
 interview quota is authorized; outreach needs approval.
