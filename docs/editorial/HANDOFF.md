@@ -52,8 +52,7 @@ Build/check and five date/discovery regression tests passed. Chromium/Playwright
 passed12article/home/news/water-desk cases at320/390/1440px: no overflow, broken
 images or page errors; mobile menus work, byline/date/canonical match and latest
 order begins Oct19/18/17. Visual review covered mobile/desktop and artwork.
-[Browser observations](validation-2026-10-19.json). Final release evidence follows
-after push/deployment verification. No Search Console/URL Inspection/Rich Results
+[Browser observations](validation-2026-10-19.json). Release evidence is recorded below. No Search Console/URL Inspection/Rich Results
 Test or Google News/indexing guarantee.
 
 ## Next session
@@ -72,3 +71,28 @@ Test or Google News/indexing guarantee.
 
 No outreach, accounts, payments/subscriptions, sensitive allegations, credential/
 domain/security/tracking changes, force push or bypassed protection performed.
+
+
+## Release evidence and remaining public-access block
+
+- Content commit [066d1530f1f54c81ee6b5f6c3473ab525a26c2c4](https://github.com/Mangomangoman1/Idaho-Tech-Blog/commit/066d1530f1f54c81ee6b5f6c3473ab525a26c2c4)
+  pushed normally to main. Local and `git ls-remote origin refs/heads/main` matched.
+- GitHub Vercel context returned success October19 at15:16UTC.
+  [Deployment](https://vercel.com/wpbfls-5183s-projects/idaho-tech-blog/7bKdGeUkp61UiiCXHiYuSN2PbJy1).
+  Configured production build runs npm build/check. No new CI workflow or hosting change.
+- At15:16:51UTC, fresh HTTPS requests to each target below failed before an origin
+  response with `Tunnel connection failed: 403 Forbidden`:
+  https://www.idahostack.com/articles/treasure-valley-well-survey-water-map.html
+  https://www.idahostack.com/
+  https://www.idahostack.com/feed.xml
+  https://www.idahostack.com/sitemap.xml
+  https://www.idahostack.com/news-sitemap.xml
+  https://www.idahostack.com/assets/articles/treasure-valley-well-survey-water-map-16x9.png
+- Independent web-tool opens of the new article and news sitemap were inaccessible.
+  Public serving remains **unverified here**, not known to have failed. Parent
+  should fresh-fetch article metadata, home lead/latest, RSS, both XMLs and image.
+- This is a proxy access block, not an automatic approval-review denial. No action
+  awaits approval and no retry/escalation bypass was attempted. Publication edits,
+  local validation, normal push and Vercel verification are complete.
+- This record is a follow-up documentation commit; final remote tip must be checked
+  separately. No Search Console/Rich Results Test or actual indexing was verified.

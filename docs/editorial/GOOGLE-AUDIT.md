@@ -101,3 +101,11 @@ No historical date refresh, fictitious reporter, tracking or credential changes.
 Build + five regression tests + twelve responsive browser cases passed. Public
 origin behavior, Rich Results Test, Search Console/URL Inspection and actual Google
 indexing are separate from these checks; exact release outcome is in HANDOFF.md.
+
+
+October19 release evidence: content066d153 reached remote main and GitHub Vercel
+success. Fresh domain article/home/RSS/sitemap/news-sitemap/image requests at15:16:51UTC
+were proxy CONNECT403-blocked; web article/news-sitemap opens were inaccessible.
+No confirmed fresh public response or indexing claim. Exact targets/status and
+parent verification instructions are in the current handoff. This network block
+is not an automatic approval rejection or evidence the application is down.
