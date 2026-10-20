@@ -63,7 +63,7 @@ Build/check and five regression tests passed. Chromium/Playwright passed15 cases
 images, errors, menus and new links; author/date/canonical match, latest20/19/18.
 Artwork and mobile/desktop layouts visually inspected. Training time conversions
 also checked with timezone database. [Browser record](validation-2026-10-20.json).
-Final exact commit/deployment/public checks will be recorded below.
+Exact release checks and the remaining blocker are recorded below.
 
 CWI maintenance: current source still lists today’s Oct20 public event4–7:30pm at
 Nampa Micron Education Center, consistent with existing reporting. No correction
@@ -88,3 +88,49 @@ No Search Console, URL Inspection or Rich Results Test was run. No guarantee of
 Google News acceptance, rich results or indexing. No new external account,
 outreach, payment, sensitive disclosure, security/domain/tracking change, hosting
 migration, force push or deployment bypass.
+
+
+## Release evidence and owner action
+
+Content commit: [6a6b794bb84f48576c6400d206e468fa0ea4dbb6](https://github.com/Mangomangoman1/Idaho-Tech-Blog/commit/6a6b794bb84f48576c6400d206e468fa0ea4dbb6).
+Normal push succeeded October20 at15:36UTC; `git ls-remote` matched exact local SHA.
+
+Fresh GitHub combined status at15:36 and15:37UTC returned an empty status list.
+Check-runs endpoint returned total_count0 at15:36. Yesterday’s bcf8a41 still had
+Vercel success, but that does not verify this article’s release. No deployment
+failure reason, new deployment ID or successful current build was exposed. These
+observations do not establish the cause or whether an unreported deployment exists.
+
+Fresh public requests at15:36:32UTC failed before reaching an application response
+with `Tunnel connection failed: 403 Forbidden` for every target:
+
+- https://www.idahostack.com/articles/itd-north-idaho-certified-payroll-upload.html
+- https://www.idahostack.com/
+- https://www.idahostack.com/feed.xml
+- https://www.idahostack.com/sitemap.xml
+- https://www.idahostack.com/news-sitemap.xml
+- https://www.idahostack.com/assets/articles/itd-north-idaho-certified-payroll-upload-16x9.png
+
+Independent web retrieval could not access the new article. It returned a homepage
+with the October19 lead/latest. Although labeled crawled today, this extraction is
+not a confirmed fresh origin response and cannot prove the new release is absent.
+Public behavior and current deployment remain **unverified**. Do not call it live.
+
+No Vercel connector/CLI, project link file or deployment environment credential is
+available in this environment. Routine git push is complete; a manual authenticated
+Vercel deployment is not callable here. No empty commit, account/configuration,
+Git integration, security/domain or protection change was attempted.
+
+**Owner action:** in the existing Vercel project
+https://vercel.com/wpbfls-5183s-projects/idaho-tech-blog, inspect deployment activity
+and Git events for main commit6a6b794. Supply a deployment/log result or resolve the
+missing deployment through the established workflow. Parent can independently
+fresh-fetch the six targets above and verify metadata, current lead/latest,
+RSS and sitemap dates, and image response. Do not assume the cause matches other
+repositories; no common cause has been verified.
+
+This is an unresolved deployment/public-verification block, not an automatic
+approval-review denial. No restricted action is pending approval. Local reporting,
+checks and normal push are complete. This follow-up commit records real release
+evidence; it is not an empty attempt to trigger hosting. Check final remote tip and
+its deployment status separately; the article itself remains content commit6a6b794.

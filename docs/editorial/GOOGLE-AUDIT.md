@@ -131,3 +131,12 @@ Remote/deployment/public serving require separate evidence, recorded in HANDOFF.
 Do not infer this repo has the unrelated deployment issue reported elsewhere, or
 infer public serving/indexing from a status alone. No settings/protection bypass,
 empty commit, Search Console/URL Inspection/Rich Results Test or inclusion guarantee.
+
+
+October20 release check: content6a6b794 matched remote main. Fresh combined statuses
+were empty at15:36/15:37UTC; check-runs total0. Current deployment is unconfirmed.
+All six direct public URL requests were proxy CONNECT403-blocked; web extraction
+showed an October19 homepage and could not access the new article, which is not
+conclusive fresh origin evidence. No live/indexing claim. Exact targets, unavailable
+Vercel access and owner project/log/public-fetch action are in HANDOFF.md. No
+configuration change, empty trigger commit or bypass attempted.
