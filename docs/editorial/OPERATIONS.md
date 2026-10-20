@@ -107,7 +107,8 @@ accuracy and useful follow-ups over expanding an unmaintained directory.
 
 The October 16 broadband and October 17 CWI pieces are live per parent verification.
 October 17 reporting covers CWI course sequencing and employer hiring before Micron Day;
-recheck the event by October 20 and course guidance before November2 registration.
+Oct20 source recheck still listed Nampa public hours4–7:30pm; seek course guidance
+before November2 registration. Event notices remain historical after the date.
 October 18 reporting explains MARVEL's dry physics milestone and distinct thermal/
 end-use tests. Follow dated completion data and public schedule clarification,
 without claiming full operation or commercial supply. A newer transformer shake-
@@ -115,6 +116,9 @@ test lead should advance with released results and primary supply-chain evidence
 October 19 reporting rotates to Treasure/Payette Valley groundwater measurements,
 spatial/depth gaps and model funding. Follow actual survey data and coverage before
 claiming a new trend; next scheduled repeats are spring/fall 2027.
+October20 reporting covers North Idaho’s ITD payroll-tool change, document uploads,
+formats and certification. Follow actual phased district updates, public contract
+costs or measured outcomes; do not restate supplier savings promises as findings.
 Advance the energy docket only on an actual new filing/order, not its update date.
 Build remaining backlog items into claim ledgers before committing to dates. No
 interview quota is authorized; outreach needs approval.

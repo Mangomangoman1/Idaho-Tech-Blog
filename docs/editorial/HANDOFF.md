@@ -1,98 +1,90 @@
-# Session handoff — October 19, 2026
+# Session handoff — October 20, 2026
 
-Read AGENTS.md, [OPERATIONS.md](OPERATIONS.md), [INVENTORY.md](INVENTORY.md),
+Start with AGENTS.md, [OPERATIONS.md](OPERATIONS.md), [INVENTORY.md](INVENTORY.md),
 [GOOGLE-AUDIT.md](GOOGLE-AUDIT.md) and the
-[well-survey evidence ledger](../research/2026-10-19-treasure-valley-well-survey.md).
-Previous session: [October 18](sessions/2026-10-18.md).
+[ITD evidence ledger](../research/2026-10-20-itd-certified-payroll-rollout.md).
+Previous session: [October 19](sessions/2026-10-19.md).
 
-## Continuity and authority
+## Authority, concurrency and continuity
 
-Sole writer for authorized routine publication/checks/normal pushes. Existing daily
-recurrence remains; do not create another. October16/17 releases were independently
-public-verified by parent; October18 remote/Vercel success is recorded in archive,
-while this environment’s fresh public check remained proxy-blocked. No new parent
-confirmation for October18 was received in this session. Google indexing unknown.
+Routine sourced article/site changes, tests, normal main pushes and established
+deployment are authorized. No outreach/interview, sensitive claim, account, payment,
+subscription, credential/security/domain/tracking change or major commitment.
+Sole writer: no competing dirty checkout, changed remote tip or other editing
+process observed. No agents spawned. Existing daily automation remains; do not
+create a duplicate. Quality still takes priority over publishing something weak.
 
-## Today's story
+Verified origin Mangomangoman1/Idaho-Tech-Blog, branch work at
+bcf8a410fd20ecf3e21de225f868db8bfc14460b. Clean status, fetch/prune0divergence,
+ff-only sync already current. Root instructions/mission/roadmap/handoff/inventory,
+article history and format reviewed. Local .agents/.codex contain no skills.
+Visible conversation and repository supplied continuity; no personal search needed.
 
-**Idaho’s Expanded Well Survey Targets Gaps in Treasure Valley’s Water Map**
+Parent warned other unrelated repos lacked fresh deployment statuses. IdahoStack’s
+Oct19 Vercel status was independently checked and still successful. That does not
+establish a new release’s deployment or public behavior; check each exact SHA.
+No empty commits, forced deployments or protections/settings changes are authorized.
+Oct16/17 public verification remains recorded; no new parent confirmation for
+Oct18/19 was supplied here. Public HTTPS from this workspace remains proxy-blocked.
 
-Target: https://www.idahostack.com/articles/treasure-valley-well-survey-water-map.html
+## Today's story and limits
 
-Distinct water beat: September survey notice plus June/March technical committee
-records identify spatial and depth gaps, especially south of Lake Lowell. Explains
-private-well permission, collection/maintenance responsibilities, reading dates and
-references, public data access and the model’s dated $1.15m combined budget. The
-budget is not spending or a survey-only bill. Hypothetical numeric illustration
-clearly differs from actual data. No new aquifer trend/individual prognosis claimed.
+**ITD’s North Idaho Payroll Rollout Includes an Upload Option**
 
-Scheduled Sept28–Oct9 field window has passed; completion counts/new readings were
-not verified. State portal yielded no readable dataset through extraction. Repeat
-visits are planned spring/fall2027. Release and technical plans are reported in
-their own terms, with no claim all400 wells were measured. All source/method and
-next-evidence details live in the ledger; no invented interview/firsthand work.
+Target: https://www.idahostack.com/articles/itd-north-idaho-certified-payroll-upload.html
 
-## Sync and implementation
+The October1 District1 rollout plan offers an upload route for firms without payroll
+software. Compares that agency instruction with vendor export-format claims and
+DOL certification guidance. Useful distinction: data transfer, authorized signing
+and project review. North Idaho counties verified against ITD district guide;
+no blanket statewide/all-contract scope. Current training linked with verified
+Pacific conversions: Oct21 reporting10am, Oct23 intro8am; not a seat guarantee.
 
-Verified origin Mangomangoman1/Idaho-Tech-Blog, main. Clean workspace branch work
-at 3a04f8395754b6d083934d6c4f44321d6b2416eb; fetch/prune showed0divergence and
-ff-only sync was already current. Root AGENTS/continuity and current articles read;
-.agents/.codex empty. No unrelated work, dependency or publishing-system change.
+ITD page still uses future tense. No authenticated availability, completed migration,
+payroll-file import, contract/licensing costs, time savings or individual compliance
+was inspected. DOL official indexed text retrievable; direct pages returned403.
+No worker records collected and no unsupported security/savings claim adopted.
+Full source locations, access limits and next triggers are in the ledger.
 
-New article, Organization author/visibleAI disclosure, genuine Oct19 timestamp,
-canonical/NewsArticle and original16:9/4:3/1:1 illustration. Updated lead, generated
-latest list, news index, water desk, RSS and normal sitemap. News sitemap includes
-only original dates within48hours at build; Oct17 CWI remains eligible until
-09:52:21MDT today, then next build must remove its news metadata. Older archive,
-RSS and full sitemap remain. Inventory/backlog/operations updated; Oct18 archived.
+## Implementation and validation
 
-## Validation and release state
+Honest Organization byline and visible AI method; genuine Oct20 visible/JSON-LD/OG
+timestamp and canonical. Original input-route diagram in16:9,4:3,1:1, descriptive
+alt and illustrative credit; no documentary image/interface claim. Updated home
+lead/generated latest, news, RSS, normal sitemap, baseline related-report link and
+North Idaho region link. Existing guide text/history and old bylines preserved.
 
-Build/check and five date/discovery regression tests passed. Chromium/Playwright
-passed12article/home/news/water-desk cases at320/390/1440px: no overflow, broken
-images or page errors; mobile menus work, byline/date/canonical match and latest
-order begins Oct19/18/17. Visual review covered mobile/desktop and artwork.
-[Browser observations](validation-2026-10-19.json). Release evidence is recorded below. No Search Console/URL Inspection/Rich Results
-Test or Google News/indexing guarantee.
+News sitemap pruned expired Oct18 metadata: currently Oct19/20 only. Old articles
+remain in RSS/full sitemap/archive. No historical dates refreshed. Source ledger,
+inventory/backlog/operations and Google audit updated; Oct19 handoff archived.
 
-## Next session
+Build/check and five regression tests passed. Chromium/Playwright passed15 cases
+(article/home/news/baseline/regions at320/390/1440px), checking responses, overflow,
+images, errors, menus and new links; author/date/canonical match, latest20/19/18.
+Artwork and mobile/desktop layouts visually inspected. Training time conversions
+also checked with timezone database. [Browser record](validation-2026-10-20.json).
+Final exact commit/deployment/public checks will be recorded below.
 
-1. Verify fresh public article/home/latest/RSS/sitemaps/images if this environment
-   still cannot reach the domain. Parent can independently fetch; do not claim live
-   based solely on git push or a successful Vercel status.
-2. Water follow-up requires actual study dataset/coverage or repeat measurements,
-   not this notice again. No evidence for a new decline or recharge-storage total.
-3. Recheck CWI Oct20 event for material changes; before Nov2 seek current timetable
-   or hiring cohort. Keep certificate sequence and paid-job eligibility distinct.
-4. Follow MARVEL actual test/data and schedule clarification, transformer released
-   results, or actual large-load docket filings/orders; no update-date-only story.
-5. Rebuild discovery every daily run, including a quality hold. Rotate geography
-   and beats as evidence allows; preserve honest legacy dates and human bylines.
+CWI maintenance: current source still lists today’s Oct20 public event4–7:30pm at
+Nampa Micron Education Center, consistent with existing reporting. No correction
+needed. No claim event attendance or outcomes verified; original article retained.
 
-No outreach, accounts, payments/subscriptions, sensitive allegations, credential/
-domain/security/tracking changes, force push or bypassed protection performed.
+## Next actions
 
+1. Verify exact remote tip, fresh deployment status and public article/home/RSS/
+   sitemap/news-sitemap/image before calling it live. If this environment cannot
+   reach origin, parent can fresh-fetch; exact blocked targets will be recorded.
+2. ITD follow-up needs a dated district rollout, public cost record, actual adoption
+   or workflow evidence. Keep vendor support claims attributed. Recheck training
+   calendar when used; do not refresh an old article’s publication date.
+3. Rotate to another concrete local document/decision. Water needs actual survey
+   data, MARVEL needs actual test/data/schedule clarification, transformer lead
+   needs released results, energy docket needs a new filing/order.
+4. Before Nov2, check CWI timetable/cohort evidence without guaranteeing January
+   course start or placement. Today’s event becomes historical after it occurs.
+5. Daily rebuild includes quality holds so expired news metadata is removed.
 
-## Release evidence and remaining public-access block
-
-- Content commit [066d1530f1f54c81ee6b5f6c3473ab525a26c2c4](https://github.com/Mangomangoman1/Idaho-Tech-Blog/commit/066d1530f1f54c81ee6b5f6c3473ab525a26c2c4)
-  pushed normally to main. Local and `git ls-remote origin refs/heads/main` matched.
-- GitHub Vercel context returned success October19 at15:16UTC.
-  [Deployment](https://vercel.com/wpbfls-5183s-projects/idaho-tech-blog/7bKdGeUkp61UiiCXHiYuSN2PbJy1).
-  Configured production build runs npm build/check. No new CI workflow or hosting change.
-- At15:16:51UTC, fresh HTTPS requests to each target below failed before an origin
-  response with `Tunnel connection failed: 403 Forbidden`:
-  https://www.idahostack.com/articles/treasure-valley-well-survey-water-map.html
-  https://www.idahostack.com/
-  https://www.idahostack.com/feed.xml
-  https://www.idahostack.com/sitemap.xml
-  https://www.idahostack.com/news-sitemap.xml
-  https://www.idahostack.com/assets/articles/treasure-valley-well-survey-water-map-16x9.png
-- Independent web-tool opens of the new article and news sitemap were inaccessible.
-  Public serving remains **unverified here**, not known to have failed. Parent
-  should fresh-fetch article metadata, home lead/latest, RSS, both XMLs and image.
-- This is a proxy access block, not an automatic approval-review denial. No action
-  awaits approval and no retry/escalation bypass was attempted. Publication edits,
-  local validation, normal push and Vercel verification are complete.
-- This record is a follow-up documentation commit; final remote tip must be checked
-  separately. No Search Console/Rich Results Test or actual indexing was verified.
+No Search Console, URL Inspection or Rich Results Test was run. No guarantee of
+Google News acceptance, rich results or indexing. No new external account,
+outreach, payment, sensitive disclosure, security/domain/tracking change, hosting
+migration, force push or deployment bypass.

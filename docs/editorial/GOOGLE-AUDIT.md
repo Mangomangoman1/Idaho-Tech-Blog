@@ -109,3 +109,25 @@ were proxy CONNECT403-blocked; web article/news-sitemap opens were inaccessible.
 No confirmed fresh public response or indexing claim. Exact targets/status and
 parent verification instructions are in the current handoff. This network block
 is not an automatic approval rejection or evidence the application is down.
+
+
+## October 20 follow-through
+
+Reviewed current official [Article guidance](https://developers.google.com/search/docs/appearance/structured-data/article),
+[publication dates](https://developers.google.com/search/docs/appearance/publication-dates),
+[news sitemaps](https://developers.google.com/search/docs/crawling-indexing/sitemaps/news-sitemap)
+and [News transparency policy](https://support.google.com/news/publisher-center/answer/6204050).
+New North Idaho article uses NewsArticle, genuine timezone-aware visible/structured
+date, organizational author linked to AI disclosure, canonical and original relevant
+images in three recommended ratios. Sources, supplier claims and limits are visible;
+publisher/about/contact remain linked. No fabricated human author/credential.
+
+Build/site audit/five regression tests and15responsive browser cases passed.
+Robots/canonicals/discovery links retained. RSS new first with stable old GUIDs;
+news snapshot now only Oct19/20 after pruning expired Oct18. Normal sitemap retains
+archive. Guide related-report links did not refresh historical article dates.
+
+Remote/deployment/public serving require separate evidence, recorded in HANDOFF.
+Do not infer this repo has the unrelated deployment issue reported elsewhere, or
+infer public serving/indexing from a status alone. No settings/protection bypass,
+empty commit, Search Console/URL Inspection/Rich Results Test or inclusion guarantee.

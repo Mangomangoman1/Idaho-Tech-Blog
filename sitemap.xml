@@ -2,11 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.idahostack.com/</loc>
-    <lastmod>2026-10-19</lastmod>
+    <lastmod>2026-10-20</lastmod>
   </url>
   <url>
     <loc>https://www.idahostack.com/news.html</loc>
-    <lastmod>2026-10-19</lastmod>
+    <lastmod>2026-10-20</lastmod>
   </url>
   <url>
     <loc>https://www.idahostack.com/articles/what-idahos-tech-economy-is-actually-made-of.html</loc>
@@ -14,7 +14,7 @@
   </url>
   <url>
     <loc>https://www.idahostack.com/business-technology-baseline.html</loc>
-    <lastmod>2026-05-20</lastmod>
+    <lastmod>2026-10-20</lastmod>
   </url>
   <url>
     <loc>https://www.idahostack.com/ai-automation.html</loc>
@@ -58,7 +58,7 @@
   </url>
   <url>
     <loc>https://www.idahostack.com/regions.html</loc>
-    <lastmod>2026-05-20</lastmod>
+    <lastmod>2026-10-20</lastmod>
   </url>
   <url>
     <loc>https://www.idahostack.com/field-notes.html</loc>
@@ -111,5 +111,9 @@
   <url>
     <loc>https://www.idahostack.com/articles/treasure-valley-well-survey-water-map.html</loc>
     <lastmod>2026-10-19</lastmod>
+  </url>
+  <url>
+    <loc>https://www.idahostack.com/articles/itd-north-idaho-certified-payroll-upload.html</loc>
+    <lastmod>2026-10-20</lastmod>
   </url>
 </urlset>

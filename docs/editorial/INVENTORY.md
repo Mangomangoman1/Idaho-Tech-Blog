@@ -1,7 +1,7 @@
 # Content inventory and maintenance priorities
 
 Read existing articles and mission/about/policy at takeover, October 16, 2026.
-Inventory maintained October 19; new reporting and source review recorded below.
+Inventory maintained October 20; new reporting and source review recorded below.
 Old display dates and bylines below are observations, not newly certified history.
 
 | File | Format / displayed history | Evidence and next action |
@@ -15,6 +15,7 @@ Old display dates and bylines below are observations, not newly certified histor
 | articles/cwi-micron-day-training-job-path.html | October 17 public-document reporting and analysis; The Idaho Stack, AI-assisted | Compares current certificate/catalog, course sequence, spring registration, employer hiring, cost and locations before Oct20 event. No current vacancy, class-seat or placement guarantee. See October 17 ledger/handoff for release state. |
 | articles/marvel-idaho-dry-criticality-physics-test.html | October 18 public-document reporting and analysis; The Idaho Stack, AI-assisted | Explains dry criticality versus thermal engineering and end-use demonstrations, using October announcement and technical report. Differing public forecasts and unavailable full safety analysis are explicit. See October 18 ledger/handoff for release state. |
 | articles/treasure-valley-well-survey-water-map.html | October 19 public-document reporting and analysis; The Idaho Stack, AI-assisted | Explains the fall survey’s spatial/depth gaps, private access, comparison methods and publicly funded model. No completion count, new trend or spending finding. See October 19 source ledger/handoff. |
+| articles/itd-north-idaho-certified-payroll-upload.html | October 20 public-document reporting and analysis; The Idaho Stack, AI-assisted | District1 rollout plan, upload versus payroll-export routes, certification and project coordination; vendor compatibility attributed. No authenticated testing, completed-migration, savings or individual-contract compliance finding. See October20 ledger/handoff. |
 | briefing-what-were-tracking-first.html | First briefing; updated May 19 | Seven operating beats. Article markup lacks author/publication dates. No invented historical data added. |
 | business-technology-baseline.html | Living resource; updated May 19, index says May 20 | 14-area maturity checklist. TechArticle and FAQPage; not a newly dated news story. Source-sensitive legal/security/vendor claims need evidence when revised. |
 | the-constraint.html | Series introduction | Defines bottlenecks, cost and execution frame; CollectionPage, not a fabricated new reported series installment. |
@@ -52,6 +53,7 @@ Old display dates and bylines below are observations, not newly certified histor
 | Covered Oct19; follow actual data | What did the fall Treasure/Payette Valley well survey measure, and which gaps remain? | IDWR groundwater portal and Western Snake Plain model committee materials. Verify completed visit count, dated study dataset/coverage and spring/fall 2027 repeats. Do not invent a regional decline, individual-well prognosis or new allocation from a measurement plan. |
 | Research | Which technical training path serves rural workers beyond Boise? | Current college/CTE catalogs, fee schedules and employer requirements; do not promise hiring. |
 | Research | What does a local repair dependency cost in time? | Public procurement/warranty/parts documents first. Interviews or vendor contact require approval. Disclose founder's repair-business interest if relevant. |
+| Covered Oct20; watch phased rollout | How does a public reporting portal affect a small contractor’s existing workflow? | ITD certified-payroll guidance and dated district updates; seek public cost/contract records or measured adoption before claiming savings. Training dates need a current calendar, not a repeated article. |
 | Maintenance | Which guide claims need current sources? | Baseline/AI readiness source audit before a substantive update; avoid unsourced security or legal advice. |
 
 ## Evidence gate for every pitch

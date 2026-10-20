@@ -1,0 +1,166 @@
+{
+  "date": "2026-10-20",
+  "environment": "Local Chromium/Playwright; not public deployment verification",
+  "cases": [
+    {
+      "page": "article",
+      "width": 320,
+      "height": 740,
+      "http": 200,
+      "overflow": false,
+      "broken_images": [],
+      "page_errors": [],
+      "mobile_menu": "passed"
+    },
+    {
+      "page": "home",
+      "width": 320,
+      "height": 740,
+      "http": 200,
+      "overflow": false,
+      "broken_images": [],
+      "page_errors": [],
+      "latest": [
+        "/articles/itd-north-idaho-certified-payroll-upload.html",
+        "/articles/treasure-valley-well-survey-water-map.html",
+        "/articles/marvel-idaho-dry-criticality-physics-test.html"
+      ],
+      "mobile_menu": "passed"
+    },
+    {
+      "page": "news",
+      "width": 320,
+      "height": 740,
+      "http": 200,
+      "overflow": false,
+      "broken_images": [],
+      "page_errors": [],
+      "mobile_menu": "passed"
+    },
+    {
+      "page": "baseline",
+      "width": 320,
+      "height": 740,
+      "http": 200,
+      "overflow": false,
+      "broken_images": [],
+      "page_errors": [],
+      "mobile_menu": "passed"
+    },
+    {
+      "page": "regions",
+      "width": 320,
+      "height": 740,
+      "http": 200,
+      "overflow": false,
+      "broken_images": [],
+      "page_errors": [],
+      "mobile_menu": "passed"
+    },
+    {
+      "page": "article",
+      "width": 390,
+      "height": 844,
+      "http": 200,
+      "overflow": false,
+      "broken_images": [],
+      "page_errors": [],
+      "mobile_menu": "passed"
+    },
+    {
+      "page": "home",
+      "width": 390,
+      "height": 844,
+      "http": 200,
+      "overflow": false,
+      "broken_images": [],
+      "page_errors": [],
+      "latest": [
+        "/articles/itd-north-idaho-certified-payroll-upload.html",
+        "/articles/treasure-valley-well-survey-water-map.html",
+        "/articles/marvel-idaho-dry-criticality-physics-test.html"
+      ],
+      "mobile_menu": "passed"
+    },
+    {
+      "page": "news",
+      "width": 390,
+      "height": 844,
+      "http": 200,
+      "overflow": false,
+      "broken_images": [],
+      "page_errors": [],
+      "mobile_menu": "passed"
+    },
+    {
+      "page": "baseline",
+      "width": 390,
+      "height": 844,
+      "http": 200,
+      "overflow": false,
+      "broken_images": [],
+      "page_errors": [],
+      "mobile_menu": "passed"
+    },
+    {
+      "page": "regions",
+      "width": 390,
+      "height": 844,
+      "http": 200,
+      "overflow": false,
+      "broken_images": [],
+      "page_errors": [],
+      "mobile_menu": "passed"
+    },
+    {
+      "page": "article",
+      "width": 1440,
+      "height": 1000,
+      "http": 200,
+      "overflow": false,
+      "broken_images": [],
+      "page_errors": []
+    },
+    {
+      "page": "home",
+      "width": 1440,
+      "height": 1000,
+      "http": 200,
+      "overflow": false,
+      "broken_images": [],
+      "page_errors": [],
+      "latest": [
+        "/articles/itd-north-idaho-certified-payroll-upload.html",
+        "/articles/treasure-valley-well-survey-water-map.html",
+        "/articles/marvel-idaho-dry-criticality-physics-test.html"
+      ]
+    },
+    {
+      "page": "news",
+      "width": 1440,
+      "height": 1000,
+      "http": 200,
+      "overflow": false,
+      "broken_images": [],
+      "page_errors": []
+    },
+    {
+      "page": "baseline",
+      "width": 1440,
+      "height": 1000,
+      "http": 200,
+      "overflow": false,
+      "broken_images": [],
+      "page_errors": []
+    },
+    {
+      "page": "regions",
+      "width": 1440,
+      "height": 1000,
+      "http": 200,
+      "overflow": false,
+      "broken_images": [],
+      "page_errors": []
+    }
+  ]
+}
