@@ -1,6 +1,14 @@
 # Idaho Stack editorial operations
 
 Established October 16, 2026. Read [HANDOFF.md](HANDOFF.md) at every session start.
+
+**Current owner hold, October21:** the owner has paused remote GitHub operations. Until the
+owner explicitly reports restoration, no fetch/pull/push, remote checks, PR updates
+or deployment attempts. No alternate credentials or bypass. Local research, edits,
+tests and preservation commits only. Generic release steps below remain suspended.
+New stories stay visibly draft and undated, outside public discovery. Do not repeat
+a pause question or redeploy nudge.
+
 The founder's existing [roadmap](../the-idaho-review-roadmap.md) remains the mission
 source. This operating plan supplies daily execution and evidence discipline.
 
@@ -120,5 +128,8 @@ October20 reporting covers North Idaho’s ITD payroll-tool change, document upl
 formats and certification. Follow actual phased district updates, public contract
 costs or measured outcomes; do not restate supplier savings promises as findings.
 Advance the energy docket only on an actual new filing/order, not its update date.
+October21 local draft covers shared911 contracts, continuing GIS work and local
+operating costs. Check actual October decisions/newer funding rules before release;
+posted FY2026 deadline is expired, and an agenda is not an approval.
 Build remaining backlog items into claim ledgers before committing to dates. No
 interview quota is authorized; outreach needs approval.

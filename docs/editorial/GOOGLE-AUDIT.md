@@ -140,3 +140,22 @@ showed an October19 homepage and could not access the new article, which is not
 conclusive fresh origin evidence. No live/indexing claim. Exact targets, unavailable
 Vercel access and owner project/log/public-fetch action are in HANDOFF.md. No
 configuration change, empty trigger commit or bypass attempted.
+
+
+## October21 local draft under owner hold
+
+Reviewed current official [Article guidance](https://developers.google.com/search/docs/appearance/structured-data/article),
+[publication dates](https://developers.google.com/search/docs/appearance/publication-dates)
+and [news sitemaps](https://developers.google.com/search/docs/crawling-indexing/sitemaps/news-sitemap).
+Article properties should reflect what applies; datePublished describes first
+publication. The new 911 preview therefore claims none: Article/Draft/noindex,
+visible status, honest Organization author and three original image ratios, no
+canonical or OG URL/dates, and no production discovery entry. Production metadata
+must be added with actual publication after the restriction is lifted.
+
+Build/check + five regression tests passed. Bespoke draft metadata/link/image/
+partial/discovery audit + nine responsive cases passed. Local daily rebuild removed
+expired Oct19 news metadata; Oct20 remains. No claim live snapshot changed.
+Owner explicitly prohibits remote sync/checks/push/deployment until restoration;
+all intentionally unrun today. No alternate access, bypass, indexing claim or
+Search Console/Rich Results Test. Current handoff supersedes earlier release nudges.

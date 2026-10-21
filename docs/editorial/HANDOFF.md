@@ -1,136 +1,104 @@
-# Session handoff — October 20, 2026
+# Session handoff — October 21, 2026
 
-Start with AGENTS.md, [OPERATIONS.md](OPERATIONS.md), [INVENTORY.md](INVENTORY.md),
-[GOOGLE-AUDIT.md](GOOGLE-AUDIT.md) and the
-[ITD evidence ledger](../research/2026-10-20-itd-certified-payroll-rollout.md).
-Previous session: [October 19](sessions/2026-10-19.md).
+Read root AGENTS.md and [OPERATIONS.md](OPERATIONS.md), [INVENTORY.md](INVENTORY.md),
+[GOOGLE-AUDIT.md](GOOGLE-AUDIT.md), the [draft workflow](../../drafts/README.md),
+and [911 evidence ledger](../research/2026-10-21-idaho-911-maintenance.md).
+Previous session: [October20](sessions/2026-10-20.md).
 
-## Authority, concurrency and continuity
+## Owner hold: local work only
 
-Routine sourced article/site changes, tests, normal main pushes and established
-deployment are authorized. No outreach/interview, sensitive claim, account, payment,
-subscription, credential/security/domain/tracking change or major commitment.
-Sole writer: no competing dirty checkout, changed remote tip or other editing
-process observed. No agents spawned. Existing daily automation remains; do not
-create a duplicate. Quality still takes priority over publishing something weak.
+The owner has paused remote GitHub operations until they explicitly report
+restoration. This supersedes generic sync/publish instructions and prior redeploy
+suggestions. Until explicit restoration: no fetch/pull/push, remote status polling,
+PR changes or deployment. No alternate credentials/bypass, no repeated pause
+question or redeploy nudge. Local research/edit/check/commit is permitted.
 
-Verified origin Mangomangoman1/Idaho-Tech-Blog, branch work at
-bcf8a410fd20ecf3e21de225f868db8bfc14460b. Clean status, fetch/prune0divergence,
-ff-only sync already current. Root instructions/mission/roadmap/handoff/inventory,
-article history and format reviewed. Local .agents/.codex contain no skills.
-Visible conversation and repository supplied continuity; no personal search needed.
+No remote or deployment action was attempted today. No operation was denied by
+automatic review, and no permission request is pending. GitHub/account restoration
+is the owner-controlled prerequisite, not a task to work around. Existing recurrence
+must not be duplicated. No agents, outreach, interviews, accounts, spending,
+settings/tracking changes or sensitive disclosures.
 
-Parent warned other unrelated repos lacked fresh deployment statuses. IdahoStack’s
-Oct19 Vercel status was independently checked and still successful. That does not
-establish a new release’s deployment or public behavior; check each exact SHA.
-No empty commits, forced deployments or protections/settings changes are authorized.
-Oct16/17 public verification remains recorded; no new parent confirmation for
-Oct18/19 was supplied here. Public HTTPS from this workspace remains proxy-blocked.
+## Local continuity and concurrency
 
-## Today's story and limits
+Clean initial workspace branch work at11fdb6a3a284a06b35708178b8f041af6312de54.
+Local history/instructions, mission/about/policy/roadmap, inventory and prior
+article intent/format reviewed. .agents/.codex contain no local skills. No competing
+editing process or unrelated local edits observed. No remote freshness/identity
+assertion is made: checking the remote is intentionally suspended. Visible context
+and repository contain continuity; no personal-context search was needed.
 
-**ITD’s North Idaho Payroll Rollout Includes an Upload Option**
+Oct20 article was pushed before the restriction update, but deployment/public
+behavior was not verified then. Today did not poll or retry. Preserve its history
+until restoration permits checking when/if it first became public. Its prepared
+publication metadata is not evidence of actual serving. Do not blindly refresh
+an already published article or backdate a newly released draft. Oct16/17 parent
+public confirmations remain historical; no new confirmations were received.
 
-Target: https://www.idahostack.com/articles/itd-north-idaho-certified-payroll-upload.html
+## New draft
 
-The October1 District1 rollout plan offers an upload route for firms without payroll
-software. Compares that agency instruction with vendor export-format claims and
-DOL certification guidance. Useful distinction: data transfer, authorized signing
-and project review. North Idaho counties verified against ITD district guide;
-no blanket statewide/all-contract scope. Current training linked with verified
-Pacific conversions: Oct21 reporting10am, Oct23 intro8am; not a seat guarantee.
+**Who Maintains Idaho’s 911 Upgrade After the Equipment Arrives?**
 
-ITD page still uses future tense. No authenticated availability, completed migration,
-payroll-file import, contract/licensing costs, time savings or individual compliance
-was inspected. DOL official indexed text retrievable; direct pages returned403.
-No worker records collected and no unsupported security/savings claim adopted.
-Full source locations, access limits and next triggers are in the ledger.
+[HTML preview](../../drafts/idaho-911-shared-technology-local-operations.html)
+Intended future path: articles/idaho-911-shared-technology-local-operations.html.
+No live/public URL or publication date is claimed.
 
-## Implementation and validation
+Distinct public-infrastructure report: October5 multi-jurisdiction call-handling
+agenda, approved July2025/2026 GIS work and posted funding categories explain the
+ongoing responsibilities behind shared technology. National guidance supplies the
+network/GIS context. Source dates/pages/limits are in the ledger. No copied outlet
+story, invented interview/quote/visit or first-hand operating claim.
 
-Honest Organization byline and visible AI method; genuine Oct20 visible/JSON-LD/OG
-timestamp and canonical. Original input-route diagram in16:9,4:3,1:1, descriptive
-alt and illustrative credit; no documentary image/interface claim. Updated home
-lead/generated latest, news, RSS, normal sitemap, baseline related-report link and
-North Idaho region link. Existing guide text/history and old bylines preserved.
+Agenda establishes consideration, not approval or installation. Posted FY2026
+grant instructions have an expired July31,2025 deadline; used for stated funding
+design, not open-application or current legal eligibility advice. Some directly
+system-related salary categories differ from ordinary dispatch/staffing costs.
+No current total cost, October vote, invoice, staffing level, response time,
+location accuracy, outage, system configuration or safety conclusion verified.
 
-News sitemap pruned expired Oct18 metadata: currently Oct19/20 only. Old articles
-remain in RSS/full sitemap/archive. No historical dates refreshed. Source ledger,
-inventory/backlog/operations and Google audit updated; Oct19 handoff archived.
+## Draft safeguards and local changes
 
-Build/check and five regression tests passed. Chromium/Playwright passed15 cases
-(article/home/news/baseline/regions at320/390/1440px), checking responses, overflow,
-images, errors, menus and new links; author/date/canonical match, latest20/19/18.
-Artwork and mobile/desktop layouts visually inspected. Training time conversions
-also checked with timezone database. [Browser record](validation-2026-10-20.json).
-Exact release checks and the remaining blocker are recorded below.
+Preview lives outside /articles. Visible draft status/preparation date, Article
+creativeWorkStatus Draft, robots noindex, no canonical/OG URL/first-publication or
+modification timestamp. Organization author/AI method retained. Original labeled
+responsibility diagram in16:9/4:3/1:1 with descriptive alt. Existing branding/CSS
+and current shared partials. No production implementation/dependency change.
 
-CWI maintenance: current source still lists today’s Oct20 public event4–7:30pm at
-Nampa Micron Education Center, consistent with existing reporting. No correction
-needed. No claim event attendance or outcomes verified; original article retained.
+Draft is absent from home/news/RSS/regular/news sitemaps. Production article and
+guide dates/bylines untouched. Daily local build pruned expired Oct19 news metadata;
+Oct20 remains in current snapshot. This change is local, not a claim live metadata
+has been pruned. Inventory/backlog, operations and audit updated; Oct20 archived
+with an explicit note that its previous remote/redeploy actions are suspended.
 
-## Next actions
+## Verification
 
-1. Verify exact remote tip, fresh deployment status and public article/home/RSS/
-   sitemap/news-sitemap/image before calling it live. If this environment cannot
-   reach origin, parent can fresh-fetch; exact blocked targets will be recorded.
-2. ITD follow-up needs a dated district rollout, public cost record, actual adoption
-   or workflow evidence. Keep vendor support claims attributed. Recheck training
-   calendar when used; do not refresh an old article’s publication date.
-3. Rotate to another concrete local document/decision. Water needs actual survey
-   data, MARVEL needs actual test/data/schedule clarification, transformer lead
-   needs released results, energy docket needs a new filing/order.
-4. Before Nov2, check CWI timetable/cohort evidence without guaranteeing January
-   course start or placement. Today’s event becomes historical after it occurs.
-5. Daily rebuild includes quality holds so expired news metadata is removed.
+`npm run build`, `npm run check` and five discovery/date regression tests passed.
+Production checks intentionally scan root/articles; a separate draft audit checked
+undated/noindex state, JSON-LD, absent canonical/OG dates, no discovery links, local
+links/assets, image dimensions and exact current shared partials. Nine Chromium/
+Playwright cases (draft/home/news at320/390/1440px) passed responses, images,
+overflow, errors and mobile menu checks. Artwork/mobile/desktop visually reviewed.
+[Validation record](validation-2026-10-21.json). Reproducible local audit:
+`python3 docs/editorial/checks/2026-10-21-draft.py` with root server at5173 and
+environment’s existing Pillow/Playwright/Chromium. No Vercel/CI/remote/public/Google
+index checks run under the hold. No News inclusion or rich-result guarantee.
 
-No Search Console, URL Inspection or Rich Results Test was run. No guarantee of
-Google News acceptance, rich results or indexing. No new external account,
-outreach, payment, sensitive disclosure, security/domain/tracking change, hosting
-migration, force push or deployment bypass.
+## Restart only after explicit restoration
 
+1. Check owner update first. If still restricted, continue local work without
+   remote sync, polling or redeployment. Do not repeat a confirmation question.
+2. Preserve local commit/work; safely fetch the established origin only after
+   restoration, inspect divergence and reconcile any new work without force.
+3. Establish Oct20 publication state before touching its dates. Recheck its
+   near-term training listings if it still needs first publication.
+4. Recheck 911 October vote/contract records, newer minutes/funding guidance and
+   source freshness. Revise or hold if facts/framing have changed. No outreach or
+   sensitive allegation is authorized by this restart.
+5. For this draft’s actual publication, use the workflow in drafts/README: move to
+   /articles, remove preview-only/noindex, assign genuine first-publication date,
+   set canonical/OG/NewsArticle metadata and discovery entries. Rebuild, audit and
+   visually check, normal push, then verify exact remote SHA, deployment and fresh
+   public article/home/discovery/image behavior before saying live.
 
-## Release evidence and owner action
-
-Content commit: [6a6b794bb84f48576c6400d206e468fa0ea4dbb6](https://github.com/Mangomangoman1/Idaho-Tech-Blog/commit/6a6b794bb84f48576c6400d206e468fa0ea4dbb6).
-Normal push succeeded October20 at15:36UTC; `git ls-remote` matched exact local SHA.
-
-Fresh GitHub combined status at15:36 and15:37UTC returned an empty status list.
-Check-runs endpoint returned total_count0 at15:36. Yesterday’s bcf8a41 still had
-Vercel success, but that does not verify this article’s release. No deployment
-failure reason, new deployment ID or successful current build was exposed. These
-observations do not establish the cause or whether an unreported deployment exists.
-
-Fresh public requests at15:36:32UTC failed before reaching an application response
-with `Tunnel connection failed: 403 Forbidden` for every target:
-
-- https://www.idahostack.com/articles/itd-north-idaho-certified-payroll-upload.html
-- https://www.idahostack.com/
-- https://www.idahostack.com/feed.xml
-- https://www.idahostack.com/sitemap.xml
-- https://www.idahostack.com/news-sitemap.xml
-- https://www.idahostack.com/assets/articles/itd-north-idaho-certified-payroll-upload-16x9.png
-
-Independent web retrieval could not access the new article. It returned a homepage
-with the October19 lead/latest. Although labeled crawled today, this extraction is
-not a confirmed fresh origin response and cannot prove the new release is absent.
-Public behavior and current deployment remain **unverified**. Do not call it live.
-
-No Vercel connector/CLI, project link file or deployment environment credential is
-available in this environment. Routine git push is complete; a manual authenticated
-Vercel deployment is not callable here. No empty commit, account/configuration,
-Git integration, security/domain or protection change was attempted.
-
-**Owner action:** in the existing Vercel project
-https://vercel.com/wpbfls-5183s-projects/idaho-tech-blog, inspect deployment activity
-and Git events for main commit6a6b794. Supply a deployment/log result or resolve the
-missing deployment through the established workflow. Parent can independently
-fresh-fetch the six targets above and verify metadata, current lead/latest,
-RSS and sitemap dates, and image response. Do not assume the cause matches other
-repositories; no common cause has been verified.
-
-This is an unresolved deployment/public-verification block, not an automatic
-approval-review denial. No restricted action is pending approval. Local reporting,
-checks and normal push are complete. This follow-up commit records real release
-evidence; it is not an empty attempt to trigger hosting. Check final remote tip and
-its deployment status separately; the article itself remains content commit6a6b794.
+Local preservation commit follows this record. Its hash can be read from local
+history; no remote commit/CI/deployment claim is implied.

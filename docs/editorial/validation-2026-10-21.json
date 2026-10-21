@@ -1,0 +1,106 @@
+{
+  "date": "2026-10-21",
+  "scope": "Local only. No GitHub or deployment/public checks attempted under owner hold.",
+  "draft_checks": {
+    "noindex": true,
+    "status": "Draft",
+    "publication_dates_absent": true,
+    "canonical_absent": true,
+    "discovery_exclusion": true,
+    "local_links": true,
+    "shared_partials": true,
+    "three_image_ratios": true
+  },
+  "cases": [
+    {
+      "page": "draft",
+      "width": 320,
+      "height": 740,
+      "http": 200,
+      "overflow": false,
+      "broken_images": [],
+      "page_errors": [],
+      "mobile_menu": "passed"
+    },
+    {
+      "page": "home",
+      "width": 320,
+      "height": 740,
+      "http": 200,
+      "overflow": false,
+      "broken_images": [],
+      "page_errors": [],
+      "mobile_menu": "passed"
+    },
+    {
+      "page": "news",
+      "width": 320,
+      "height": 740,
+      "http": 200,
+      "overflow": false,
+      "broken_images": [],
+      "page_errors": [],
+      "mobile_menu": "passed"
+    },
+    {
+      "page": "draft",
+      "width": 390,
+      "height": 844,
+      "http": 200,
+      "overflow": false,
+      "broken_images": [],
+      "page_errors": [],
+      "mobile_menu": "passed"
+    },
+    {
+      "page": "home",
+      "width": 390,
+      "height": 844,
+      "http": 200,
+      "overflow": false,
+      "broken_images": [],
+      "page_errors": [],
+      "mobile_menu": "passed"
+    },
+    {
+      "page": "news",
+      "width": 390,
+      "height": 844,
+      "http": 200,
+      "overflow": false,
+      "broken_images": [],
+      "page_errors": [],
+      "mobile_menu": "passed"
+    },
+    {
+      "page": "draft",
+      "width": 1440,
+      "height": 1000,
+      "http": 200,
+      "overflow": false,
+      "broken_images": [],
+      "page_errors": [],
+      "mobile_menu": "not_applicable"
+    },
+    {
+      "page": "home",
+      "width": 1440,
+      "height": 1000,
+      "http": 200,
+      "overflow": false,
+      "broken_images": [],
+      "page_errors": [],
+      "mobile_menu": "not_applicable"
+    },
+    {
+      "page": "news",
+      "width": 1440,
+      "height": 1000,
+      "http": 200,
+      "overflow": false,
+      "broken_images": [],
+      "page_errors": [],
+      "mobile_menu": "not_applicable"
+    }
+  ]
+}

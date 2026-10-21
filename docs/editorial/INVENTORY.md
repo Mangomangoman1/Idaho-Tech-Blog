@@ -1,8 +1,13 @@
 # Content inventory and maintenance priorities
 
 Read existing articles and mission/about/policy at takeover, October 16, 2026.
-Inventory maintained October 20; new reporting and source review recorded below.
+Inventory maintained October 21; new reporting and source review recorded below.
 Old display dates and bylines below are observations, not newly certified history.
+
+Current owner hold (Oct21): owner has paused remote GitHub operations. No remote sync/check/push or
+deployment until explicit restoration. Oct20 release remains unverified; its date
+metadata is not proof of first public serving. Preserve history pending evidence.
+
 
 | File | Format / displayed history | Evidence and next action |
 | --- | --- | --- |
@@ -16,6 +21,7 @@ Old display dates and bylines below are observations, not newly certified histor
 | articles/marvel-idaho-dry-criticality-physics-test.html | October 18 public-document reporting and analysis; The Idaho Stack, AI-assisted | Explains dry criticality versus thermal engineering and end-use demonstrations, using October announcement and technical report. Differing public forecasts and unavailable full safety analysis are explicit. See October 18 ledger/handoff for release state. |
 | articles/treasure-valley-well-survey-water-map.html | October 19 public-document reporting and analysis; The Idaho Stack, AI-assisted | Explains the fall survey’s spatial/depth gaps, private access, comparison methods and publicly funded model. No completion count, new trend or spending finding. See October 19 source ledger/handoff. |
 | articles/itd-north-idaho-certified-payroll-upload.html | October 20 public-document reporting and analysis; The Idaho Stack, AI-assisted | District1 rollout plan, upload versus payroll-export routes, certification and project coordination; vendor compatibility attributed. No authenticated testing, completed-migration, savings or individual-contract compliance finding. See October20 ledger/handoff. |
+| drafts/idaho-911-shared-technology-local-operations.html | Undated, unpublished local draft prepared Oct21; The Idaho Stack, AI-assisted | October contract agenda, approved GIS decisions and dated grant categories explain continuing responsibilities. No October vote, total cost or performance finding. Noindex; excluded from discovery; recheck and assign actual publication metadata only after hold ends. |
 | briefing-what-were-tracking-first.html | First briefing; updated May 19 | Seven operating beats. Article markup lacks author/publication dates. No invented historical data added. |
 | business-technology-baseline.html | Living resource; updated May 19, index says May 20 | 14-area maturity checklist. TechArticle and FAQPage; not a newly dated news story. Source-sensitive legal/security/vendor claims need evidence when revised. |
 | the-constraint.html | Series introduction | Defines bottlenecks, cost and execution frame; CollectionPage, not a fabricated new reported series installment. |
@@ -45,7 +51,8 @@ Old display dates and bylines below are observations, not newly certified histor
 
 | Priority | Reader question / angle | Primary lead / verification gate |
 | --- | --- | --- |
-| Now | Which broadband location/provider assignment survived the rebid? | Follow new federal PAC approvals or reconciled state location list. Current piece makes no address-level findings. |
+| Draft Oct21; recheck before release | Who maintains the shared 911 system after equipment arrives? | Commission October5 agenda, July2025/2026 GIS approvals, current program index and dated grant instructions. Seek October decisions/newer guidance; no sensitive operational details or unverified county-performance conclusions. |
+| Watch | Which broadband location/provider assignment survived the rebid? | Follow new federal PAC approvals or reconciled state location list. Current piece makes no address-level findings. |
 | Published topic Oct17; revisit before Oct20/Nov2 | How does a personal course sequence connect to a paid role? | https://cwi.edu/news/discover-your-path-high-tech-career-micron-day and https://cwi.edu/academics/career-technical-education/semiconductor-manufacturing-technology — independently confirm 2026 event, place, 4–7:30 time, registration, access and program outcomes/cost before writing. No attendance or job guarantee. |
 | Covered Oct18; watch for measured result | What does MARVEL safety approval authorize, and what still precedes operation? | https://inl.gov/news-release/marvel-reactor-gets-federal-safety-approval-as-its-primary-vessel-arrives-in-idaho/ — verify Oct 6 date and distinction between approval, vessel arrival, assembly and operation. |
 | New lead; wait for primary data | What does full-scale transformer testing establish about grid recovery? | https://inl.gov/news-release/idaho-researchers-put-electric-grids-most-expensive-component-through-an-earthquake-on-purpose/ — Oct14 release describes testing in San Diego; follow public OSTI/peer-reviewed results and DOE supply-chain records. No Idaho substation risk inference from a lab test. |
