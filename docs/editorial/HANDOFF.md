@@ -1,104 +1,108 @@
-# Session handoff — October 21, 2026
+# Session handoff — October 22, 2026
 
-Read root AGENTS.md and [OPERATIONS.md](OPERATIONS.md), [INVENTORY.md](INVENTORY.md),
-[GOOGLE-AUDIT.md](GOOGLE-AUDIT.md), the [draft workflow](../../drafts/README.md),
-and [911 evidence ledger](../research/2026-10-21-idaho-911-maintenance.md).
-Previous session: [October20](sessions/2026-10-20.md).
+Read root AGENTS.md, [OPERATIONS.md](OPERATIONS.md), [INVENTORY.md](INVENTORY.md),
+[GOOGLE-AUDIT.md](GOOGLE-AUDIT.md), [draft workflow](../../drafts/README.md), and
+[court AI source ledger](../research/2026-10-22-idaho-court-ai-document-control.md).
+Previous session: [October21](sessions/2026-10-21.md).
 
-## Owner hold: local work only
+## Continuing owner hold
 
-The owner has paused remote GitHub operations until they explicitly report
-restoration. This supersedes generic sync/publish instructions and prior redeploy
-suggestions. Until explicit restoration: no fetch/pull/push, remote status polling,
-PR changes or deployment. No alternate credentials/bypass, no repeated pause
-question or redeploy nudge. Local research/edit/check/commit is permitted.
+No restoration update has been received. No fetch/pull/push, remote CI/deployment
+checks, PR work or release attempt until the owner explicitly reports restoration.
+No alternate credentials/environment, user Mac, outreach/interviews, accounts,
+spending, tracking or security changes. No repeated pause question or redeploy
+nudge. Local research, edits, tests and preservation commits only. Existing daily
+recurrence remains; no duplicate automation or agents created.
 
-No remote or deployment action was attempted today. No operation was denied by
-automatic review, and no permission request is pending. GitHub/account restoration
-is the owner-controlled prerequisite, not a task to work around. Existing recurrence
-must not be duplicated. No agents, outreach, interviews, accounts, spending,
-settings/tracking changes or sensitive disclosures.
+No remote, CI, deployment or public-serving check was attempted today. The block
+is the owner’s instruction, not an automatic-review denial or a pending approval.
+Do not infer publication from local dates, old status records or prepared files.
+Older remote actions in session archives are historical, not current permission.
 
-## Local continuity and concurrency
+## Local state and preservation
 
-Clean initial workspace branch work at11fdb6a3a284a06b35708178b8f041af6312de54.
-Local history/instructions, mission/about/policy/roadmap, inventory and prior
-article intent/format reviewed. .agents/.codex contain no local skills. No competing
-editing process or unrelated local edits observed. No remote freshness/identity
-assertion is made: checking the remote is intentionally suspended. Visible context
-and repository contain continuity; no personal-context search was needed.
+Started clean on workspace branch work at99fd6cf5c392a4894380fcfee6bc4f922cbb372f.
+Read local instructions/mission/roadmap/about/policy, handoff/inventory/article
+history and format before selection. .agents/.codex contain no local skills.
+No competing local editing process or unrelated work observed. No remote freshness
+claim. Existing911 HTML, three images, source ledger and Oct21 checker are
+unchanged from99fd6cf, verified with a local git comparison and fresh audit.
 
-Oct20 article was pushed before the restriction update, but deployment/public
-behavior was not verified then. Today did not poll or retry. Preserve its history
-until restoration permits checking when/if it first became public. Its prepared
-publication metadata is not evidence of actual serving. Do not blindly refresh
-an already published article or backdate a newly released draft. Oct16/17 parent
-public confirmations remain historical; no new confirmations were received.
+## New article draft
 
-## New draft
+**Idaho’s Court AI Report Connects Chatbot Plans to Document Control**
 
-**Who Maintains Idaho’s 911 Upgrade After the Equipment Arrives?**
+[HTML preview](../../drafts/idaho-court-ai-document-control.html)
+Intended future path: articles/idaho-court-ai-document-control.html.
 
-[HTML preview](../../drafts/idaho-911-shared-technology-local-operations.html)
-Intended future path: articles/idaho-911-shared-technology-local-operations.html.
-No live/public URL or publication date is claimed.
+Distinct statewide AI/public-administration angle. Court’s October19 release of a
+93-page August2026 NCSC report leads to the proposed operational chatbot’s source
+ownership, approval/update processes and human review. Separate adopted principles
+from proposals, draft policies/orders and an actual implemented service. NIST’s
+voluntary profile supplies independent provenance context, not an Idaho rule.
+Original example/questions are analysis and clearly not a court form/interface.
+No quotes, interviews, internal access, case outcomes or performance claimed.
 
-Distinct public-infrastructure report: October5 multi-jurisdiction call-handling
-agenda, approved July2025/2026 GIS work and posted funding categories explain the
-ongoing responsibilities behind shared technology. National guidance supplies the
-network/GIS context. Source dates/pages/limits are in the ledger. No copied outlet
-story, invented interview/quote/visit or first-hand operating claim.
+All primary source URLs and document dates/page references are in the ledger.
+Relevant report sections and separate principle sheet were read beyond the release.
+The release says the report adopts/requires no tool. The reported initiative did
+not deploy a production AI solution; that is not a branch-wide inventory of all
+existing AI. No private manuals, actual chatbot, procurement cost or savings was
+assessed. No allegation about a person, legal-filing guidance or security detail.
 
-Agenda establishes consideration, not approval or installation. Posted FY2026
-grant instructions have an expired July31,2025 deadline; used for stated funding
-design, not open-application or current legal eligibility advice. Some directly
-system-related salary categories differ from ordinary dispatch/staffing costs.
-No current total cost, October vote, invoice, staffing level, response time,
-location accuracy, outage, system configuration or safety conclusion verified.
+School technology leads were screened but not used; the new court document offered
+a fresher distinct decision and deeper primary detail. No district findings or
+election recommendations added. The911 draft was preserved, not substituted.
 
-## Draft safeguards and local changes
+## Draft safeguards and changes
 
-Preview lives outside /articles. Visible draft status/preparation date, Article
-creativeWorkStatus Draft, robots noindex, no canonical/OG URL/first-publication or
-modification timestamp. Organization author/AI method retained. Original labeled
-responsibility diagram in16:9/4:3/1:1 with descriptive alt. Existing branding/CSS
-and current shared partials. No production implementation/dependency change.
+New preview lives in /drafts with visible unpublished status/preparation date,
+Article creativeWorkStatus Draft, noindex/nofollow and no canonical, OG URL or
+publication/modification timestamp. Honest Organization byline/AI method and
+existing CSS/partials. Three original labeled image ratios with descriptive alt.
+No home/news/desk/RSS/regular/news-sitemap promotion. No production dependency or
+publishing-system change. README/index/backlog/operations/audit updated; Oct21
+handoff archived with relative links repaired.
 
-Draft is absent from home/news/RSS/regular/news sitemaps. Production article and
-guide dates/bylines untouched. Daily local build pruned expired Oct19 news metadata;
-Oct20 remains in current snapshot. This change is local, not a claim live metadata
-has been pruned. Inventory/backlog, operations and audit updated; Oct20 archived
-with an explicit note that its previous remote/redeploy actions are suspended.
+Local daily build now removes the expired Oct20 news metadata; the news sitemap
+is intentionally empty. Regular sitemap/RSS/archive/history remain untouched.
+This is only a local snapshot, not a claim that live discovery has changed.
+Oct20 first-publication state remains unverified and must be established after
+restoration before changing its prepared date metadata.
 
-## Verification
+## Actual verification
 
-`npm run build`, `npm run check` and five discovery/date regression tests passed.
-Production checks intentionally scan root/articles; a separate draft audit checked
-undated/noindex state, JSON-LD, absent canonical/OG dates, no discovery links, local
-links/assets, image dimensions and exact current shared partials. Nine Chromium/
-Playwright cases (draft/home/news at320/390/1440px) passed responses, images,
-overflow, errors and mobile menu checks. Artwork/mobile/desktop visually reviewed.
-[Validation record](validation-2026-10-21.json). Reproducible local audit:
-`python3 docs/editorial/checks/2026-10-21-draft.py` with root server at5173 and
-environment’s existing Pillow/Playwright/Chromium. No Vercel/CI/remote/public/Google
-index checks run under the hold. No News inclusion or rich-result guarantee.
+`npm run build`, `npm run check` and five date/discovery regression tests passed.
+Bespoke audit checked both drafts’ undated/noindex state, JSON-LD/author, absence
+of canonical/OG dates, discovery exclusion, local links/assets, three image ratios
+and current shared partials. Twelve Chromium/Playwright cases (court draft,911
+draft,home,news at320/390/1440px) passed responses, images, overflow, errors and
+mobile menus. Mobile/desktop and original artwork visually reviewed.
+[Validation record](validation-2026-10-22.json).
 
-## Restart only after explicit restoration
+Reproduce with root server at5173 and existing environment tools:
+`python3 docs/editorial/checks/2026-10-22-drafts.py`.
+Production checks scan root/articles; the bespoke audit covers /drafts explicitly.
+No remote/CI/deployment/live or Google index checks, Rich Results Test or URL
+Inspection was run. No live/indexing/Google News claim.
 
-1. Check owner update first. If still restricted, continue local work without
-   remote sync, polling or redeployment. Do not repeat a confirmation question.
-2. Preserve local commit/work; safely fetch the established origin only after
-   restoration, inspect divergence and reconcile any new work without force.
-3. Establish Oct20 publication state before touching its dates. Recheck its
-   near-term training listings if it still needs first publication.
-4. Recheck 911 October vote/contract records, newer minutes/funding guidance and
-   source freshness. Revise or hold if facts/framing have changed. No outreach or
-   sensitive allegation is authorized by this restart.
-5. For this draft’s actual publication, use the workflow in drafts/README: move to
-   /articles, remove preview-only/noindex, assign genuine first-publication date,
-   set canonical/OG/NewsArticle metadata and discovery entries. Rebuild, audit and
-   visually check, normal push, then verify exact remote SHA, deployment and fresh
-   public article/home/discovery/image behavior before saying live.
+## Exact restart conditions
 
-Local preservation commit follows this record. Its hash can be read from local
-history; no remote commit/CI/deployment claim is implied.
+1. Wait for the owner’s explicit restoration update. Until then continue local
+   work only; do not retry remote operations or ask another pause question.
+2. Preserve local commits, safely fetch the established origin after restoration,
+   inspect divergence and reconcile new work without force or unrelated overwrites.
+3. Establish Oct20 article’s actual publication state before changing its dates.
+   If still unpublished, recheck near-term training details before first release.
+4. Recheck court announcement/newer policies/orders/tool decisions and source
+   status. For911, obtain current public decision/funding context. Revise or hold
+   if either draft’s facts/framing are stale. No outreach or sensitive allegations
+   are authorized by this restart.
+5. At actual publication, move a ready draft to /articles, remove preview/hold
+   wording and noindex, assign genuine first-publication metadata/canonical/OG URL,
+   and add production discovery links. Build/audit/visual checks, normal push and
+   exact remote SHA/deployment/fresh public article/discovery/images precede any
+   live claim. Do not backdate drafts or refresh already published news for quota.
+
+Local preservation commit follows this record; read its exact hash from local
+history. No remote commit/deployment outcome is implied.

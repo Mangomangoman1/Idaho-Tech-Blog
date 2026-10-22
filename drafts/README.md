@@ -5,6 +5,25 @@ publication on hold. See [AGENTS.md](../AGENTS.md) and the current
 [handoff](../docs/editorial/HANDOFF.md). Do not fetch, pull, push, poll checks,
 update PRs or deploy until the owner explicitly reports restoration. No bypass.
 
+## October 22: court AI and document control
+
+- [HTML preview](idaho-court-ai-document-control.html)
+- [Source/claim ledger](../docs/research/2026-10-22-idaho-court-ai-document-control.md)
+- [Validation record](../docs/editorial/validation-2026-10-22.json)
+- Intended final path: `articles/idaho-court-ai-document-control.html`
+
+The October19 announcement releases an August2026 report. Its possible operational
+chatbot is not a verified deployed service. Recheck new court orders/policies and
+tool decisions before release; distinguish adopted principles from draft appendices
+and proposals. No case advice or allegations about individuals. Use the common
+publication procedure below after the owner explicitly reports restoration.
+
+Reproduce both drafts’ local audit with a root server on5173 and:
+`python3 docs/editorial/checks/2026-10-22-drafts.py`.
+Existing Pillow, Playwright and system Chromium are used; not a new production
+dependency or CI requirement. The audit also verifies the911 source/assets remain
+unchanged from local commit99fd6cf.
+
 ## October 21: 911 maintenance
 
 - [HTML preview](idaho-911-shared-technology-local-operations.html)

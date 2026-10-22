@@ -159,3 +159,20 @@ expired Oct19 news metadata; Oct20 remains. No claim live snapshot changed.
 Owner explicitly prohibits remote sync/checks/push/deployment until restoration;
 all intentionally unrun today. No alternate access, bypass, indexing claim or
 Search Console/Rich Results Test. Current handoff supersedes earlier release nudges.
+
+
+## October22 local draft and expiry maintenance
+
+Rechecked official [Article guidance](https://developers.google.com/search/docs/appearance/structured-data/article)
+and [news sitemap rules](https://developers.google.com/search/docs/crawling-indexing/sitemaps/news-sitemap).
+New court AI preview remains Article/Draft/noindex, honestly authored and undated,
+with no canonical/OG URL or production discovery entries. Real publication dates
+and production metadata are deferred to actual release, not the preparation date.
+Both drafts pass custom isolation/link/metadata/partial/image audits and12responsive
+cases. Existing911 files remain unchanged. Standard build/check + five regression
+tests passed. Local news snapshot is now intentionally empty after Oct20 expiry;
+no old publication timestamps changed or archive URLs removed.
+
+Owner hold prevents remote/CI/deployment/live checks. None attempted; no indexing,
+News inclusion or rich-result guarantee. Historical release statuses do not verify
+either draft. Handoff supplies safe restoration/revalidation/publication steps.

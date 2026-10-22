@@ -131,5 +131,9 @@ Advance the energy docket only on an actual new filing/order, not its update dat
 October21 local draft covers shared911 contracts, continuing GIS work and local
 operating costs. Check actual October decisions/newer funding rules before release;
 posted FY2026 deadline is expired, and an agenda is not an approval.
+October22 draft covers the newly released court AI report and control of a possible
+operational chatbot’s source documents. Preserve adopted-principle/proposal/tool
+status distinctions; recheck newer policy decisions and avoid individual-case claims.
+Both drafts stay undated and out of discovery during the continuing owner hold.
 Build remaining backlog items into claim ledgers before committing to dates. No
 interview quota is authorized; outreach needs approval.
