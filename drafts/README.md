@@ -5,6 +5,24 @@ publication on hold. See [AGENTS.md](../AGENTS.md) and the current
 [handoff](../docs/editorial/HANDOFF.md). Do not fetch, pull, push, poll checks,
 update PRs or deploy until the owner explicitly reports restoration. No bypass.
 
+## October 23: INL software access and licensing
+
+- [HTML preview](inl-software-browser-access-licensing.html)
+- [Source/claim ledger](../docs/research/2026-10-23-inl-software-access-licensing.md)
+- [Validation record](../docs/editorial/validation-2026-10-23.json)
+- Intended final path: `articles/inl-software-browser-access-licensing.html`
+
+Recheck the October22 notice/September24 selection context, ELEMENT/E-Lucid
+goals and current product/contract status before release. FieldSim is an existing
+example, not an identified selection in either new project. No current license,
+pricing, support, delivered hosted app or savings were tested. Do not create an
+account, accept a license or contact anyone as part of release without authorization.
+
+Reproduce all three local draft audits with root server on5173 and:
+`python3 docs/editorial/checks/2026-10-23-drafts.py`.
+Uses existing environment tools. Checks preserve prior draft source/images/ledgers/
+checkers against local94c7b67. No new production dependency or remote operation.
+
 ## October 22: court AI and document control
 
 - [HTML preview](idaho-court-ai-document-control.html)

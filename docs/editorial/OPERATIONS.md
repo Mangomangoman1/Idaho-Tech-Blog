@@ -134,6 +134,10 @@ posted FY2026 deadline is expired, and an agenda is not an approval.
 October22 draft covers the newly released court AI report and control of a possible
 operational chatbot’s source documents. Preserve adopted-principle/proposal/tool
 status distinctions; recheck newer policy decisions and avoid individual-case claims.
-Both drafts stay undated and out of discovery during the continuing owner hold.
+October23 draft covers INL software delivery and licensing: ELEMENT hosted-app
+goals versus E-Lucid storefront expansion, with existing access/licensing examples.
+Recheck program selections and product terms before release; no FieldSim award
+connection or delivered application is inferred. All three drafts remain undated
+and outside discovery during the continuing owner hold.
 Build remaining backlog items into claim ledgers before committing to dates. No
 interview quota is authorized; outreach needs approval.

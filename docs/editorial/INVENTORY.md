@@ -1,7 +1,7 @@
 # Content inventory and maintenance priorities
 
 Read existing articles and mission/about/policy at takeover, October 16, 2026.
-Inventory maintained October 22; new reporting and source review recorded below.
+Inventory maintained October 23; new reporting and source review recorded below.
 Old display dates and bylines below are observations, not newly certified history.
 
 Current owner hold (Oct21): owner has paused remote GitHub operations. No remote sync/check/push or
@@ -23,6 +23,7 @@ metadata is not proof of first public serving. Preserve history pending evidence
 | articles/itd-north-idaho-certified-payroll-upload.html | October 20 public-document reporting and analysis; The Idaho Stack, AI-assisted | District1 rollout plan, upload versus payroll-export routes, certification and project coordination; vendor compatibility attributed. No authenticated testing, completed-migration, savings or individual-contract compliance finding. See October20 ledger/handoff. |
 | drafts/idaho-911-shared-technology-local-operations.html | Undated, unpublished local draft prepared Oct21; The Idaho Stack, AI-assisted | October contract agenda, approved GIS decisions and dated grant categories explain continuing responsibilities. No October vote, total cost or performance finding. Noindex; excluded from discovery; recheck and assign actual publication metadata only after hold ends. |
 | drafts/idaho-court-ai-document-control.html | Undated, unpublished local draft prepared Oct22; The Idaho Stack, AI-assisted | October19 release of August NCSC report; operational chatbot source ownership/update control and adopted human-review principles. No deployed-tool, savings, case or branch-wide inventory claim. Noindex; excluded from discovery; recheck policy status before publication. |
+| drafts/inl-software-browser-access-licensing.html | Undated, unpublished local draft prepared Oct23; The Idaho Stack, AI-assisted | October22 notice/DOE selections distinguish hosted applications and licensing storefronts; existing FieldSim/access records give a concrete example. No FieldSim selection, completed app, price or savings claim. Noindex; absent from discovery; recheck all program/product terms before release. |
 | briefing-what-were-tracking-first.html | First briefing; updated May 19 | Seven operating beats. Article markup lacks author/publication dates. No invented historical data added. |
 | business-technology-baseline.html | Living resource; updated May 19, index says May 20 | 14-area maturity checklist. TechArticle and FAQPage; not a newly dated news story. Source-sensitive legal/security/vendor claims need evidence when revised. |
 | the-constraint.html | Series introduction | Defines bottlenecks, cost and execution frame; CollectionPage, not a fabricated new reported series installment. |
@@ -52,6 +53,7 @@ metadata is not proof of first public serving. Preserve history pending evidence
 
 | Priority | Reader question / angle | Primary lead / verification gate |
 | --- | --- | --- |
+| Draft Oct23; recheck program/product status | How does an Idaho lab tool become a usable software offer? | DOE ELEMENT/E-Lucid descriptions, INL Oct22 notice, marketplace/licensing and FieldSim records. Hosted-app goals and license pathways are separate; no selection, immediate availability or current price inferred. |
 | Draft Oct22; recheck policy status | What gives a possible court chatbot an authoritative source? | Court October19 announcement, August2026 NCSC report pp7,36–40 and adopted principles; verify newer orders/tool decisions before release. No individual-case allegations or legal-filing advice. |
 | Draft Oct21; recheck before release | Who maintains the shared 911 system after equipment arrives? | Commission October5 agenda, July2025/2026 GIS approvals, current program index and dated grant instructions. Seek October decisions/newer guidance; no sensitive operational details or unverified county-performance conclusions. |
 | Watch | Which broadband location/provider assignment survived the rebid? | Follow new federal PAC approvals or reconciled state location list. Current piece makes no address-level findings. |

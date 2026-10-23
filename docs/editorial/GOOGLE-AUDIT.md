@@ -176,3 +176,19 @@ no old publication timestamps changed or archive URLs removed.
 Owner hold prevents remote/CI/deployment/live checks. None attempted; no indexing,
 News inclusion or rich-result guarantee. Historical release statuses do not verify
 either draft. Handoff supplies safe restoration/revalidation/publication steps.
+
+
+## October23 local software draft
+
+Rechecked official [Article properties](https://developers.google.com/search/docs/appearance/structured-data/article)
+and [publication dates](https://developers.google.com/search/docs/appearance/publication-dates).
+New preview is Article/Draft/noindex, honestly authored and undated, with three
+original image ratios and no canonical/OG URL/publication timestamps or discovery
+promotion. Real production metadata is deferred to actual publication. Prior two
+drafts preserved unchanged. All three draft safeguards plus15responsive cases pass;
+standard build/check + five regression tests pass. Local news sitemap remains
+intentionally empty; no old dates refreshed or archive URLs removed.
+
+Owner hold remains; no remote/CI/deployment/live/Google index verification attempted.
+No current deployment or Google News/rich-result guarantee. Recovery must start
+with explicit restoration and source/status rechecks in HANDOFF.md.
