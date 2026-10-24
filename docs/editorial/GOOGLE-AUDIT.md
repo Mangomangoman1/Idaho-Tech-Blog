@@ -192,3 +192,20 @@ intentionally empty; no old dates refreshed or archive URLs removed.
 Owner hold remains; no remote/CI/deployment/live/Google index verification attempted.
 No current deployment or Google News/rich-result guarantee. Recovery must start
 with explicit restoration and source/status rechecks in HANDOFF.md.
+
+
+## October24 quality hold and preservation check
+
+Reopened official [Article guidance](https://developers.google.com/search/docs/appearance/structured-data/article),
+[publication dates](https://developers.google.com/search/docs/appearance/publication-dates)
+and [news sitemaps](https://developers.google.com/search/docs/crawling-indexing/sitemaps/news-sitemap).
+No fourth draft created: the transit lead needs stronger evidence. Three existing
+previews remain unchanged, honestly authored, undated/noindex and outside discovery.
+No canonical/publication date assigned to a research dossier. The daily build leaves
+local news metadata intentionally empty; no archive dates or URLs were refreshed.
+
+Standard build/check and five regression tests passed, as did all three draft
+safeguards/preservation checks and15responsive browser cases. Representative mobile/
+desktop views reviewed. See the current handoff and validation record for scope.
+Owner hold prevents remote/CI/deployment/public serving checks; none attempted.
+No Rich Results Test, Search Console, indexing or News-inclusion result claimed.

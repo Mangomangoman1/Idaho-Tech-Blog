@@ -1,7 +1,7 @@
 # Content inventory and maintenance priorities
 
 Read existing articles and mission/about/policy at takeover, October 16, 2026.
-Inventory maintained October 23; new reporting and source review recorded below.
+Inventory maintained October 24; new reporting and source review recorded below.
 Old display dates and bylines below are observations, not newly certified history.
 
 Current owner hold (Oct21): owner has paused remote GitHub operations. No remote sync/check/push or
@@ -49,10 +49,19 @@ metadata is not proof of first public serving. Preserve history pending evidence
 - Home/news/llms: navigation and discovery. llms.txt is descriptive and is not a
   Google News submission mechanism or eligibility requirement.
 
+## October 24 quality hold
+
+No fourth article: the Ammon transit follow-up needs readable decision records,
+verified current geography/access and a development beyond September launch news.
+The three existing drafts remain unchanged and unpublished. See the
+[primary-source dossier and freshness register](../research/2026-10-24-ammon-gift-service-boundary.md)
+for exact records, retrieval limits and the next evidence gates. No remote checks.
+
 ## Prioritized backlog (pitches; not verified or publication commitments)
 
 | Priority | Reader question / angle | Primary lead / verification gate |
 | --- | --- | --- |
+| Research hold Oct24 | Which trips does GIFT’s Ammon expansion actually enable? | [Dossier](../research/2026-10-24-ammon-gift-service-boundary.md): October board attachments and earlier launch/booking records; verify decisions, current boundary and rider instructions. No signed-contract, spending, ridership or universal coverage claim. |
 | Draft Oct23; recheck program/product status | How does an Idaho lab tool become a usable software offer? | DOE ELEMENT/E-Lucid descriptions, INL Oct22 notice, marketplace/licensing and FieldSim records. Hosted-app goals and license pathways are separate; no selection, immediate availability or current price inferred. |
 | Draft Oct22; recheck policy status | What gives a possible court chatbot an authoritative source? | Court October19 announcement, August2026 NCSC report pp7,36–40 and adopted principles; verify newer orders/tool decisions before release. No individual-case allegations or legal-filing advice. |
 | Draft Oct21; recheck before release | Who maintains the shared 911 system after equipment arrives? | Commission October5 agenda, July2025/2026 GIS approvals, current program index and dated grant instructions. Seek October decisions/newer guidance; no sensitive operational details or unverified county-performance conclusions. |

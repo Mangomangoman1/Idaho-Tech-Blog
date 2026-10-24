@@ -5,6 +5,16 @@ publication on hold. See [AGENTS.md](../AGENTS.md) and the current
 [handoff](../docs/editorial/HANDOFF.md). Do not fetch, pull, push, poll checks,
 update PRs or deploy until the owner explicitly reports restoration. No bypass.
 
+## October 24: reporting quality hold
+
+No fourth draft. The [Ammon transit dossier](../docs/research/2026-10-24-ammon-gift-service-boundary.md)
+preserves a distinct lead, primary evidence and unresolved verification gates.
+All three previews below retain their original source, images, authorship and
+undated unpublished status. Latest all-draft/local preservation audit:
+`python3 docs/editorial/checks/2026-10-24-drafts.py` with the root server on5173.
+The [October24 validation](../docs/editorial/validation-2026-10-24.json) records
+actual checks; no remote serving or source-status refresh of those drafts implied.
+
 ## October 23: INL software access and licensing
 
 - [HTML preview](inl-software-browser-access-licensing.html)

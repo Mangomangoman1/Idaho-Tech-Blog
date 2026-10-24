@@ -1,108 +1,108 @@
-# Session handoff — October 23, 2026
+# Session handoff — October 24, 2026
 
 Read root AGENTS.md, [OPERATIONS.md](OPERATIONS.md), [INVENTORY.md](INVENTORY.md),
-[GOOGLE-AUDIT.md](GOOGLE-AUDIT.md), [draft workflow](../../drafts/README.md), and
-[software evidence ledger](../research/2026-10-23-inl-software-access-licensing.md).
-Previous session: [October22](sessions/2026-10-22.md).
+[GOOGLE-AUDIT.md](GOOGLE-AUDIT.md), the [draft index](../../drafts/README.md), and
+[today's source dossier](../research/2026-10-24-ammon-gift-service-boundary.md).
+Previous session: [October23](sessions/2026-10-23.md).
 
-## Continuing local-only instruction
+## Continuing owner hold
 
-No owner restoration update. No fetch/pull/push, remote CI/deployment/live checks,
-PR changes or release attempts. No alternative credentials/environment, user Mac,
-accounts, subscriptions, spending, outreach, interviews, tracking or security changes.
-No repeated pause question or redeploy nudge. Local research, edits, tests and
-preservation commits only. No agents or duplicate recurrence created.
+No restoration update. No fetch/pull/push, remote GitHub/CI/deployment checks,
+PR update, public release check or publication attempt. No alternative environment,
+user Mac, credentials, accounts, spending, outreach, interviews, tracking or security
+change. No second writer or duplicate recurring task. No repeated pause question
+or redeploy nudge. Local research, edits, tests and commits remain authorized.
 
-No remote or release action was attempted today. No automatic approval denial or
-pending permission. The block is the owner's continuing instruction; restoration
-must be explicit. Historical release records do not authorize a retry or imply a
-current deployment. Do not publish a private conversation or sensitive account
-details in repository notes.
+The restricted action is remote reconciliation/publication of this repository;
+it was intentionally not attempted, not denied by automatic approval review.
+No pending approval or uncertain remote mutation. Historical statuses do not
+establish today's deployment. Keep private conversation/account details out of
+repository notes.
 
-## Local continuity and preservation
+## Local continuity
 
-Started clean on branch work at94c7b67e365d66094b7dc25cf84bf8059ef1ec52.
-Read local mission/roadmap/about/policy, instructions, handoff, inventory/history and
-current article/draft formats before choosing the angle. No local .agents/.codex
-skills or competing editor/unrelated changes observed. No assertion of remote
-freshness. Both prior drafts' HTML/images/ledgers/checkers are unchanged from
-94c7b67, verified with local git comparison and the new all-draft audit.
+Started clean on work at22fb648f6449b7bc698b44cdc516f4a6def8840f. Read the local
+mission/roadmap, about/policy, operating instructions, handoff, inventory, history
+and current articles/drafts before selecting work. No competing editor or unrelated
+work observed. No new remote freshness or repository-state claim.
 
-## New researched draft
+The911, court AI and INL software drafts, their images, source ledgers and previous
+audit scripts remain unchanged against that local baseline. Production HTML,
+assets, partials, scripts, RSS, normal sitemap, robots and Vercel configuration
+also compare unchanged. No new author, publication date or deployed URL assigned.
 
-**INL’s New Software Funding Targets Browser Access and Easier Licensing**
+## Editorial decision: strengthen evidence, hold a fourth story
 
-[HTML preview](../../drafts/inl-software-browser-access-licensing.html)
-Future intended path: articles/inl-software-browser-access-licensing.html.
+The strongest distinct lead is **which trips GIFT's Ammon expansion actually makes
+possible**, connecting service geography, public funding, booking access and
+reporting of use. New [primary-source dossier](../research/2026-10-24-ammon-gift-service-boundary.md)
+records exact URLs, document/event dates, retrieved evidence, claim limits and
+four gates before a publishable follow-up. No finished article or scoop claimed.
 
-New Oct22 INL announcement supplies the hook; it cites DOE's Sept24 selections.
-DOE descriptions distinguish ELEMENT's goal of hosted research applications and
-E-Lucid's multi-lab storefront/licensing pathway. Existing marketplace, licensing
-and FieldSim records add a concrete distinction between runtime requirements,
-use rights and support. Original analysis, not a press-release copy or endorsement.
-No invented interview, quote, first-hand use, code download or license acceptance.
+The September25 city notice and October1 launch are historical. October meeting
+materials include an October2 city letter; attachment listing is not proof of a
+new board decision. The posted agreement is not evidence of final execution or
+actual spending. Two Word decision documents were unreadable in the web extractor;
+one direct request to each returned proxy tunnel403. The proposed map exceeded
+web size limits. The separate city notice image was located but its boundary was
+not visually inspected. No address-level coverage, current app behavior, usage
+benefit, guaranteed journey or service failure inferred. Full scope in the ledger.
 
-ELEMENT is a goal of20+tools over24months, not a completed inventory. INL's stated
-$1.8m federal/$400k cost share is funding, not verified expenditure. FieldSim's
-public research page and Sept3 commercialization account describe prerequisites,
-licensing stages and a Montana trial. They do not establish selection for either
-new project, a current commercial license, Idaho farm deployment, sales or savings.
-No individual agreement, price, support contract, hosted app or performance tested.
-The source ledger records exact URLs, dates, locations, scope and unresolved facts.
+Next research: readable decisions/final terms, current official boundary, consistent
+rider instructions and, for an outcomes story, a defined public reporting period.
+No interviews, app/account creation, booking, payment or actual ride conducted.
+Do not publish the source comparison as an allegation about any person or service.
 
-Checked alternatives: IPSCC index still visibly provides minutes only through July2;
-no new October outcome for911 verified. IPC-E-26-07 index updateOct20 did not expose
-a new binding order. No new utility decision or safety allegation inferred. The
-new INL primary document offered a stronger distinct topic than those stale leads.
+Other leads were weaker: wastewater announcement's detail date is April10 despite
+a recent-looking widget label; lidar planning pages did not establish a new October
+data release; an AI podcast search lead did not establish a distinct dated change.
+No filler or generic announcement rewrite added. Inventory/operations/draft index
+now point to the evidence gates rather than promise another publication date.
 
-## Draft safeguards and local implementation
+## Actual local checks
 
-New Article/Draft preview in /drafts, visible preparation date/unpublished status,
-Organization author/AI method, noindex/nofollow, no canonical/OG URL or publication/
-modification timestamp. Three original representative graphics with alt text; no
-documentary photo/interface/license-template claim. Existing branding/CSS/partials.
-No production infrastructure or dependency changes.
+- npm run build: passed,0files changed. The local news sitemap remains intentionally
+  empty after all dated news metadata expired. No claim that live files changed.
+- npm run check: passed build freshness, page/local-link/JSON-LD/date/RSS/sitemap
+  checks and all five discovery/date regression tests. No dependencies installed.
+- [October24 draft audit](checks/2026-10-24-drafts.py): all three draft isolation,
+  undated Article/Draft/Organization author, no canonical/OG URL/date fields,
+  noindex/discovery exclusion, local links, images/dimensions and current partials
+  passed. Local comparison against22fb648 preserves all three and production files.
+- Fifteen Chromium/Playwright cases passed: three drafts,home,news at320/390/1440px;
+  HTTP200, no horizontal page overflow, broken images or page errors, and mobile
+  menu behavior. Representative software-draft mobile/desktop views reviewed.
+  [Machine record](validation-2026-10-24.json).
+- Local Markdown targets and git diff --check checked before preservation commit.
 
-All three drafts remain absent from home/news/desk/RSS/regular/news sitemaps.
-Prior articles/bylines/dates unchanged. Daily build leaves the local news sitemap
-intentionally empty, as all dated news metadata has expired. No live-file update
-claim. Inventory/backlog/operations/audit/README updated; Oct22 handoff archived
-with relative links repaired. Oct20 first-publication state still needs evidence
-after restoration; do not silently backdate or refresh its prepared metadata.
+Reproduce with root server at127.0.0.1:5173 and existing Pillow/Playwright/Chromium:
+python3 docs/editorial/checks/2026-10-24-drafts.py. Screenshot paths in /tmp are
+session artifacts, not durable evidence files. Current production metadata checks
+are local; no draft source-status refresh is implied by passing them.
 
-## Actual verification
+Reopened official Google Article/date/news-sitemap guidance. No metadata change
+needed: drafts remain unpublished, news expiry does not refresh old article dates.
+No Rich Results Test, Search Console/URL Inspection, remote checks, deployment or
+public-origin verification. No current live, indexing or Google News inclusion claim.
 
-`npm run build`, `npm run check` and five date/discovery regression tests passed.
-The custom audit covers /drafts beyond the production checker: all three undated/
-noindex/JSON-LD/author/canonical-absence/discovery safeguards, local links, current
-partials and three image dimensions. Fifteen Chromium/Playwright cases (three
-drafts,home,news at320/390/1440px) passed responses, images, overflow, page errors
-and mobile-menu behavior. Desktop/mobile/new artwork visually reviewed. Prior
-draft preservation checked against local94c7b67.
-[Validation record](validation-2026-10-23.json).
+## Exact restart sequence
 
-Reproduce using root server at5173, existing Pillow/Playwright/Chromium, and
-`python3 docs/editorial/checks/2026-10-23-drafts.py`.
-No remote GitHub/CI/deployment/public-serving/Google index checks performed.
-No Rich Results Test/URL Inspection, live, indexing or News-inclusion claim.
+1. Until explicit owner restoration, continue local-only and preserve all commits.
+   Advance today's public-document gates or a stronger lead without a quota.
+2. After restoration, safely fetch the established origin, inspect divergence and
+   reconcile concurrent work without force or unrelated overwrites. Local commit
+   history must survive. No alternative account, settings or bypass authorized.
+3. Establish whether/when the October20 article first became public before changing
+   its prepared date metadata; if unpublished, refresh expired training details.
+4. Refresh every chosen draft's primary sources/status:911 decisions/funding,
+   court policy/tool status, or DOE/INL program and product/license status. Revise
+   or hold stale material. Today's transit dossier still has independent research
+   gates; GitHub restoration alone will not make it ready for publication.
+5. On actual publication, move a ready draft into articles, remove preview/noindex,
+   add production canonical/OG/NewsArticle and genuine first-publication timestamp,
+   update discovery, rebuild/check and review mobile/desktop. Normal push must be
+   followed by exact remote SHA, deployment and fresh public article/discovery/image
+   checks before any live claim. No backdating or promotion via invented updates.
 
-## Exact recovery sequence after owner restoration
-
-1. Until explicit restoration, continue local-only. Do not fetch, poll or attempt
-   release, use alternatives or ask another pause confirmation.
-2. Preserve local commits; safely fetch established origin after restoration,
-   inspect divergence and reconcile new work without force/unrelated overwrites.
-3. Determine whether/when Oct20 article first became public before changing dates;
-   if still unpublished, recheck its time-sensitive training details before release.
-4. Recheck DOE/INL program and product/license status; revise or hold if stale. For
-   prior drafts recheck911 public decisions/funding and court policy/tool status.
-   No new account, license acceptance, contact, spending or sensitive allegation
-   is authorized by this sequence.
-5. At actual publication move a ready draft to /articles, replace preview/noindex
-   with production canonical/OG/NewsArticle metadata and genuine publication date,
-   add discovery entries, then build/audit/visual review. Only after normal push,
-   exact remote SHA, deployment and fresh public article/discovery/image verification
-   may a live claim be made. No quota-driven old-date refresh.
-
-Local preservation commit follows this record; its hash is in local history.
-No remote commit or deployment outcome is implied.
+Local task-only preservation commit follows; read local history for its SHA.
+No remote commit or deployment outcome implied.
