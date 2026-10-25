@@ -1,0 +1,163 @@
+{
+  "date": "2026-10-25",
+  "scope": "Local only; no remote GitHub/CI/deployment/public serving checks under owner hold.",
+  "draft_checks": {
+    "all_three_undated_noindex": true,
+    "discovery_exclusion": true,
+    "local_links_images_jsonld_partials": true,
+    "local_news_sitemap_empty": true,
+    "preserved_all_three_and_production_articles_against_local_79a49c1": true
+  },
+  "cases": [
+    {
+      "page": "software-draft",
+      "width": 320,
+      "height": 740,
+      "http": 200,
+      "overflow": false,
+      "broken_images": [],
+      "page_errors": [],
+      "mobile_menu": "passed"
+    },
+    {
+      "page": "court-draft",
+      "width": 320,
+      "height": 740,
+      "http": 200,
+      "overflow": false,
+      "broken_images": [],
+      "page_errors": [],
+      "mobile_menu": "passed"
+    },
+    {
+      "page": "911-draft",
+      "width": 320,
+      "height": 740,
+      "http": 200,
+      "overflow": false,
+      "broken_images": [],
+      "page_errors": [],
+      "mobile_menu": "passed"
+    },
+    {
+      "page": "home",
+      "width": 320,
+      "height": 740,
+      "http": 200,
+      "overflow": false,
+      "broken_images": [],
+      "page_errors": [],
+      "mobile_menu": "passed"
+    },
+    {
+      "page": "news",
+      "width": 320,
+      "height": 740,
+      "http": 200,
+      "overflow": false,
+      "broken_images": [],
+      "page_errors": [],
+      "mobile_menu": "passed"
+    },
+    {
+      "page": "software-draft",
+      "width": 390,
+      "height": 844,
+      "http": 200,
+      "overflow": false,
+      "broken_images": [],
+      "page_errors": [],
+      "mobile_menu": "passed"
+    },
+    {
+      "page": "court-draft",
+      "width": 390,
+      "height": 844,
+      "http": 200,
+      "overflow": false,
+      "broken_images": [],
+      "page_errors": [],
+      "mobile_menu": "passed"
+    },
+    {
+      "page": "911-draft",
+      "width": 390,
+      "height": 844,
+      "http": 200,
+      "overflow": false,
+      "broken_images": [],
+      "page_errors": [],
+      "mobile_menu": "passed"
+    },
+    {
+      "page": "home",
+      "width": 390,
+      "height": 844,
+      "http": 200,
+      "overflow": false,
+      "broken_images": [],
+      "page_errors": [],
+      "mobile_menu": "passed"
+    },
+    {
+      "page": "news",
+      "width": 390,
+      "height": 844,
+      "http": 200,
+      "overflow": false,
+      "broken_images": [],
+      "page_errors": [],
+      "mobile_menu": "passed"
+    },
+    {
+      "page": "software-draft",
+      "width": 1440,
+      "height": 1000,
+      "http": 200,
+      "overflow": false,
+      "broken_images": [],
+      "page_errors": [],
+      "mobile_menu": "not_applicable"
+    },
+    {
+      "page": "court-draft",
+      "width": 1440,
+      "height": 1000,
+      "http": 200,
+      "overflow": false,
+      "broken_images": [],
+      "page_errors": [],
+      "mobile_menu": "not_applicable"
+    },
+    {
+      "page": "911-draft",
+      "width": 1440,
+      "height": 1000,
+      "http": 200,
+      "overflow": false,
+      "broken_images": [],
+      "page_errors": [],
+      "mobile_menu": "not_applicable"
+    },
+    {
+      "page": "home",
+      "width": 1440,
+      "height": 1000,
+      "http": 200,
+      "overflow": false,
+      "broken_images": [],
+      "page_errors": [],
+      "mobile_menu": "not_applicable"
+    },
+    {
+      "page": "news",
+      "width": 1440,
+      "height": 1000,
+      "http": 200,
+      "overflow": false,
+      "broken_images": [],
+      "page_errors": [],
+      "mobile_menu": "not_applicable"
+    }
+  ]
+}

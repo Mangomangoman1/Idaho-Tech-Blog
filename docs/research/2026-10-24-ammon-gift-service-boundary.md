@@ -78,3 +78,55 @@ Next session: read the current handoff, preserve all local commits and drafts,
 then advance the gates above or another better-evidenced pitch. Only explicit
 owner restoration permits remote reconciliation and release work. Recheck current
 sources and statuses at that point; assign genuine dates only on publication.
+
+## October 25 follow-up: official map route found; decision gates remain
+
+Reviewed October 25, 2026, during the Idaho morning. **Research hold continues; no
+new draft.** Today's work pursued the existing gaps rather than adding an adjacent
+announcement piece. The positive finding is an official city navigation route to
+a county-hosted GIFT map. Its content, date and coverage were not retrievable, so
+the boundary gate is still open. No first-hand rider experience or current service
+availability has been established.
+
+| Primary target / precise location | Actual result and supported conclusion |
+| --- | --- |
+| [Ammon homepage](https://cityofammon.us/), Explore/Maps navigation, GIFT Map | Verified the city's own link to the county application below. Establishes a public source route, not that a new map was released today, its approval date or any particular address's eligibility. |
+| [County GIFT map application](https://gis.bonnevillecountyidaho.gov/portal/apps/experiencebuilder/experience/?id=4e691985aa364ee29c834aecdeb261f6) | Web extractor returned a JavaScript application shell, zero content lines. No visual boundary, layer, legend, timestamp or address query inspected. Do not mark the map gate closed. |
+| [Ammon meetings page](https://cityofammon.us/government/meetings/), City Council agendas/minutes links | Verified official links to the public records browser, not a meeting outcome. Both linked archive targets below timed out in the web tool. No inference that records are absent, unposted or inaccessible to the public generally. |
+| [Agenda archive](https://public.cityofammon.us/weblink/Browse.aspx?startid=27) and [minutes archive](https://public.cityofammon.us/weblink/Browse.aspx?startid=59) | Timeout fetching; no folder contents read. The [indexed funding record](https://public.cityofammon.us/WebLink/DocView.aspx?dbid=0&id=156034&repo=Ammon) also returned inaccessible. A search snippet mentioning funding is not an approval, executed agreement or complete record. |
+| [GIFT board index](https://www.greateriftransit.com/boardmeetings), October 20 section | Still lists October agenda and September minutes as attachments; no October minutes or vote outcome verified from this view. Not proof no decision occurred. Unsupported Word bodies were not re-requested through the same extractor. |
+| [Schedule](https://www.greateriftransit.com/schedulearide), [FAQ](https://www.greateriftransit.com/faq) and [fare page](https://www.greateriftransit.com/ridecost) | Public guidance still has the prior geography/telephone/reservation-horizon reconciliation flags. FAQ describes requesting wheelchair-compatible service and assistance; that statement does not verify vehicle availability, an individual trip or accessible walking routes. No new fare decision or guarantee established. |
+| [City expansion notice](https://idahofallsidaho.gov/m/newsflash/home/detail/3013) | Explicit September 25 detail date remains; its launch announcement and source links are not a newly verified October 25 event. Its service-area image remains uninspected. |
+
+### Additional retrieval attempts and exact status
+
+The following read-only requests completed with errors; none is pending and none
+was an automatic approval denial. No authenticated access, credentials or setting
+changes were attempted. A proxy rejection before the origin is not evidence about
+the origin's availability or the document's content.
+
+- County application item metadata: `https://gis.bonnevillecountyidaho.gov/portal/sharing/rest/content/items/4e691985aa364ee29c834aecdeb261f6?f=pjson` — web inaccessible; one direct Python HTTPS request returned proxy tunnel 403. No JSON/body inspected.
+- County item configuration: `https://gis.bonnevillecountyidaho.gov/portal/sharing/rest/content/items/4e691985aa364ee29c834aecdeb261f6/data?f=pjson` — web inaccessible. No layers or map identifiers recovered.
+- City notice image: `https://idahofallsidaho.gov/ImageRepository/Document?documentId=20784` — image-capable web request inaccessible; one direct Python request returned proxy tunnel 403. No image bytes saved or visual inspection claimed.
+- One direct request for each possible Wix CDN representation of the two known file paths returned proxy tunnel 403: `https://static.wixstatic.com/ugd/467271_c2069d280a8349d8982f57cb1b4cafa0.docx` and `https://static.wixstatic.com/ugd/467271_8949b7276c004127b20e3310bc9482a3.docx`. These were constructed equivalents, not independently published links or verified identical documents. No bytes downloaded, text extracted or approval inferred. Cite the original published index links, not these attempted representations.
+- Ammon budget page `https://cityofammon.us/government/budget/` — web inaccessible. No budget amount, fiscal-year adoption or payment finding added.
+
+### Decision and next trigger
+
+**Verified:** the official city link to the county map and the operator's current
+displayed guidance. **Still unverified:** final agreement/decision, actual map
+boundary, reconciled instructions and defined usage/cost results. **Analysis:**
+these gaps prevent a defensible practical trip guide or new outcomes story today.
+No claim that the service is defective or that an entity withheld information.
+
+Search also surfaced existing October launch/boundary coverage. Treat it as a
+duplication warning and a route to primary evidence, not independent corroboration
+of the unresolved details. No third-party quotations or interviews reused.
+
+Next useful trigger: a newly readable official decision/executed agreement,
+supported map rendering with its date/legend, updated public rider instructions,
+or a dated public operations report. Do not repeat the same unsupported/oversize
+document requests daily with unchanged tools. If those gates remain closed, rotate
+to another substantiated local development instead of rephrasing the launch.
+No outreach, account, app installation, booking, payment or alternate environment
+is authorized by this plan. GitHub restoration and research readiness are separate.

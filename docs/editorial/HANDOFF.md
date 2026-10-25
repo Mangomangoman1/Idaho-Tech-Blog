@@ -1,108 +1,117 @@
-# Session handoff — October 24, 2026
+# Session handoff — October 25, 2026
 
 Read root AGENTS.md, [OPERATIONS.md](OPERATIONS.md), [INVENTORY.md](INVENTORY.md),
 [GOOGLE-AUDIT.md](GOOGLE-AUDIT.md), the [draft index](../../drafts/README.md), and
-[today's source dossier](../research/2026-10-24-ammon-gift-service-boundary.md).
-Previous session: [October23](sessions/2026-10-23.md).
+[Ammon reporting dossier](../research/2026-10-24-ammon-gift-service-boundary.md).
+Previous session: [October 24](sessions/2026-10-24.md).
 
 ## Continuing owner hold
 
-No restoration update. No fetch/pull/push, remote GitHub/CI/deployment checks,
-PR update, public release check or publication attempt. No alternative environment,
-user Mac, credentials, accounts, spending, outreach, interviews, tracking or security
-change. No second writer or duplicate recurring task. No repeated pause question
-or redeploy nudge. Local research, edits, tests and commits remain authorized.
+No explicit restoration update from Samuel. Do not fetch, pull, push, poll remote
+GitHub/CI/deployment, update PRs or attempt publication. No public release checks,
+alternate credentials/environment, Mac, outreach, interviews, accounts, spending,
+sensitive disclosures, serious allegations, tracking or security changes. Local
+research, edits, checks and task-only preservation commits remain authorized.
+No second writer, duplicate recurring task or separate user notification created.
+Do not repeat a pause question or redeploy nudge. Keep private account details and
+conversation quotations out of repository notes.
 
-The restricted action is remote reconciliation/publication of this repository;
-it was intentionally not attempted, not denied by automatic approval review.
-No pending approval or uncertain remote mutation. Historical statuses do not
-establish today's deployment. Keep private conversation/account details out of
-repository notes.
+Remote reconciliation/publication of Mangomangoman1/Idaho-Tech-Blog was intentionally
+not attempted under the owner instruction, not rejected by automatic approval.
+No pending approval or uncertain remote mutation. Restoration is a prerequisite,
+not evidence that a deployment or article is current.
 
-## Local continuity
+## Local continuity and preserved work
 
-Started clean on work at22fb648f6449b7bc698b44cdc516f4a6def8840f. Read the local
-mission/roadmap, about/policy, operating instructions, handoff, inventory, history
-and current articles/drafts before selecting work. No competing editor or unrelated
-work observed. No new remote freshness or repository-state claim.
+Started clean on work at `79a49c12c71f076c70c75c508ca15f8dec525045`. Read mission,
+roadmap, operating instructions, handoff, inventory, history, about/policy and the
+article/draft inventory plus relevant source dossiers. No additional local skills
+or competing writer observed. No unrelated work changed or remote freshness claimed.
 
-The911, court AI and INL software drafts, their images, source ledgers and previous
-audit scripts remain unchanged against that local baseline. Production HTML,
-assets, partials, scripts, RSS, normal sitemap, robots and Vercel configuration
-also compare unchanged. No new author, publication date or deployed URL assigned.
+All three draft HTML files, their nine images, source ledgers and prior audit
+scripts compare unchanged with that baseline. Production HTML, assets, partials,
+scripts, RSS, normal sitemap, robots and deployment configuration also compare
+unchanged. Existing human bylines/dates retained. Preparation dates are not dates
+of publication; no refresh of the queued drafts' factual status is implied.
 
-## Editorial decision: strengthen evidence, hold a fourth story
+## Reporting outcome: exact evidence, no fourth draft
 
-The strongest distinct lead is **which trips GIFT's Ammon expansion actually makes
-possible**, connecting service geography, public funding, booking access and
-reporting of use. New [primary-source dossier](../research/2026-10-24-ammon-gift-service-boundary.md)
-records exact URLs, document/event dates, retrieved evidence, claim limits and
-four gates before a publishable follow-up. No finished article or scoop claimed.
+Continued **which trips GIFT's Ammon expansion actually enables**, following the
+existing four gates rather than creating another announcement rewrite.
+[October 25 findings and request log](../research/2026-10-24-ammon-gift-service-boundary.md#october-25-follow-up-official-map-route-found-decision-gates-remain)
+append to yesterday's dossier, preserving its dated findings.
 
-The September25 city notice and October1 launch are historical. October meeting
-materials include an October2 city letter; attachment listing is not proof of a
-new board decision. The posted agreement is not evidence of final execution or
-actual spending. Two Word decision documents were unreadable in the web extractor;
-one direct request to each returned proxy tunnel403. The proposed map exceeded
-web size limits. The separate city notice image was located but its boundary was
-not visually inspected. No address-level coverage, current app behavior, usage
-benefit, guaranteed journey or service failure inferred. Full scope in the ledger.
+Positive verification: Ammon's homepage links directly to a county-hosted GIFT map.
+The city meetings page supplies official agenda/minutes archive routes. These are
+real source paths, not boundary or decision evidence. The map app yielded only a
+JavaScript shell; its metadata/configuration could not be read. Both archive views
+timed out. The indexed funding record was inaccessible; snippets do not establish
+approval. No executed agreement, final geographic coverage or October vote verified.
 
-Next research: readable decisions/final terms, current official boundary, consistent
-rider instructions and, for an outcomes story, a defined public reporting period.
-No interviews, app/account creation, booking, payment or actual ride conducted.
-Do not publish the source comparison as an allegation about any person or service.
+Current displayed operator guidance still leaves the previously recorded booking/
+geography reconciliation flags. Its accessibility statements were read but are
+not independent proof of a particular vehicle or trip. No rider, reservation,
+walk, fare charge, performance or outcome tested. Existing launch/boundary coverage
+is a duplication warning, not corroboration for unresolved primary evidence.
 
-Other leads were weaker: wastewater announcement's detail date is April10 despite
-a recent-looking widget label; lidar planning pages did not establish a new October
-data release; an AI podcast search lead did not establish a distinct dated change.
-No filler or generic announcement rewrite added. Inventory/operations/draft index
-now point to the evidence gates rather than promise another publication date.
+Exact URLs and results are in the ledger. One direct GIS metadata request, one
+city map-image request and two possible Wix CDN document requests returned proxy
+CONNECT 403 before document bytes. The CDN paths were constructed representations,
+not verified equivalent files; they are not cited as evidence. Unsupported Word
+bodies were not re-requested through the same extractor, nor the oversized map.
+All read attempts completed with retrieval errors; none is pending, an automatic
+approval denial or an uncertain mutation. Do not infer the source sites are down,
+records absent, service defective or information withheld.
 
-## Actual local checks
+Decision: hold the new piece. A reliable practical guide needs a verified boundary
+and consistent instructions; an outcomes story needs defined dated public results.
+No manufactured article, invented interview, scoop or accusation. Next trigger is
+a newly readable official decision/final agreement, supported map rendering with
+date/legend, updated rider guidance or a public operating report. Do not repeat
+unchanged failed requests daily; rotate to another better-evidenced local change
+if the gates remain open. GitHub restoration alone does not close research gaps.
 
-- npm run build: passed,0files changed. The local news sitemap remains intentionally
-  empty after all dated news metadata expired. No claim that live files changed.
-- npm run check: passed build freshness, page/local-link/JSON-LD/date/RSS/sitemap
-  checks and all five discovery/date regression tests. No dependencies installed.
-- [October24 draft audit](checks/2026-10-24-drafts.py): all three draft isolation,
-  undated Article/Draft/Organization author, no canonical/OG URL/date fields,
-  noindex/discovery exclusion, local links, images/dimensions and current partials
-  passed. Local comparison against22fb648 preserves all three and production files.
-- Fifteen Chromium/Playwright cases passed: three drafts,home,news at320/390/1440px;
-  HTTP200, no horizontal page overflow, broken images or page errors, and mobile
-  menu behavior. Representative software-draft mobile/desktop views reviewed.
-  [Machine record](validation-2026-10-24.json).
-- Local Markdown targets and git diff --check checked before preservation commit.
+## Actual verification
 
-Reproduce with root server at127.0.0.1:5173 and existing Pillow/Playwright/Chromium:
-python3 docs/editorial/checks/2026-10-24-drafts.py. Screenshot paths in /tmp are
-session artifacts, not durable evidence files. Current production metadata checks
-are local; no draft source-status refresh is implied by passing them.
+- npm run build passed, zero files changed. Local news sitemap intentionally empty;
+  no claim that the public snapshot changed or old dates were refreshed.
+- npm run check passed build freshness, page/local links, JSON-LD, article dates,
+  RSS/sitemap checks and all five regression tests. No dependency update/install.
+- [October 25 custom audit](checks/2026-10-25-drafts.py) passed all three draft
+  undated/noindex/Article-Draft/Organization-author safeguards, absent canonical/
+  OG URL/publication dates, discovery exclusion, local links, image dimensions,
+  current partials, empty news sitemap and preservation against local `79a49c1`.
+- Fifteen Playwright/Chromium cases passed at 320, 390 and 1440 pixels: three drafts,
+  home and news; HTTP 200, no page overflow, broken images or browser errors, and
+  working mobile menus. Representative mobile/desktop software-draft views reviewed.
+  [Validation record](validation-2026-10-25.json).
+- Local Markdown targets and git diff --check verified before local commit.
 
-Reopened official Google Article/date/news-sitemap guidance. No metadata change
-needed: drafts remain unpublished, news expiry does not refresh old article dates.
-No Rich Results Test, Search Console/URL Inspection, remote checks, deployment or
-public-origin verification. No current live, indexing or Google News inclusion claim.
+Reproduce with the root server on 127.0.0.1:5173 and existing Pillow, Playwright and
+Chromium: python3 docs/editorial/checks/2026-10-25-drafts.py. Screenshots under /tmp
+are session-only; validation and the script are durable. No production code changed.
+
+Reopened official Google Article, publication-date and news-sitemap guidance.
+No metadata change needed. No Rich Results Test, Search Console/URL Inspection,
+remote/CI/deployment/public-origin check, indexing or Google News inclusion claim.
 
 ## Exact restart sequence
 
-1. Until explicit owner restoration, continue local-only and preserve all commits.
-   Advance today's public-document gates or a stronger lead without a quota.
-2. After restoration, safely fetch the established origin, inspect divergence and
-   reconcile concurrent work without force or unrelated overwrites. Local commit
-   history must survive. No alternative account, settings or bypass authorized.
-3. Establish whether/when the October20 article first became public before changing
-   its prepared date metadata; if unpublished, refresh expired training details.
-4. Refresh every chosen draft's primary sources/status:911 decisions/funding,
-   court policy/tool status, or DOE/INL program and product/license status. Revise
-   or hold stale material. Today's transit dossier still has independent research
-   gates; GitHub restoration alone will not make it ready for publication.
-5. On actual publication, move a ready draft into articles, remove preview/noindex,
-   add production canonical/OG/NewsArticle and genuine first-publication timestamp,
-   update discovery, rebuild/check and review mobile/desktop. Normal push must be
-   followed by exact remote SHA, deployment and fresh public article/discovery/image
-   checks before any live claim. No backdating or promotion via invented updates.
+1. Until Samuel explicitly reports restoration, continue local-only and preserve
+   all commits. No remote polling or release retry, alternate account or environment.
+2. After restoration, safely fetch established origin, inspect divergence and
+   reconcile concurrent work without force or unrelated overwrites.
+3. Establish whether/when the October 20 article first became public before changing
+   prepared metadata. If unpublished, refresh expired training details before release.
+4. Refresh the selected draft's sources/status: 911 decisions/funding, court policy/
+   tool status, or DOE/INL program and product/license status. Revise or hold if stale.
+   The transit dossier independently needs the reporting gates above; no account,
+   booking, outreach, payment or sensitive claim is authorized by this sequence.
+5. At actual release, move a ready draft to articles, remove preview/noindex, set
+   production canonical/OG/NewsArticle and genuine first-publication date, update
+   discovery, rebuild/check and visually review. After a normal push, verify exact
+   remote SHA, CI/deployment and fresh public article/discovery/image behavior before
+   any live claim. Never backdate or refresh old publication dates for promotion.
 
-Local task-only preservation commit follows; read local history for its SHA.
-No remote commit or deployment outcome implied.
+A task-only local preservation commit follows this record; its SHA is in local
+history. No remote commit, deployment or publication outcome implied.

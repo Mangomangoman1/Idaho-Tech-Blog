@@ -209,3 +209,20 @@ safeguards/preservation checks and15responsive browser cases. Representative mob
 desktop views reviewed. See the current handoff and validation record for scope.
 Owner hold prevents remote/CI/deployment/public serving checks; none attempted.
 No Rich Results Test, Search Console, indexing or News-inclusion result claimed.
+
+
+## October 25 research hold and local checks
+
+Reopened official [Article guidance](https://developers.google.com/search/docs/appearance/structured-data/article),
+[publication dates](https://developers.google.com/search/docs/appearance/publication-dates)
+and [news sitemaps](https://developers.google.com/search/docs/crawling-indexing/sitemaps/news-sitemap).
+No fourth article: Ammon reporting gates remain open. Three existing previews
+remain unchanged, undated, honestly authored, noindex and outside discovery.
+Daily build left the local news snapshot intentionally empty; old publication
+metadata and archive URLs remain unchanged. No production metadata/code change.
+
+Build/check and five regression tests passed; all-draft isolation/preservation
+checks and 15 responsive browser cases passed. Representative mobile/desktop views
+reviewed. See the current handoff and October 25 validation for actual scope.
+Owner hold remains: no remote/CI/deployment/public-origin verification attempted.
+No Rich Results Test, Search Console, indexing or Google News result claimed.
