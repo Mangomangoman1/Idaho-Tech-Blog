@@ -1,7 +1,7 @@
 # Content inventory and maintenance priorities
 
 Read existing articles and mission/about/policy at takeover, October 16, 2026.
-Inventory maintained October 25; new reporting and source review recorded below.
+Inventory maintained October 26; new reporting and source review recorded below.
 Old display dates and bylines below are observations, not newly certified history.
 
 Current owner hold (Oct21): owner has paused remote GitHub operations. No remote sync/check/push or
@@ -24,6 +24,7 @@ metadata is not proof of first public serving. Preserve history pending evidence
 | drafts/idaho-911-shared-technology-local-operations.html | Undated, unpublished local draft prepared Oct21; The Idaho Stack, AI-assisted | October contract agenda, approved GIS decisions and dated grant categories explain continuing responsibilities. No October vote, total cost or performance finding. Noindex; excluded from discovery; recheck and assign actual publication metadata only after hold ends. |
 | drafts/idaho-court-ai-document-control.html | Undated, unpublished local draft prepared Oct22; The Idaho Stack, AI-assisted | October19 release of August NCSC report; operational chatbot source ownership/update control and adopted human-review principles. No deployed-tool, savings, case or branch-wide inventory claim. Noindex; excluded from discovery; recheck policy status before publication. |
 | drafts/inl-software-browser-access-licensing.html | Undated, unpublished local draft prepared Oct23; The Idaho Stack, AI-assisted | October22 notice/DOE selections distinguish hosted applications and licensing storefronts; existing FieldSim/access records give a concrete example. No FieldSim selection, completed app, price or savings claim. Noindex; absent from discovery; recheck all program/product terms before release. |
+| drafts/western-idaho-airborne-survey-rock-signals.html | Undated, unpublished local draft prepared October 26; The Idaho Stack, AI-assisted | Fresh USGS notice plus methods, earlier Idaho dataset and field investigation example explain how to read a future map. No observed flight, mineral discovery, new groundwater/hazard result or release date promised. Indexed notice body read; reopen before release. Noindex and absent from discovery. |
 | briefing-what-were-tracking-first.html | First briefing; updated May 19 | Seven operating beats. Article markup lacks author/publication dates. No invented historical data added. |
 | business-technology-baseline.html | Living resource; updated May 19, index says May 20 | 14-area maturity checklist. TechArticle and FAQPage; not a newly dated news story. Source-sensitive legal/security/vendor claims need evidence when revised. |
 | the-constraint.html | Series introduction | Defines bottlenecks, cost and execution frame; CollectionPage, not a fabricated new reported series installment. |
@@ -60,10 +61,19 @@ the official city link to a county GIFT map, but its boundary/data and the city
 minutes archive could not be inspected. The gates remain open; no new draft,
 final terms, usage outcome or rider instruction guarantee. No remote checks.
 
+## October 26 geophysical survey draft
+
+A distinct western Idaho piece advances from the October 23 USGS notice, technical
+methods and an earlier released Idaho dataset. See the [source ledger](../research/2026-10-26-western-idaho-airborne-survey.md).
+Three prior drafts and the Ammon dossier remain unchanged. All four previews are
+undated and outside discovery. Recheck actual survey and data status before release.
+No repeated Ammon requests or remote checks.
+
 ## Prioritized backlog (pitches; not verified or publication commitments)
 
 | Priority | Reader question / angle | Primary lead / verification gate |
 | --- | --- | --- |
+| Draft October 26; recheck survey/data status | How do airborne readings become useful geologic maps? | [Ledger](../research/2026-10-26-western-idaho-airborne-survey.md): planned western Idaho work, methods and prior data and field investigation examples. Reopen indexed notice and verify current status; no new measurements or discovery inferred. |
 | Research hold Oct 24–25 | Which trips does GIFT’s Ammon expansion actually enable? | [Dossier](../research/2026-10-24-ammon-gift-service-boundary.md): October board attachments and earlier launch/booking records; verify decisions, current boundary and rider instructions. No signed-contract, spending, ridership or universal coverage claim. |
 | Draft Oct23; recheck program/product status | How does an Idaho lab tool become a usable software offer? | DOE ELEMENT/E-Lucid descriptions, INL Oct22 notice, marketplace/licensing and FieldSim records. Hosted-app goals and license pathways are separate; no selection, immediate availability or current price inferred. |
 | Draft Oct22; recheck policy status | What gives a possible court chatbot an authoritative source? | Court October19 announcement, August2026 NCSC report pp7,36–40 and adopted principles; verify newer orders/tool decisions before release. No individual-case allegations or legal-filing advice. |

@@ -5,12 +5,30 @@ publication on hold. See [AGENTS.md](../AGENTS.md) and the current
 [handoff](../docs/editorial/HANDOFF.md). Do not fetch, pull, push, poll checks,
 update PRs or deploy until the owner explicitly reports restoration. No bypass.
 
+## October 26: western Idaho airborne geophysics
+
+- [HTML preview](western-idaho-airborne-survey-rock-signals.html)
+- [Source ledger](../docs/research/2026-10-26-western-idaho-airborne-survey.md)
+- [Validation record](../docs/editorial/validation-2026-10-26.json)
+- Intended article path: `articles/western-idaho-airborne-survey-rock-signals.html`
+
+Read the October survey plan alongside measurement methods, a previous Idaho
+release and a documented field investigation example. No flight, map boundary, raw
+readings, discovery or local outcome independently observed or analyzed. The new
+notice was retrieved as indexed primary text; reopen it and check current survey/
+data status before release. The earlier dataset package was not accessible.
+
+All four drafts' local safeguards and responsive checks:
+`python3 docs/editorial/checks/2026-10-26-drafts.py`, with root server on 5173.
+The audit preserves the three prior drafts and tracked production files against
+local `45e96d8`; no remote operation or dependency installation.
+
 ## October 24–25: reporting quality hold
 
 No fourth draft. The [Ammon transit dossier](../docs/research/2026-10-24-ammon-gift-service-boundary.md)
 preserves a distinct lead, primary evidence and unresolved verification gates.
 All three previews below retain their original source, images, authorship and
-undated unpublished status. Latest all-draft/local preservation audit:
+undated unpublished status. October 25 all-draft/local preservation audit:
 `python3 docs/editorial/checks/2026-10-25-drafts.py` with the root server on5173.
 The [October 25 validation](../docs/editorial/validation-2026-10-25.json) records
 actual checks; no remote serving or source-status refresh of those drafts implied.
@@ -28,7 +46,7 @@ example, not an identified selection in either new project. No current license,
 pricing, support, delivered hosted app or savings were tested. Do not create an
 account, accept a license or contact anyone as part of release without authorization.
 
-Reproduce all three local draft audits with root server on5173 and:
+Reproduce all three local draft audits with root server on 5173 and:
 `python3 docs/editorial/checks/2026-10-23-drafts.py`.
 Uses existing environment tools. Checks preserve prior draft source/images/ledgers/
 checkers against local94c7b67. No new production dependency or remote operation.

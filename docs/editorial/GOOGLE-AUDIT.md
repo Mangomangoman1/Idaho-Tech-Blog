@@ -226,3 +226,21 @@ checks and 15 responsive browser cases passed. Representative mobile/desktop vie
 reviewed. See the current handoff and October 25 validation for actual scope.
 Owner hold remains: no remote/CI/deployment/public-origin verification attempted.
 No Rich Results Test, Search Console, indexing or Google News result claimed.
+
+
+## October 26 undated geophysics draft
+
+Reopened official [Article guidance](https://developers.google.com/search/docs/appearance/structured-data/article),
+[publication dates](https://developers.google.com/search/docs/appearance/publication-dates)
+and [news sitemaps](https://developers.google.com/search/docs/crawling-indexing/sitemaps/news-sitemap).
+New preview remains Article/Draft/noindex, with honest Organization author, visible
+AI method, no publication/canonical/OG URL claim and original relevant images in
+three ratios. Its preparation date is not a publication date. Three earlier drafts
+remain unchanged; all four are excluded from production discovery. Daily build
+leaves local news metadata empty without refreshing archive dates or URLs.
+
+Standard build/check and five regression tests passed; all four draft safeguards,
+prior-work preservation and 18 responsive browser cases passed. New artwork and
+representative mobile/desktop views reviewed. Exact scope in current handoff and
+validation record. Owner hold prevents remote/CI/deployment/public-origin checks;
+none attempted. No Rich Results Test, Search Console, indexing or News guarantee.

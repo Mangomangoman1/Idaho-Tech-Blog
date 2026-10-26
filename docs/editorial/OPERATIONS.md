@@ -146,5 +146,9 @@ event date. Three existing drafts remain unchanged. See the inventory evidence
 gates before choosing a new piece. October 25 verified the city link to the county map,
 not its boundary; archive/map retrieval limits remain. Revisit on a readable new
 record or supported rendering, rather than repeat unchanged failed requests daily.
+October 26 adds a distinct geophysical survey draft, using the new USGS notice,
+measurement methods and an earlier public Idaho release. Recheck actual flight/data
+status and source access before release. No new mineral, groundwater or hazard
+result inferred; four local drafts now await source rechecks and actual publication.
 Build remaining backlog items into claim ledgers before committing to dates. No
 interview quota is authorized; outreach needs approval.
