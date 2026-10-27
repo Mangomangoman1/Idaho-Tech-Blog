@@ -244,3 +244,19 @@ prior-work preservation and 18 responsive browser cases passed. New artwork and
 representative mobile/desktop views reviewed. Exact scope in current handoff and
 validation record. Owner hold prevents remote/CI/deployment/public-origin checks;
 none attempted. No Rich Results Test, Search Console, indexing or News guarantee.
+
+
+## October 27 UTC restored release preparation
+
+Owner restoration permits normal release checks. Court and INL pieces have genuine
+current Idaho timestamps, Organization authorship/AI disclosure, NewsArticle,
+canonical/OG and original relevant images. Discovery integrated and news sitemap
+contains only those two. Two held drafts stay undated/noindex; two original previews
+remain as labeled archives. October 20's unverified first-publication metadata and
+RSS date removed with a visible provenance clarification; no replacement first date
+invented. Its actual substantive modification is labeled separately.
+
+Official Article/date/news-sitemap guidance reopened. Build/site checks, five
+regression tests and 33 responsive cases pass. Remote, deployment and public evidence
+are separate and recorded in current handoff after push. No Rich Results Test,
+Search Console, indexing or News inclusion claim follows from local schema checks.

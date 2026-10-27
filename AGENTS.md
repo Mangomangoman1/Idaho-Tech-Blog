@@ -1,15 +1,14 @@
 # Idaho Stack editorial operations
 
-## Current owner hold — October 21, 2026
+## Remote operations restored — October 27, 2026 UTC
 
-The owner has paused remote GitHub operations. Until the owner explicitly
-reports restoration, do not fetch, pull, push, poll remote checks, update PRs or
-attempt deployment. Do not use alternate credentials or bypass the restriction.
-Local research, edits, tests and preservation commits are permitted. Keep new
-reporting visibly draft with no claimed publication timestamp; assign genuine
-publication metadata only when publication can resume. This hold supersedes the
-generic sync/publish workflow below. Do not repeat a pause question or redeploy
-nudge. Record the exact restart conditions in HANDOFF.md.
+The owner explicitly restored remote operations. Routine safe synchronization,
+commits and normal pushes to established main/deployment are authorized again.
+Preserve local commits and unrelated work; never force push or bypass protections.
+Drafts still need current source/quality checks, genuine publication metadata and
+release verification. An earlier preparation date is not a publication date.
+All limits on outreach, accounts, spending, sensitive claims and security changes
+remain. Record exact remote, deployment and public evidence in HANDOFF.md.
 
 Read `docs/editorial/HANDOFF.md`, `docs/editorial/OPERATIONS.md`, the current
 `docs/editorial/INVENTORY.md`, and the relevant research ledger before working.

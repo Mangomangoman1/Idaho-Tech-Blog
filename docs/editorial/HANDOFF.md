@@ -1,118 +1,95 @@
-# Session handoff — October 26, 2026
+# Session handoff — October 27, 2026 UTC
 
 Read root AGENTS.md, [OPERATIONS.md](OPERATIONS.md), [INVENTORY.md](INVENTORY.md),
-[GOOGLE-AUDIT.md](GOOGLE-AUDIT.md), the [draft index](../../drafts/README.md), and
-[new source ledger](../research/2026-10-26-western-idaho-airborne-survey.md).
-Previous session: [October 25](sessions/2026-10-25.md).
+[draft/archive index](../../drafts/README.md), [release recheck ledger](../research/2026-10-27-release-recheck.md)
+and [release metadata](release-2026-10-27.json). Previous session:
+[October 26](sessions/2026-10-26.md).
 
-## Continuing owner hold
+## Restoration and safe reconciliation
 
-No explicit restoration update from Samuel. No remote synchronization, fetch,
-pull, push, CI/deployment checks/retries, PR update or publication attempt. No
-public release checks, alternate environment/project, Mac, alternate credentials,
-outreach, interviews, accounts, purchases, sensitive disclosures, serious allegations,
-tracking or security changes. Local research, edits, audits and preservation commit
-only. No second writer, new recurring task or separate user notification created.
-Do not repeat a pause question or redeploy nudge. Repository notes can be publicly
-served: omit private account details and conversation quotations.
+Samuel explicitly restored remote operations. Generic old hold notes in dated
+research/session records are historical, not current instructions. Routine relevant
+publication, normal commits/pushes and deployment checks are authorized again.
+No force push, bypass, alternate environment/account, settings/security/access
+change, spending, outreach, sensitive disclosure or serious allegation authorized.
+No second writer, new recurrence or separate user notification created.
 
-Restricted action: remote reconciliation/release of Mangomangoman1/Idaho-Tech-Blog.
-Intentionally unattempted under owner instruction, not an automatic approval denial.
-No pending approval or uncertain remote mutation. Historical statuses do not prove
-current serving. Restoration alone will not establish reporting or release readiness.
+Started clean at 5950147e35919117086f01e89931568527513ed1. Verified established origin;
+fetch succeeded. Remote main remains 11fdb6a3a284a06b35708178b8f041af6312de54.
+Six local preservation commits ahead, zero behind; no merge/concurrent change.
+All unique work retained. Two original previews receive only archived-version
+banners; remaining drafts, original images and old source ledgers stay preserved.
 
-## Local continuity and preservation
+## Release candidates after current source checks
 
-Started clean on work at `45e96d89c2af9fc80fc3690e44f869dccaf72c28`. Read mission,
-roadmap, operating instructions, handoff, article/draft inventory and article text,
-about/policy, recent local history and relevant research dossiers. No additional
-local skills or competing writer observed. No unrelated work changed. No remote
-freshness claimed.
+- [INL software access/licensing](../../articles/inl-software-browser-access-licensing.html):
+  DOE/INL selections, funding, marketplace, licensing and FieldSim records reopened.
+  Goals, access routes and historical trials remain distinct from shipped products,
+  actual rights, prices or savings. No FieldSim selection in new projects inferred.
+- [Court AI and document control](../../articles/idaho-court-ai-document-control.html):
+  current official release/index and linked 93-page report/principles retrieved.
+  Pilot/governance/document-control statements and adopted versus proposed status
+  rechecked. NIST publication/PDF reopened. No tool inventory or case advice.
 
-All three earlier drafts, their images and source ledgers, previous audit scripts
-and the Ammon dossier remain unchanged against that local baseline. Production
-HTML/assets/partials/scripts, RSS, sitemaps, robots and Vercel configuration are
-also unchanged. The new draft and its images are additions, not a production release.
+Production date: 2026-10-26T21:55:22-06:00, the actual current Idaho evening
+(October 27 UTC). Original preparation dates were not backdated into publication.
+Honest Organization/AI method, NewsArticle, canonical/OG, relevant original images,
+RSS/regular/news sitemaps, home/news and related desks integrated. Original preview
+content remains with archived-draft links to the production version. Production
+metadata is prepared for normal release; it is not evidence of deployed/public
+serving. Remote/deployment/public checks are recorded below after push.
 
-## New researched draft
+## Remaining reporting holds
 
-**Western Idaho's Planned Helicopter Survey Begins With Rock Signals**
+- 911: current index still lists minutes through July 2 and FY2026 guidance. Need
+  October decision/current funding evidence; agenda is not approval, expired grant
+  is not open. No request/outreach. Draft remains undated and absent from discovery.
+- Helicopter: direct notice returned a JavaScript/robot check; official index still
+  identifies it, but following the link timed out. No challenge solved/bypassed.
+  Need a fresh readable complete primary body and current survey/data status before
+  release. Draft stays undated; no claim a flight occurred or result was found.
+- Ammon: existing decision/map/instructions/outcomes gaps persist. No promising new
+  route, so no repeated failed document requests. Existing dossier unchanged.
 
-[HTML preview](../../drafts/western-idaho-airborne-survey-rock-signals.html)
-Intended article path: articles/western-idaho-airborne-survey-rock-signals.html.
+## October 20 provenance, accurately scoped
 
-Fresh USGS notice supplies the local hook. The piece connects measurement methods,
-a separate earlier Idaho dataset and a documented field-investigation example to
-explain how readers can evaluate a future map. It distinguishes collection plans,
-processed products, geological interpretation and supporting ground evidence.
-No observed flight, raw-data analysis, deposit discovery, new groundwater/hazard
-finding, parcel assessment or outcome promise. Organizational author/AI disclosure;
-no fabricated interviews, quotes, human reviewer, visit or exclusive finding.
+Old main/content commits have empty combined statuses; old main has zero check
+runs. Direct article HTTPS was proxy CONNECT 403 blocked; web article failed and
+home extraction remained October 19. Cached extraction is not fresh origin proof.
+The first public-serving date remains unestablished. Removed unverified publication
+metadata/RSS pubDate with a visible note, preserving October 20 as preparation
+history; actual modification date documents the clarification. Training dates are
+explicitly historical. Canonical, stable URL/GUID, author and source account retained.
+ITD guidance reopened; no rollout completion or account access claimed.
 
-The notice's complete indexed primary body and explicit date were retrieved;
-separate direct web opens were inaccessible. The earlier catalog, technical methods,
-university account and relevant case-study bodies were opened. Prior dataset DOI
-retrieval failed; no downloadable package or contractor report inspected. Exact URLs,
-locations and limits in the ledger. These are completed read failures, not automatic
-approval denials, pending requests or uncertain mutations. No direct shell network
-retry. Do not infer source websites/data are unavailable generally.
+This resolves the misleading date claim, not the unavailable historical serving
+record. Reinstate a first-publication date only from actual evidence. No invented
+replacement timestamp or assumption that an empty status means never deployed.
 
-No repeated Ammon requests: yesterday's failures had no promising new route today.
-The new primary material provided a distinct geographic/technical angle; no generic
-AI rewrite or quota-driven launch copy added.
+## Actual pre-push checks
 
-## Local implementation and actual checks
+npm run build and npm run check passed, including five date/discovery regression
+tests. [Custom release audit](checks/2026-10-27-release.py) passed two production
+articles' metadata/discovery, two held drafts' isolation, archived preview preservation,
+old RSS GUID/date preservation except the explicit ITD repair, and 33 responsive
+Chromium/Playwright cases at 320, 390 and 1440 pixels. HTTP 200, no page overflow,
+broken images or browser errors; mobile menus passed. New release/ITD mobile and
+desktop views reviewed. [Validation](validation-2026-10-27-release.json).
+Local Markdown targets and git diff --check reviewed before commit.
 
-New undated Article/Draft/noindex preview uses existing branding/CSS/partials,
-Organization author and original explanatory images in 16:9, 4:3 and square ratios.
-Visible preparation date is not a publication date. No canonical, OG URL or
-publication/modification timestamps; absent from root home/news/desks, RSS and both
-sitemaps. Caption/alt identify conceptual art, not a survey result or boundary.
-Inventory, backlog, operating notes, draft index and Google audit updated; prior
-handoff archived with local links repaired.
+Official Google Article/date/news-sitemap guidance reopened. News metadata contains
+only the two genuine current releases; historical archive dates are not refreshed.
+No Rich Results Test, Search Console, indexing or Google News inclusion guarantee.
 
-- npm run build passed, zero files changed. Local news sitemap intentionally empty;
-  no claim that live files changed or old dates were refreshed.
-- npm run check passed build freshness, page/local links, JSON-LD, dates, RSS and
-  sitemaps plus all five date/discovery regression tests. No dependencies installed.
-- [October 26 custom audit](checks/2026-10-26-drafts.py) passed all four draft metadata,
-  honest author, image dimensions, current partials/local links and root discovery
-  exclusion checks; all prior tracked research/production and three drafts preserved
-  against local `45e96d8`. Baseline file listing allows only new task assets.
-- Eighteen Chromium/Playwright cases passed at 320, 390 and 1440 pixels: four drafts,
-  home and news. HTTP 200, no horizontal page overflow, broken images or page errors;
-  mobile menu behavior passed. New artwork and representative mobile/desktop views
-  visually reviewed. [Machine record](validation-2026-10-26.json).
-- Local Markdown targets and git diff --check checked before preservation commit.
+## Remote/deployment/public verification
 
-Reproduce with root server at 127.0.0.1:5173 and existing Pillow/Playwright/Chromium:
-python3 docs/editorial/checks/2026-10-26-drafts.py. Screenshots under /tmp are ephemeral;
-validation/script and PNG/HTML/source ledger are durable. No production code changed.
+Pending normal release commit/push at this point. Do not claim published from local
+checks. Supported GitHub commit status/check endpoints are available. Deployments
+collection GET was rejected by the connector URL allowlist; no retry or bypass.
+This is not an automatic approval denial or uncertain mutation.
 
-Official Google Article, publication-date and news-sitemap guidance reopened.
-No Rich Results Test, Search Console/URL Inspection, GitHub/CI/deployment/public
-serving checks, indexing or Google News inclusion claim. Local checks do not prove
-source status or production publication.
-
-## Exact restart sequence
-
-1. Until Samuel explicitly reports restoration, remain local-only and preserve all
-   commits. Continue a useful reporting gate or another evidenced angle; no repeated
-   unsupported/oversize Ammon requests without a promising new public route.
-2. After restoration, safely fetch established origin, inspect divergence and
-   reconcile concurrent work without force or unrelated overwrites.
-3. Establish whether/when the October 20 article first became public before changing
-   prepared metadata. If unpublished, refresh expired training details before release.
-4. For this draft, reopen the notice and verify current survey/data status; revise
-   the planned-period lead if stale. Recheck USGS/IGS releases and inspect the earlier
-   package before adding any file-level finding. For other drafts refresh 911
-   decisions/funding, court policy/tool status, or DOE/INL product/program status.
-   No outreach, account, booking, payment or sensitive claim is authorized here.
-5. At actual release move a ready draft to articles, remove preview/noindex, set
-   canonical/OG/NewsArticle and genuine first-publication date, update discovery,
-   rebuild/check and visually review. After normal push verify exact remote SHA,
-   CI/deployment and fresh public article/discovery/image behavior before a live
-   claim. Never backdate or refresh old publication dates for promotion.
-
-A task-only local preservation commit follows; its SHA is in local history.
-No remote commit, deployment or publication outcome implied.
+After push: verify exact remote SHA and CI/Vercel status, then fresh public articles,
+home, feeds/sitemaps, metadata and images. Record failures precisely; if serving
+cannot be verified, call the result pushed/prepared, not live. If publication is
+blocked beyond this release period, refresh the unserved candidate timestamps at
+actual release. Do not trigger empty commits or change settings to force deployment.

@@ -1,0 +1,311 @@
+{
+  "date_utc": "2026-10-27",
+  "release_stamp": "2026-10-26T21:55:22-06:00",
+  "scope": "Local release and two remaining held drafts; remote/deployment/public evidence separate.",
+  "checks": {
+    "two_production_metadata_discovery": true,
+    "two_held_drafts_preserved": true,
+    "two_archived_previews_preserved_except_banner": true,
+    "old_rss_guids_dates_preserved_except_unverified_itd_date": true,
+    "itd_provenance_clarified_without_new_first_date": true
+  },
+  "cases": [
+    {
+      "page": "software",
+      "width": 320,
+      "height": 740,
+      "http": 200,
+      "overflow": false,
+      "broken_images": [],
+      "page_errors": []
+    },
+    {
+      "page": "court",
+      "width": 320,
+      "height": 740,
+      "http": 200,
+      "overflow": false,
+      "broken_images": [],
+      "page_errors": []
+    },
+    {
+      "page": "itd",
+      "width": 320,
+      "height": 740,
+      "http": 200,
+      "overflow": false,
+      "broken_images": [],
+      "page_errors": []
+    },
+    {
+      "page": "911-held",
+      "width": 320,
+      "height": 740,
+      "http": 200,
+      "overflow": false,
+      "broken_images": [],
+      "page_errors": []
+    },
+    {
+      "page": "survey-held",
+      "width": 320,
+      "height": 740,
+      "http": 200,
+      "overflow": false,
+      "broken_images": [],
+      "page_errors": []
+    },
+    {
+      "page": "software-archive",
+      "width": 320,
+      "height": 740,
+      "http": 200,
+      "overflow": false,
+      "broken_images": [],
+      "page_errors": []
+    },
+    {
+      "page": "court-archive",
+      "width": 320,
+      "height": 740,
+      "http": 200,
+      "overflow": false,
+      "broken_images": [],
+      "page_errors": []
+    },
+    {
+      "page": "home",
+      "width": 320,
+      "height": 740,
+      "http": 200,
+      "overflow": false,
+      "broken_images": [],
+      "page_errors": []
+    },
+    {
+      "page": "news",
+      "width": 320,
+      "height": 740,
+      "http": 200,
+      "overflow": false,
+      "broken_images": [],
+      "page_errors": []
+    },
+    {
+      "page": "ai-desk",
+      "width": 320,
+      "height": 740,
+      "http": 200,
+      "overflow": false,
+      "broken_images": [],
+      "page_errors": []
+    },
+    {
+      "page": "business-guide",
+      "width": 320,
+      "height": 740,
+      "http": 200,
+      "overflow": false,
+      "broken_images": [],
+      "page_errors": []
+    },
+    {
+      "page": "software",
+      "width": 390,
+      "height": 844,
+      "http": 200,
+      "overflow": false,
+      "broken_images": [],
+      "page_errors": []
+    },
+    {
+      "page": "court",
+      "width": 390,
+      "height": 844,
+      "http": 200,
+      "overflow": false,
+      "broken_images": [],
+      "page_errors": []
+    },
+    {
+      "page": "itd",
+      "width": 390,
+      "height": 844,
+      "http": 200,
+      "overflow": false,
+      "broken_images": [],
+      "page_errors": []
+    },
+    {
+      "page": "911-held",
+      "width": 390,
+      "height": 844,
+      "http": 200,
+      "overflow": false,
+      "broken_images": [],
+      "page_errors": []
+    },
+    {
+      "page": "survey-held",
+      "width": 390,
+      "height": 844,
+      "http": 200,
+      "overflow": false,
+      "broken_images": [],
+      "page_errors": []
+    },
+    {
+      "page": "software-archive",
+      "width": 390,
+      "height": 844,
+      "http": 200,
+      "overflow": false,
+      "broken_images": [],
+      "page_errors": []
+    },
+    {
+      "page": "court-archive",
+      "width": 390,
+      "height": 844,
+      "http": 200,
+      "overflow": false,
+      "broken_images": [],
+      "page_errors": []
+    },
+    {
+      "page": "home",
+      "width": 390,
+      "height": 844,
+      "http": 200,
+      "overflow": false,
+      "broken_images": [],
+      "page_errors": []
+    },
+    {
+      "page": "news",
+      "width": 390,
+      "height": 844,
+      "http": 200,
+      "overflow": false,
+      "broken_images": [],
+      "page_errors": []
+    },
+    {
+      "page": "ai-desk",
+      "width": 390,
+      "height": 844,
+      "http": 200,
+      "overflow": false,
+      "broken_images": [],
+      "page_errors": []
+    },
+    {
+      "page": "business-guide",
+      "width": 390,
+      "height": 844,
+      "http": 200,
+      "overflow": false,
+      "broken_images": [],
+      "page_errors": []
+    },
+    {
+      "page": "software",
+      "width": 1440,
+      "height": 1000,
+      "http": 200,
+      "overflow": false,
+      "broken_images": [],
+      "page_errors": []
+    },
+    {
+      "page": "court",
+      "width": 1440,
+      "height": 1000,
+      "http": 200,
+      "overflow": false,
+      "broken_images": [],
+      "page_errors": []
+    },
+    {
+      "page": "itd",
+      "width": 1440,
+      "height": 1000,
+      "http": 200,
+      "overflow": false,
+      "broken_images": [],
+      "page_errors": []
+    },
+    {
+      "page": "911-held",
+      "width": 1440,
+      "height": 1000,
+      "http": 200,
+      "overflow": false,
+      "broken_images": [],
+      "page_errors": []
+    },
+    {
+      "page": "survey-held",
+      "width": 1440,
+      "height": 1000,
+      "http": 200,
+      "overflow": false,
+      "broken_images": [],
+      "page_errors": []
+    },
+    {
+      "page": "software-archive",
+      "width": 1440,
+      "height": 1000,
+      "http": 200,
+      "overflow": false,
+      "broken_images": [],
+      "page_errors": []
+    },
+    {
+      "page": "court-archive",
+      "width": 1440,
+      "height": 1000,
+      "http": 200,
+      "overflow": false,
+      "broken_images": [],
+      "page_errors": []
+    },
+    {
+      "page": "home",
+      "width": 1440,
+      "height": 1000,
+      "http": 200,
+      "overflow": false,
+      "broken_images": [],
+      "page_errors": []
+    },
+    {
+      "page": "news",
+      "width": 1440,
+      "height": 1000,
+      "http": 200,
+      "overflow": false,
+      "broken_images": [],
+      "page_errors": []
+    },
+    {
+      "page": "ai-desk",
+      "width": 1440,
+      "height": 1000,
+      "http": 200,
+      "overflow": false,
+      "broken_images": [],
+      "page_errors": []
+    },
+    {
+      "page": "business-guide",
+      "width": 1440,
+      "height": 1000,
+      "http": 200,
+      "overflow": false,
+      "broken_images": [],
+      "page_errors": []
+    }
+  ]
+}

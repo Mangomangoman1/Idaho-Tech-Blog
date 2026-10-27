@@ -2,12 +2,11 @@
 
 Established October 16, 2026. Read [HANDOFF.md](HANDOFF.md) at every session start.
 
-**Current owner hold, October21:** the owner has paused remote GitHub operations. Until the
-owner explicitly reports restoration, no fetch/pull/push, remote checks, PR updates
-or deployment attempts. No alternate credentials or bypass. Local research, edits,
-tests and preservation commits only. Generic release steps below remain suspended.
-New stories stay visibly draft and undated, outside public discovery. Do not repeat
-a pause question or redeploy nudge.
+**Owner restoration, October 27 UTC:** normal remote reconciliation and relevant
+publication work are authorized again. Preserve local commits; reconcile safely
+without force or unrelated overwrites. Source/quality gates remain independent of
+access. Verify exact remote SHA, CI/deployment and fresh public behavior before a
+live claim. Preparation dates do not certify publication.
 
 The founder's existing [roadmap](../the-idaho-review-roadmap.md) remains the mission
 source. This operating plan supplies daily execution and evidence discipline.

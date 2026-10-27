@@ -7,11 +7,24 @@
     <language>en-us</language>
     <atom:link href="https://www.idahostack.com/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>INL’s New Software Funding Targets Browser Access and Easier Licensing</title>
+      <link>https://www.idahostack.com/articles/inl-software-browser-access-licensing.html</link>
+      <guid>https://www.idahostack.com/articles/inl-software-browser-access-licensing.html</guid>
+      <description>Two commercialization projects address different obstacles to using laboratory software. Existing INL records show why a usable application and permission to use it need separate checks.</description>
+      <pubDate>Mon, 26 Oct 2026 21:55:22 -0600</pubDate>
+    </item>
+    <item>
+      <title>Idaho’s Court AI Report Connects Chatbot Plans to Document Control</title>
+      <link>https://www.idahostack.com/articles/idaho-court-ai-document-control.html</link>
+      <guid>https://www.idahostack.com/articles/idaho-court-ai-document-control.html</guid>
+      <description>A newly released court report examines who owns, approves and updates the material an operational chatbot could use. Adopted principles keep people accountable.</description>
+      <pubDate>Mon, 26 Oct 2026 21:55:22 -0600</pubDate>
+    </item>
+    <item>
       <title>ITD’s North Idaho Payroll Rollout Includes an Upload Option</title>
       <link>https://www.idahostack.com/articles/itd-north-idaho-certified-payroll-upload.html</link>
       <guid>https://www.idahostack.com/articles/itd-north-idaho-certified-payroll-upload.html</guid>
       <description>ITD’s October rollout plan, vendor format notes and federal instructions reveal three separate jobs for small contractors: move payroll data, certify it and follow project review.</description>
-      <pubDate>Tue, 20 Oct 2026 09:31:56 -0600</pubDate>
     </item>
     <item>
       <title>Idaho’s Expanded Well Survey Targets Gaps in Treasure Valley’s Water Map</title>
@@ -82,5 +95,6 @@
       <guid>https://www.idahostack.com/articles/micron-memory-and-idahos-place-in-the-chip-supply-chain.html</guid>
       <description>An archive analysis of Idaho’s place in the memory-chip supply chain. The page displays an updated date; its original publication time has not been verified.</description>
     </item>
+    <lastBuildDate>Mon, 26 Oct 2026 21:55:22 -0600</lastBuildDate>
   </channel>
 </rss>

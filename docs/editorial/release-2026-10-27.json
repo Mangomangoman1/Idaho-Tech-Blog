@@ -1,0 +1,35 @@
+{
+  "prepared_at": "2026-10-26T21:55:22-06:00",
+  "local_date": "2026-10-26",
+  "releases": [
+    {
+      "slug": "inl-software-browser-access-licensing",
+      "url": "https://www.idahostack.com/articles/inl-software-browser-access-licensing.html",
+      "title": "INL’s New Software Funding Targets Browser Access and Easier Licensing",
+      "description": "Two commercialization projects address different obstacles to using laboratory software. Existing INL records show why a usable application and permission to use it need separate checks.",
+      "tags": [
+        "Eastern Idaho",
+        "Research software",
+        "Licensing"
+      ],
+      "stamp": "2026-10-26T21:55:22-06:00",
+      "date": "October 26, 2026",
+      "archive_banner": "<p class=\"reporting-note archived-draft\">Archived prepublication draft. <a href=\"/articles/inl-software-browser-access-licensing.html\">Read the published version</a>. The preparation date and release-hold notes below describe this historical draft.</p>"
+    },
+    {
+      "slug": "idaho-court-ai-document-control",
+      "url": "https://www.idahostack.com/articles/idaho-court-ai-document-control.html",
+      "title": "Idaho’s Court AI Report Connects Chatbot Plans to Document Control",
+      "description": "A newly released court report examines who owns, approves and updates the material an operational chatbot could use. Adopted principles keep people accountable.",
+      "tags": [
+        "Idaho courts",
+        "AI governance",
+        "Public systems"
+      ],
+      "stamp": "2026-10-26T21:55:22-06:00",
+      "date": "October 26, 2026",
+      "archive_banner": "<p class=\"reporting-note archived-draft\">Archived prepublication draft. <a href=\"/articles/idaho-court-ai-document-control.html\">Read the published version</a>. The preparation date and release-hold notes below describe this historical draft.</p>"
+    }
+  ],
+  "historical_first_date_unverified": "articles/itd-north-idaho-certified-payroll-upload.html"
+}

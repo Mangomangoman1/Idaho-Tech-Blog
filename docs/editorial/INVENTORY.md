@@ -1,12 +1,15 @@
 # Content inventory and maintenance priorities
 
 Read existing articles and mission/about/policy at takeover, October 16, 2026.
-Inventory maintained October 26; new reporting and source review recorded below.
+Inventory maintained October 27 UTC; new reporting and source review recorded below.
 Old display dates and bylines below are observations, not newly certified history.
 
-Current owner hold (Oct21): owner has paused remote GitHub operations. No remote sync/check/push or
-deployment until explicit restoration. Oct20 release remains unverified; its date
-metadata is not proof of first public serving. Preserve history pending evidence.
+Owner explicitly restored remote operations October 27 UTC. Safe reconciliation
+completed with remote main unchanged and six local preservation commits ahead.
+Two source-rechecked pieces are prepared for normal release; exact remote/deployment/
+public result is in the current handoff. 911, helicopter and Ammon reporting gates
+remain independent. October 20 first-publication date is unverified: its timestamp
+was removed with a visible provenance note, preserving the original preparation date.
 
 
 | File | Format / displayed history | Evidence and next action |
@@ -22,8 +25,8 @@ metadata is not proof of first public serving. Preserve history pending evidence
 | articles/treasure-valley-well-survey-water-map.html | October 19 public-document reporting and analysis; The Idaho Stack, AI-assisted | Explains the fall survey’s spatial/depth gaps, private access, comparison methods and publicly funded model. No completion count, new trend or spending finding. See October 19 source ledger/handoff. |
 | articles/itd-north-idaho-certified-payroll-upload.html | October 20 public-document reporting and analysis; The Idaho Stack, AI-assisted | District1 rollout plan, upload versus payroll-export routes, certification and project coordination; vendor compatibility attributed. No authenticated testing, completed-migration, savings or individual-contract compliance finding. See October20 ledger/handoff. |
 | drafts/idaho-911-shared-technology-local-operations.html | Undated, unpublished local draft prepared Oct21; The Idaho Stack, AI-assisted | October contract agenda, approved GIS decisions and dated grant categories explain continuing responsibilities. No October vote, total cost or performance finding. Noindex; excluded from discovery; recheck and assign actual publication metadata only after hold ends. |
-| drafts/idaho-court-ai-document-control.html | Undated, unpublished local draft prepared Oct22; The Idaho Stack, AI-assisted | October19 release of August NCSC report; operational chatbot source ownership/update control and adopted human-review principles. No deployed-tool, savings, case or branch-wide inventory claim. Noindex; excluded from discovery; recheck policy status before publication. |
-| drafts/inl-software-browser-access-licensing.html | Undated, unpublished local draft prepared Oct23; The Idaho Stack, AI-assisted | October22 notice/DOE selections distinguish hosted applications and licensing storefronts; existing FieldSim/access records give a concrete example. No FieldSim selection, completed app, price or savings claim. Noindex; absent from discovery; recheck all program/product terms before release. |
+| articles/idaho-court-ai-document-control.html | Release prepared October 26 MDT / October 27 UTC; The Idaho Stack, AI-assisted | October19 release of August NCSC report; operational chatbot source ownership/update control and adopted human-review principles. No deployed-tool, savings, case or branch-wide inventory claim. Current release/report/principles rechecked; production metadata and discovery prepared. Original draft archived; verify remote/deployment/public outcome in handoff. |
+| articles/inl-software-browser-access-licensing.html | Release prepared October 26 MDT / October 27 UTC; The Idaho Stack, AI-assisted | October22 notice/DOE selections distinguish hosted applications and licensing storefronts; existing FieldSim/access records give a concrete example. No FieldSim selection, completed app, price or savings claim. Current DOE/INL, access and licensing records rechecked; production metadata/discovery prepared. Original draft archived; exact release result in handoff. |
 | drafts/western-idaho-airborne-survey-rock-signals.html | Undated, unpublished local draft prepared October 26; The Idaho Stack, AI-assisted | Fresh USGS notice plus methods, earlier Idaho dataset and field investigation example explain how to read a future map. No observed flight, mineral discovery, new groundwater/hazard result or release date promised. Indexed notice body read; reopen before release. Noindex and absent from discovery. |
 | briefing-what-were-tracking-first.html | First briefing; updated May 19 | Seven operating beats. Article markup lacks author/publication dates. No invented historical data added. |
 | business-technology-baseline.html | Living resource; updated May 19, index says May 20 | 14-area maturity checklist. TechArticle and FAQPage; not a newly dated news story. Source-sensitive legal/security/vendor claims need evidence when revised. |
@@ -65,8 +68,8 @@ final terms, usage outcome or rider instruction guarantee. No remote checks.
 
 A distinct western Idaho piece advances from the October 23 USGS notice, technical
 methods and an earlier released Idaho dataset. See the [source ledger](../research/2026-10-26-western-idaho-airborne-survey.md).
-Three prior drafts and the Ammon dossier remain unchanged. All four previews are
-undated and outside discovery. Recheck actual survey and data status before release.
+Three prior drafts and the Ammon dossier remain unchanged. At that session all four previews were
+undated and outside discovery. The current release status supersedes that snapshot.
 No repeated Ammon requests or remote checks.
 
 ## Prioritized backlog (pitches; not verified or publication commitments)
@@ -75,8 +78,8 @@ No repeated Ammon requests or remote checks.
 | --- | --- | --- |
 | Draft October 26; recheck survey/data status | How do airborne readings become useful geologic maps? | [Ledger](../research/2026-10-26-western-idaho-airborne-survey.md): planned western Idaho work, methods and prior data and field investigation examples. Reopen indexed notice and verify current status; no new measurements or discovery inferred. |
 | Research hold Oct 24–25 | Which trips does GIFT’s Ammon expansion actually enable? | [Dossier](../research/2026-10-24-ammon-gift-service-boundary.md): October board attachments and earlier launch/booking records; verify decisions, current boundary and rider instructions. No signed-contract, spending, ridership or universal coverage claim. |
-| Draft Oct23; recheck program/product status | How does an Idaho lab tool become a usable software offer? | DOE ELEMENT/E-Lucid descriptions, INL Oct22 notice, marketplace/licensing and FieldSim records. Hosted-app goals and license pathways are separate; no selection, immediate availability or current price inferred. |
-| Draft Oct22; recheck policy status | What gives a possible court chatbot an authoritative source? | Court October19 announcement, August2026 NCSC report pp7,36–40 and adopted principles; verify newer orders/tool decisions before release. No individual-case allegations or legal-filing advice. |
+| Release prepared October 27 UTC | How does an Idaho lab tool become a usable software offer? | DOE ELEMENT/E-Lucid descriptions, INL Oct22 notice, marketplace/licensing and FieldSim records. Hosted-app goals and license pathways are separate; no selection, immediate availability or current price inferred. |
+| Release prepared October 27 UTC | What gives a possible court chatbot an authoritative source? | Court October19 announcement, August2026 NCSC report pp7,36–40 and adopted principles; verify newer orders/tool decisions before release. No individual-case allegations or legal-filing advice. |
 | Draft Oct21; recheck before release | Who maintains the shared 911 system after equipment arrives? | Commission October5 agenda, July2025/2026 GIS approvals, current program index and dated grant instructions. Seek October decisions/newer guidance; no sensitive operational details or unverified county-performance conclusions. |
 | Watch | Which broadband location/provider assignment survived the rebid? | Follow new federal PAC approvals or reconciled state location list. Current piece makes no address-level findings. |
 | Published topic Oct17; revisit before Oct20/Nov2 | How does a personal course sequence connect to a paid role? | https://cwi.edu/news/discover-your-path-high-tech-career-micron-day and https://cwi.edu/academics/career-technical-education/semiconductor-manufacturing-technology — independently confirm 2026 event, place, 4–7:30 time, registration, access and program outcomes/cost before writing. No attendance or job guarantee. |

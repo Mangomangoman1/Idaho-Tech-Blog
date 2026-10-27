@@ -1,9 +1,22 @@
-# Local editorial drafts
+# Editorial drafts and archived previews
 
-The owner’s October 21 GitHub account restriction puts remote synchronization and
-publication on hold. See [AGENTS.md](../AGENTS.md) and the current
-[handoff](../docs/editorial/HANDOFF.md). Do not fetch, pull, push, poll checks,
-update PRs or deploy until the owner explicitly reports restoration. No bypass.
+Remote operations were explicitly restored October 27 UTC. See [AGENTS.md](../AGENTS.md)
+and the current [handoff](../docs/editorial/HANDOFF.md). Source and release checks
+remain required; permission to publish does not establish that a page is live.
+
+## October 27 UTC release preparation
+
+- [INL software article](../articles/inl-software-browser-access-licensing.html) and
+  [court AI article](../articles/idaho-court-ai-document-control.html) have current
+  source rechecks and production metadata dated October 26 in Idaho (October 27 UTC).
+  Exact deployment/public result belongs in the handoff, not inferred from these links.
+- Their original previews remain here with an archived-draft banner. No unique work
+  was discarded; historical audit scripts describe their original preparation state.
+- The 911 and western Idaho survey previews remain undated/unpublished. The former
+  lacks needed decision/current funding evidence; the latter's direct notice still
+  could not be read. Ammon remains a research hold, with no repeated document chase.
+- Use `python3 docs/editorial/checks/2026-10-27-release.py` with root server on 5173
+  for the current release/held-draft audit. Earlier dated checkers are historical.
 
 ## October 26: western Idaho airborne geophysics
 

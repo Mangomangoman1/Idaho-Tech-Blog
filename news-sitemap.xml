@@ -1,2 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" />
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+  <url>
+    <loc>https://www.idahostack.com/articles/idaho-court-ai-document-control.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>The Idaho Stack</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-26T21:55:22-06:00</news:publication_date>
+      <news:title>Idaho’s Court AI Report Connects Chatbot Plans to Document Control</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.idahostack.com/articles/inl-software-browser-access-licensing.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>The Idaho Stack</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-26T21:55:22-06:00</news:publication_date>
+      <news:title>INL’s New Software Funding Targets Browser Access and Easier Licensing</news:title>
+    </news:news>
+  </url>
+</urlset>
