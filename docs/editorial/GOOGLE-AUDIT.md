@@ -285,3 +285,11 @@ provenance clarification remain intact. Build/site checks, five regression tests
 and 12 responsive cases pass after a new-table mobile-width fix. Prior articles,
 artwork and CSS are unchanged. New release verification is recorded separately in
 the current handoff. No Rich Results Test, Search Console or inclusion guarantee.
+
+
+Today's content `fa7665200f22a427f8853809c5b08c070112b7f0` reached main with Vercel success. Normal saved-workspace
+Chromium navigation to the new SH-21 article returned ERR_TUNNEL_CONNECTION_FAILED;
+web article/news-sitemap retrieval was unavailable. This new-page check remains for
+the parent's working cloud Chrome route. Previous INL/court public verification is
+complete and is not reopened. Exact new task evidence/target is in the current
+handoff and public-check JSON. No new live/indexing claim from this workspace.

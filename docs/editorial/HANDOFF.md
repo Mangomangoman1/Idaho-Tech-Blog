@@ -94,8 +94,29 @@ and undated/noindex, outside discovery. Seek a genuine new record before revisit
 
 ## Release verification and next steps
 
-Local checks complete; normal commit/push and exact remote/CI/new public-page
-verification follow. Record the outcome here before a live claim. Do not conflate
-any new task-specific access limitation with the now-complete recovered releases.
-Preserve all prior work, refresh source status when a real new record appears, and
-retain genuine dates/AI authorship/correction transparency in future sessions.
+Content commit `fa7665200f22a427f8853809c5b08c070112b7f0` was normally pushed to established main and
+verified by git ls-remote. Vercel reports success for this exact commit:
+[deployment status target](https://vercel.com/wpbfls-5183s-projects/idaho-tech-blog/DVyBZVFZ6XRA942RABXWTQVu25tT). No force push, protection bypass, empty
+trigger commit or hosting/configuration change.
+
+New-page verification attempted at 15:37:23 UTC through normal Chromium navigation
+inside this saved cloud workspace, without proxy/certificate/security overrides.
+The request to https://www.idahostack.com/articles/sh21-debris-flow-rainfall-windows.html
+failed with net::ERR_TUNNEL_CONNECTION_FAILED before a public page could be checked.
+[Exact browser record](public-check-2026-10-27-sh21.json). Web retrieval of the new
+article and news sitemap was also unavailable. These completed read failures are
+not an automatic approval denial, a pending mutation or evidence of a site failure.
+No attempts to bypass the access limit.
+
+Current outcome: new article pushed and Vercel-successful; this workspace has not
+verified its public body/metadata/rendering. The earlier INL/court recovery remains
+independently confirmed live; do not reopen that closed blocker. The single remaining
+release action is to verify this new article through the parent's already working
+cloud Chrome route: correct rendered title/body, October 27 date, Organization/AI
+disclosure, canonical/NewsArticle and relevant images/table, plus current News/feed/
+sitemap discovery. No new access, account or alternate project is requested.
+
+A task-only evidence commit follows this record; its final SHA is in local history
+and the task report. Prior articles, dates, assets, held drafts and October 20's
+truthful clarification remain preserved. Future reporting should follow a real
+new monitoring/data record or another evidenced Idaho development, without filler.

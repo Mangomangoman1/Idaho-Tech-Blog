@@ -5,5 +5,18 @@
   "publication_stamp": "2026-10-27T09:20:38-06:00",
   "date": "October 27, 2026",
   "local_date": "2026-10-27",
-  "description": "A newly added Idaho Geological Survey report combines hazard maps and weather observations from July. Reading their different time windows helps explain the monitoring questions that follow."
+  "description": "A newly added Idaho Geological Survey report combines hazard maps and weather observations from July. Reading their different time windows helps explain the monitoring questions that follow.",
+  "remote_content_sha": "fa7665200f22a427f8853809c5b08c070112b7f0",
+  "deployment": {
+    "context": "Vercel",
+    "state": "success",
+    "target_url": "https://vercel.com/wpbfls-5183s-projects/idaho-tech-blog/DVyBZVFZ6XRA942RABXWTQVu25tT"
+  },
+  "public_verification": {
+    "result": "unverified_in_this_workspace",
+    "browser_result": "net::ERR_TUNNEL_CONNECTION_FAILED",
+    "record": "public-check-2026-10-27-sh21.json",
+    "web_article_and_news_sitemap": "unavailable",
+    "next_action": "Verify the new article through the parent cloud Chrome route; previous recovery is already confirmed."
+  }
 }
