@@ -1,119 +1,101 @@
-# Session handoff — October 27, 2026 UTC
+# Session handoff — October 27 daily reporting
 
 Read root AGENTS.md, [OPERATIONS.md](OPERATIONS.md), [INVENTORY.md](INVENTORY.md),
-[draft/archive index](../../drafts/README.md), [release recheck ledger](../research/2026-10-27-release-recheck.md)
-and [release metadata](release-2026-10-27.json). Previous session:
-[October 26](sessions/2026-10-26.md).
+[new source ledger](../research/2026-10-27-sh21-rainfall-windows.md) and
+[release metadata](release-2026-10-27-sh21.json). Earlier recovery session:
+[October 27 recovery](sessions/2026-10-27-recovery.md).
 
-## Restoration and safe reconciliation
+## Recovery is complete; current authorization
 
-Samuel explicitly restored remote operations. Generic old hold notes in dated
-research/session records are historical, not current instructions. Routine relevant
-publication, normal commits/pushes and deployment checks are authorized again.
-No force push, bypass, alternate environment/account, settings/security/access
-change, spending, outreach, sensitive disclosure or serious allegation authorized.
-No second writer, new recurrence or separate user notification created.
+Parent independently verified remote `456c42f0878ff0f0af6e87efcd0c01496e2606da`,
+Vercel success, both INL software and court AI articles fully rendered in cloud
+Chrome with accurate metadata/disclosures and live News navigation. The user
+already received the recovery completion notice. Earlier workspace-only fetch
+failures are historical; do not repeat them as an unresolved recovery blocker.
+[Recovery metadata](release-2026-10-27.json) records the exact confirmation scope.
+This does not establish October 20's first-serving date; preserve its clarification.
 
-Started clean at 5950147e35919117086f01e89931568527513ed1. Verified established origin;
-fetch succeeded. Remote main remains 11fdb6a3a284a06b35708178b8f041af6312de54.
-Six local preservation commits ahead, zero behind; no merge/concurrent change.
-All unique work retained. Two original previews receive only archived-version
-banners; remaining drafts, original images and old source ledgers stay preserved.
+Routine task-only commits and normal main pushes remain authorized after checks.
+No force/protection bypass, alternate project/environment/Mac, outreach, interviews,
+accounts, spending, sensitive disclosures, serious allegations, security/domain or
+tracking changes. No new recurrence or second writer created.
 
-## Release candidates after current source checks
+## Safe starting state
 
-- [INL software access/licensing](../../articles/inl-software-browser-access-licensing.html):
-  DOE/INL selections, funding, marketplace, licensing and FieldSim records reopened.
-  Goals, access routes and historical trials remain distinct from shipped products,
-  actual rights, prices or savings. No FieldSim selection in new projects inferred.
-- [Court AI and document control](../../articles/idaho-court-ai-document-control.html):
-  current official release/index and linked 93-page report/principles retrieved.
-  Pilot/governance/document-control statements and adopted versus proposed status
-  rechecked. NIST publication/PDF reopened. No tool inventory or case advice.
+Started clean on work at `456c42f0878ff0f0af6e87efcd0c01496e2606da`. Read mission,
+roadmap, current instructions/handoff/inventory/history and existing reporting
+context. No additional local skills or competing writer observed. Fetch succeeded;
+HEAD and origin/main match, zero ahead/behind. No unrelated work or merge needed.
+All prior article HTML, artwork/CSS, held drafts and the Ammon dossier are unchanged.
+Only the new piece and its discovery/desk/continuity records are task changes.
 
-Production date: 2026-10-26T21:55:22-06:00, the actual current Idaho evening
-(October 27 UTC). Original preparation dates were not backdated into publication.
-Honest Organization/AI method, NewsArticle, canonical/OG, relevant original images,
-RSS/regular/news sitemaps, home/news and related desks integrated. Original preview
-content remains with archived-draft links to the production version. Production
-metadata is prepared for normal release; it is not evidence of deployed/public
-serving. Remote/deployment/public checks are recorded below after push.
+## Today's piece and evidence
 
-## Remaining reporting holds
+**SH-21's New Debris Flow Report Shows Why Rainfall Windows Matter**
 
-- 911: current index still lists minutes through July 2 and FY2026 guidance. Need
-  October decision/current funding evidence; agenda is not approval, expired grant
-  is not open. No request/outreach. Draft remains undated and absent from discovery.
-- Helicopter: direct notice returned a JavaScript/robot check; official index still
-  identifies it, but following the link timed out. No challenge solved/bypassed.
-  Need a fresh readable complete primary body and current survey/data status before
-  release. Draft stays undated; no claim a flight occurred or result was found.
-- Ammon: existing decision/map/instructions/outcomes gaps persist. No promising new
-  route, so no repeated failed document requests. Existing dossier unchanged.
+[Article](../../articles/sh21-debris-flow-rainfall-windows.html)
+Intended public URL: https://www.idahostack.com/articles/sh21-debris-flow-rainfall-windows.html.
+Timestamp: 2026-10-27T09:20:38-06:00 (current Idaho morning).
 
-## October 20 provenance, accurately scoped
+An IGS catalog addition dated October 20 supplies the news hook; the report's July
+2026 events remain explicitly historical. Read the complete report's extracted
+text/captions, its publication record, USGS assessment FAQ, NOAA MRMS description
+and ITD travel-information page. Exact URLs/pages and inference limits in the ledger.
+No copied photos/maps/Planet imagery. Three original conceptual graphics identify
+time bases, not measured rainfall or a warning threshold.
 
-Old main/content commits have empty combined statuses; old main has zero check
-runs. Direct article HTTPS was proxy CONNECT 403 blocked; web article failed and
-home extraction remained October 19. Cached extraction is not fresh origin proof.
-The first public-serving date remains unestablished. Removed unverified publication
-metadata/RSS pubDate with a visible note, preserving October 20 as preparation
-history; actual modification date documents the clarification. Training dates are
-explicitly historical. Canonical, stable URL/GUID, author and source account retained.
-ITD guidance reopened; no rollout completion or account access claimed.
+Core comparison: a short-burst model scenario and longer accumulated observations
+are different measures. No raw sensor/radar data recomputed, matched-period claim,
+threshold crossing, new forecast, current closure, property-risk assessment or
+installed warning system inferred. Gauge interval is the published figure caption,
+not a new raw-series finding. Model/geospatial/recovery limitations are attributed.
+Recommendations are the report's suggestions; future monitoring questions are our
+analysis. Honest Organization author, visible AI/no-fieldwork method, near-claim
+links and official 511 route. No interview, quote or first-hand experience invented.
 
-This resolves the misleading date claim, not the unavailable historical serving
-record. Reinstate a first-publication date only from actual evidence. No invented
-replacement timestamp or assumption that an empty status means never deployed.
+Used analyze-data-quality as a scoped companion on grain, units and interval/
+location comparability. Linked shared skill references were unavailable after a
+bounded lookup; no source or quantitative conclusion depends on those files.
+No extra Data app, notebook or automation. Existing repository/article destination
+and branding were retained. No new computed rainfall statistic.
 
-## Actual pre-push checks
+## Actual local checks and resolved issue
 
 npm run build and npm run check passed, including five date/discovery regression
-tests. [Custom release audit](checks/2026-10-27-release.py) passed two production
-articles' metadata/discovery, two held drafts' isolation, archived preview preservation,
-old RSS GUID/date preservation except the explicit ITD repair, and 33 responsive
-Chromium/Playwright cases at 320, 390 and 1440 pixels. HTTP 200, no page overflow,
-broken images or browser errors; mobile menus passed. New release/ITD mobile and
-desktop views reviewed. [Validation](validation-2026-10-27-release.json).
-Local Markdown targets and git diff --check reviewed before commit.
+tests. New Article/NewsArticle metadata, canonical/OG, actual visible date, author,
+image variants, links, RSS and regular/news sitemap inclusion checked. News sitemap
+has today's article plus the two recent recovered pieces; no old dates refreshed.
+RSS previous GUIDs/dates, including October 20's intentionally omitted pubDate,
+remain unchanged. Relevant home/news/agtech desk links integrated.
 
-Official Google Article/date/news-sitemap guidance reopened. News metadata contains
-only the two genuine current releases; historical archive dates are not refreshed.
-No Rich Results Test, Search Console, indexing or Google News inclusion guarantee.
+[Custom audit](checks/2026-10-27-sh21.py) passed metadata/discovery, preservation of
+all prior articles/assets/held drafts and 12 responsive Chromium cases for the new
+article and three touched pages at 320/390/1440 pixels. HTTP 200, no page overflow,
+broken images or browser errors; mobile menus and keyboard table scrolling pass.
+[Validation record](validation-2026-10-27-sh21.json).
 
-## Remote/deployment/public verification
+Initial 320px check found the table widening its grid item. Fixed only the new
+article panel's minimum width so the table scrolls inside its region. Rerun passed.
+Caption, column/row headers and focusable named region provide accessible context.
+No global CSS or previous article change. New mobile/desktop views/artwork reviewed.
+Local Markdown targets and git diff --check checked before preservation commit.
 
-Content commit `4288672737cd188f1cca7c4baff61ee8d350a52b` was normally pushed to established main and
-verified with git ls-remote. All six held-period commits are preserved in its
-ancestry. GitHub reports Vercel success for this exact SHA; zero check runs means
-Vercel used a commit status, not a GitHub Actions check. Deployment status target:
-[existing Vercel deployment](https://vercel.com/wpbfls-5183s-projects/idaho-tech-blog/HpqunyAhJ1rzzJ9VEabw2YrEfMxz).
+Google Article/date/news-sitemap guidance reopened. No Search Console, Rich Results
+Test, indexing, ranking or Google News inclusion guarantee. Prior recovery checks
+were not repeated; this validation focuses on today's changes.
 
-At 04:02:55 UTC, all ten fresh HTTPS checks failed before origin response with
-proxy CONNECT 403: the two new articles, October 20 article, home, RSS, regular/news
-sitemaps, robots and both new article hero images. Exact URLs/errors in the
-[public check record](public-check-2026-10-27.json). Standard and alternate web
-retrieval could not access the two new article bodies; news extraction was old,
-and the Vercel dashboard could not be opened. Cached old pages do not establish
-current deployment failure or serving state. No CAPTCHA, proxy, credential or
-settings bypass attempted. No public-serving, indexing or live claim.
+## Remaining editorial holds
 
-Current outcome: source-rechecked release pushed, exact SHA verified, Vercel
-success; fresh public production behavior remains unverified from this workspace.
-These read failures are completed, not pending or uncertain mutations; no automatic
-approval denial. The deployments API allowlist failure was not retried. No empty
-trigger commit or repeated expensive local tests.
+911 still needs October decisions/current funding evidence. Helicopter draft needs
+a readable current complete notice and survey/data status. Ammon needs decision,
+current boundary/instructions and defined outcomes evidence. No repeated blocked
+requests today and no quota-driven rewrite. Their documents/images remain preserved
+and undated/noindex, outside discovery. Seek a genuine new record before revisiting.
 
-Next action for an authorized operator with normal public network access: fetch
-both article URLs and the October 20 URL plus home/news/feed/sitemaps/robots/images;
-verify 200 responses, canonicals, real visible/structured dates, Organization/AI
-credit, no noindex, correct discovery and the October 20 provenance clarification.
-Compare the existing Vercel deployment with `4288672737cd188f1cca7c4baff61ee8d350a52b` (or the later documentation
-commit in its ancestry). If historical October 20 serving logs are available in
-the existing project, use them to establish first publication; do not guess.
-No new access, account, spending or security/domain change is requested.
+## Release verification and next steps
 
-A documentation-only evidence commit follows this record; final remote SHA is in
-local history and the task report. If later evidence shows these candidates were
-not served in this period, refresh unserved timestamps at actual release instead
-of treating their prepared metadata as historical proof.
+Local checks complete; normal commit/push and exact remote/CI/new public-page
+verification follow. Record the outcome here before a live claim. Do not conflate
+any new task-specific access limitation with the now-complete recovered releases.
+Preserve all prior work, refresh source status when a real new record appears, and
+retain genuine dates/AI authorship/correction transparency in future sessions.

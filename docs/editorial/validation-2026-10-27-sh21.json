@@ -1,0 +1,134 @@
+{
+  "date": "2026-10-27",
+  "scope": "New SH-21 article and changed discovery/desk only; previous recovery already independently verified.",
+  "publication_stamp": "2026-10-27T09:20:38-06:00",
+  "checks": {
+    "article_metadata_links_images_partials": true,
+    "rss_previous_dates_guids_preserved": true,
+    "all_prior_articles_assets_held_drafts_unchanged": true,
+    "held_drafts_excluded": true,
+    "news_sitemap_three_recent_articles": true
+  },
+  "cases": [
+    {
+      "page": "sh21",
+      "width": 320,
+      "height": 740,
+      "http": 200,
+      "overflow": false,
+      "broken_images": [],
+      "page_errors": [],
+      "table_scroll": "keyboard_passed"
+    },
+    {
+      "page": "home",
+      "width": 320,
+      "height": 740,
+      "http": 200,
+      "overflow": false,
+      "broken_images": [],
+      "page_errors": [],
+      "table_scroll": "not_applicable"
+    },
+    {
+      "page": "news",
+      "width": 320,
+      "height": 740,
+      "http": 200,
+      "overflow": false,
+      "broken_images": [],
+      "page_errors": [],
+      "table_scroll": "not_applicable"
+    },
+    {
+      "page": "desk",
+      "width": 320,
+      "height": 740,
+      "http": 200,
+      "overflow": false,
+      "broken_images": [],
+      "page_errors": [],
+      "table_scroll": "not_applicable"
+    },
+    {
+      "page": "sh21",
+      "width": 390,
+      "height": 844,
+      "http": 200,
+      "overflow": false,
+      "broken_images": [],
+      "page_errors": [],
+      "table_scroll": "keyboard_passed"
+    },
+    {
+      "page": "home",
+      "width": 390,
+      "height": 844,
+      "http": 200,
+      "overflow": false,
+      "broken_images": [],
+      "page_errors": [],
+      "table_scroll": "not_applicable"
+    },
+    {
+      "page": "news",
+      "width": 390,
+      "height": 844,
+      "http": 200,
+      "overflow": false,
+      "broken_images": [],
+      "page_errors": [],
+      "table_scroll": "not_applicable"
+    },
+    {
+      "page": "desk",
+      "width": 390,
+      "height": 844,
+      "http": 200,
+      "overflow": false,
+      "broken_images": [],
+      "page_errors": [],
+      "table_scroll": "not_applicable"
+    },
+    {
+      "page": "sh21",
+      "width": 1440,
+      "height": 1000,
+      "http": 200,
+      "overflow": false,
+      "broken_images": [],
+      "page_errors": [],
+      "table_scroll": "not_applicable"
+    },
+    {
+      "page": "home",
+      "width": 1440,
+      "height": 1000,
+      "http": 200,
+      "overflow": false,
+      "broken_images": [],
+      "page_errors": [],
+      "table_scroll": "not_applicable"
+    },
+    {
+      "page": "news",
+      "width": 1440,
+      "height": 1000,
+      "http": 200,
+      "overflow": false,
+      "broken_images": [],
+      "page_errors": [],
+      "table_scroll": "not_applicable"
+    },
+    {
+      "page": "desk",
+      "width": 1440,
+      "height": 1000,
+      "http": 200,
+      "overflow": false,
+      "broken_images": [],
+      "page_errors": [],
+      "table_scroll": "not_applicable"
+    }
+  ]
+}

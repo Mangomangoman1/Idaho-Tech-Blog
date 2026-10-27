@@ -268,3 +268,20 @@ web article retrieval was unavailable. Local schema/discovery validation and a
 successful deployment status do not certify fresh public headers, selected
 canonical, serving or indexing. Current handoff/public-check JSON record the
 precise targets, limits and independent verification action. No live claim.
+
+
+## October 27 daily SH-21 piece and completed recovery
+
+Parent independently verified the earlier recovered release at remote 456c42f:
+both public INL/court articles fully rendered in cloud Chrome, accurate metadata/
+disclosures and live News navigation. That supersedes the earlier workspace-only
+serving limit for those articles; no Google indexing result was asserted.
+
+New SH-21 reporting uses a genuine October 27 Idaho timestamp, Organization author/
+AI method, relevant original images, canonical/OG/NewsArticle and discovery links.
+Official Article/date/news-sitemap guidance reopened; the news snapshot has three
+recent articles with their original dates. Prior GUIDs/dates and the October 20
+provenance clarification remain intact. Build/site checks, five regression tests
+and 12 responsive cases pass after a new-table mobile-width fix. Prior articles,
+artwork and CSS are unchanged. New release verification is recorded separately in
+the current handoff. No Rich Results Test, Search Console or inclusion guarantee.

@@ -9,14 +9,15 @@ remain required; permission to publish does not establish that a page is live.
 - [INL software article](../articles/inl-software-browser-access-licensing.html) and
   [court AI article](../articles/idaho-court-ai-document-control.html) have current
   source rechecks and production metadata dated October 26 in Idaho (October 27 UTC).
-  Exact deployment/public result belongs in the handoff, not inferred from these links.
+  Parent independently verified both public articles, metadata/disclosures and live News navigation at remote 456c42f. The earlier workspace-only serving limit is closed.
 - Their original previews remain here with an archived-draft banner. No unique work
   was discarded; historical audit scripts describe their original preparation state.
 - The 911 and western Idaho survey previews remain undated/unpublished. The former
   lacks needed decision/current funding evidence; the latter's direct notice still
   could not be read. Ammon remains a research hold, with no repeated document chase.
-- Use `python3 docs/editorial/checks/2026-10-27-release.py` with root server on 5173
-  for the current release/held-draft audit. Earlier dated checkers are historical.
+- Use `npm run check` and `python3 docs/editorial/checks/2026-10-27-sh21.py`
+  with root server on 5173 for current daily checks. The earlier recovery checker
+  describes its historical two-article news snapshot.
 
 ## October 26: western Idaho airborne geophysics
 

@@ -39,5 +39,14 @@
     "target_url": "https://vercel.com/wpbfls-5183s-projects/idaho-tech-blog/HpqunyAhJ1rzzJ9VEabw2YrEfMxz",
     "check_runs": 0
   },
-  "public_verification": "Unverified: ten HTTPS requests blocked at proxy CONNECT 403; web article/deployment fetches unavailable; exact evidence in public-check-2026-10-27.json"
+  "public_verification": "Parent independently verified remote 456c42f0878ff0f0af6e87efcd0c01496e2606da, Vercel success, both public articles fully rendered in cloud Chrome with accurate metadata/disclosures and live News navigation. Earlier workspace-only failures are historical.",
+  "parent_confirmation": {
+    "reported_date_utc": "2026-10-27",
+    "remote_sha": "456c42f0878ff0f0af6e87efcd0c01496e2606da",
+    "scope": [
+      "both INL software and court AI public articles fully rendered",
+      "accurate metadata and disclosures",
+      "live News navigation"
+    ]
+  }
 }

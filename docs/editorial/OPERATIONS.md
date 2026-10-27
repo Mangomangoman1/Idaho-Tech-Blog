@@ -149,5 +149,9 @@ October 26 adds a distinct geophysical survey draft, using the new USGS notice,
 measurement methods and an earlier public Idaho release. Recheck actual flight/data
 status and source access before release. No new mineral, groundwater or hazard
 result inferred; four local drafts now await source rechecks and actual publication.
+Parent independently verified the restored INL/court releases at remote 456c42f;
+that recovery is complete. October 27 daily reporting uses the newly added SH-21
+investigation to explain rainfall windows and monitoring questions. Follow actual
+monitoring/data decisions; no current travel-status or threshold-crossing inference.
 Build remaining backlog items into claim ledgers before committing to dates. No
 interview quota is authorized; outreach needs approval.
