@@ -260,3 +260,11 @@ Official Article/date/news-sitemap guidance reopened. Build/site checks, five
 regression tests and 33 responsive cases pass. Remote, deployment and public evidence
 are separate and recorded in current handoff after push. No Rich Results Test,
 Search Console, indexing or News inclusion claim follows from local schema checks.
+
+
+October 27 release evidence: exact content `4288672737cd188f1cca7c4baff61ee8d350a52b` reached main and received
+Vercel success. All ten fresh origin checks were proxy CONNECT 403 blocked, and
+web article retrieval was unavailable. Local schema/discovery validation and a
+successful deployment status do not certify fresh public headers, selected
+canonical, serving or indexing. Current handoff/public-check JSON record the
+precise targets, limits and independent verification action. No live claim.

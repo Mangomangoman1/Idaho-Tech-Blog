@@ -31,5 +31,13 @@
       "archive_banner": "<p class=\"reporting-note archived-draft\">Archived prepublication draft. <a href=\"/articles/idaho-court-ai-document-control.html\">Read the published version</a>. The preparation date and release-hold notes below describe this historical draft.</p>"
     }
   ],
-  "historical_first_date_unverified": "articles/itd-north-idaho-certified-payroll-upload.html"
+  "historical_first_date_unverified": "articles/itd-north-idaho-certified-payroll-upload.html",
+  "remote_content_sha": "4288672737cd188f1cca7c4baff61ee8d350a52b",
+  "deployment": {
+    "context": "Vercel",
+    "state": "success",
+    "target_url": "https://vercel.com/wpbfls-5183s-projects/idaho-tech-blog/HpqunyAhJ1rzzJ9VEabw2YrEfMxz",
+    "check_runs": 0
+  },
+  "public_verification": "Unverified: ten HTTPS requests blocked at proxy CONNECT 403; web article/deployment fetches unavailable; exact evidence in public-check-2026-10-27.json"
 }

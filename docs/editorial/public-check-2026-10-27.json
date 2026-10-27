@@ -1,0 +1,46 @@
+{
+  "checked_at_utc": "2026-10-27T04:02:55.375239+00:00",
+  "release_sha": "4288672737cd188f1cca7c4baff61ee8d350a52b",
+  "checks": [
+    {
+      "url": "https://www.idahostack.com/articles/inl-software-browser-access-licensing.html",
+      "error": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "url": "https://www.idahostack.com/articles/idaho-court-ai-document-control.html",
+      "error": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "url": "https://www.idahostack.com/articles/itd-north-idaho-certified-payroll-upload.html",
+      "error": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "url": "https://www.idahostack.com/",
+      "error": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "url": "https://www.idahostack.com/feed.xml",
+      "error": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "url": "https://www.idahostack.com/sitemap.xml",
+      "error": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "url": "https://www.idahostack.com/news-sitemap.xml",
+      "error": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "url": "https://www.idahostack.com/robots.txt",
+      "error": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "url": "https://www.idahostack.com/assets/articles/inl-software-browser-access-licensing-16x9.png",
+      "error": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "url": "https://www.idahostack.com/assets/articles/idaho-court-ai-document-control-16x9.png",
+      "error": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden>"
+    }
+  ]
+}

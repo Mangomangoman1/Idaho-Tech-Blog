@@ -83,13 +83,37 @@ No Rich Results Test, Search Console, indexing or Google News inclusion guarante
 
 ## Remote/deployment/public verification
 
-Pending normal release commit/push at this point. Do not claim published from local
-checks. Supported GitHub commit status/check endpoints are available. Deployments
-collection GET was rejected by the connector URL allowlist; no retry or bypass.
-This is not an automatic approval denial or uncertain mutation.
+Content commit `4288672737cd188f1cca7c4baff61ee8d350a52b` was normally pushed to established main and
+verified with git ls-remote. All six held-period commits are preserved in its
+ancestry. GitHub reports Vercel success for this exact SHA; zero check runs means
+Vercel used a commit status, not a GitHub Actions check. Deployment status target:
+[existing Vercel deployment](https://vercel.com/wpbfls-5183s-projects/idaho-tech-blog/HpqunyAhJ1rzzJ9VEabw2YrEfMxz).
 
-After push: verify exact remote SHA and CI/Vercel status, then fresh public articles,
-home, feeds/sitemaps, metadata and images. Record failures precisely; if serving
-cannot be verified, call the result pushed/prepared, not live. If publication is
-blocked beyond this release period, refresh the unserved candidate timestamps at
-actual release. Do not trigger empty commits or change settings to force deployment.
+At 04:02:55 UTC, all ten fresh HTTPS checks failed before origin response with
+proxy CONNECT 403: the two new articles, October 20 article, home, RSS, regular/news
+sitemaps, robots and both new article hero images. Exact URLs/errors in the
+[public check record](public-check-2026-10-27.json). Standard and alternate web
+retrieval could not access the two new article bodies; news extraction was old,
+and the Vercel dashboard could not be opened. Cached old pages do not establish
+current deployment failure or serving state. No CAPTCHA, proxy, credential or
+settings bypass attempted. No public-serving, indexing or live claim.
+
+Current outcome: source-rechecked release pushed, exact SHA verified, Vercel
+success; fresh public production behavior remains unverified from this workspace.
+These read failures are completed, not pending or uncertain mutations; no automatic
+approval denial. The deployments API allowlist failure was not retried. No empty
+trigger commit or repeated expensive local tests.
+
+Next action for an authorized operator with normal public network access: fetch
+both article URLs and the October 20 URL plus home/news/feed/sitemaps/robots/images;
+verify 200 responses, canonicals, real visible/structured dates, Organization/AI
+credit, no noindex, correct discovery and the October 20 provenance clarification.
+Compare the existing Vercel deployment with `4288672737cd188f1cca7c4baff61ee8d350a52b` (or the later documentation
+commit in its ancestry). If historical October 20 serving logs are available in
+the existing project, use them to establish first publication; do not guess.
+No new access, account, spending or security/domain change is requested.
+
+A documentation-only evidence commit follows this record; final remote SHA is in
+local history and the task report. If later evidence shows these candidates were
+not served in this period, refresh unserved timestamps at actual release instead
+of treating their prepared metadata as historical proof.
