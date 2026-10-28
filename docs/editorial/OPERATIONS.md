@@ -155,3 +155,13 @@ investigation to explain rainfall windows and monitoring questions. Follow actua
 monitoring/data decisions; no current travel-status or threshold-crossing inference.
 Build remaining backlog items into claim ledgers before committing to dates. No
 interview quota is authorized; outreach needs approval.
+
+## Current reporting checkpoint — October 28
+
+Parent independently verified SH-21 at exact main 38a1ec1, Vercel success, full
+public article/index, desktop and primary sources. That release is complete.
+October 28 reporting examines the announced November fraud review against current
+state/FBI complaint documents. Follow actual findings and authority/staffing/cost
+records, rather than infer an operating portal. 911, helicopter and Ammon remain
+editorial evidence holds; the two released archived previews remain historical.
+The chronological notes above retain their original preparation context.

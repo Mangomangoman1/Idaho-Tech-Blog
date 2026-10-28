@@ -13,10 +13,18 @@
     "target_url": "https://vercel.com/wpbfls-5183s-projects/idaho-tech-blog/DVyBZVFZ6XRA942RABXWTQVu25tT"
   },
   "public_verification": {
-    "result": "unverified_in_this_workspace",
-    "browser_result": "net::ERR_TUNNEL_CONNECTION_FAILED",
-    "record": "public-check-2026-10-27-sh21.json",
-    "web_article_and_news_sitemap": "unavailable",
-    "next_action": "Verify the new article through the parent cloud Chrome route; previous recovery is already confirmed."
+    "result": "independently_verified_by_parent",
+    "confirmation_received": "2026-10-28",
+    "exact_main_sha": "38a1ec1db8c415e70fecd6b384147fb0e6668de7",
+    "deployment_context": "Vercel",
+    "deployment_state": "success",
+    "scope": [
+      "full public SH-21 article",
+      "index navigation",
+      "desktop visuals",
+      "IGS PDF/catalog and USGS/NOAA/ITD source spot checks"
+    ],
+    "user_already_notified": true,
+    "historical_workspace_attempt_record": "public-check-2026-10-27-sh21.json"
   }
 }

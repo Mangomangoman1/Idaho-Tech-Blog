@@ -2,11 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.idahostack.com/</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
   </url>
   <url>
     <loc>https://www.idahostack.com/news.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
   </url>
   <url>
     <loc>https://www.idahostack.com/articles/what-idahos-tech-economy-is-actually-made-of.html</loc>
@@ -14,7 +14,7 @@
   </url>
   <url>
     <loc>https://www.idahostack.com/business-technology-baseline.html</loc>
-    <lastmod>2026-10-26</lastmod>
+    <lastmod>2026-10-28</lastmod>
   </url>
   <url>
     <loc>https://www.idahostack.com/ai-automation.html</loc>
@@ -127,5 +127,9 @@
   <url>
     <loc>https://www.idahostack.com/articles/sh21-debris-flow-rainfall-windows.html</loc>
     <lastmod>2026-10-27</lastmod>
+  </url>
+  <url>
+    <loc>https://www.idahostack.com/articles/idaho-fraud-report-handoff.html</loc>
+    <lastmod>2026-10-28</lastmod>
   </url>
 </urlset>

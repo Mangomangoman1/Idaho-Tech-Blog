@@ -1,7 +1,7 @@
 # Content inventory and maintenance priorities
 
 Read existing articles and mission/about/policy at takeover, October 16, 2026.
-Inventory maintained October 27 UTC; new reporting and source review recorded below.
+Inventory maintained October 28 UTC; new reporting and source review recorded below.
 Old display dates and bylines below are observations, not newly certified history.
 
 Recovery is complete: parent independently verified remote 456c42f and Vercel
@@ -27,7 +27,8 @@ its truthful clarification. Current reporting and release evidence is in HANDOFF
 | articles/idaho-court-ai-document-control.html | Published October 26 MDT; parent verified live October 27 UTC; The Idaho Stack, AI-assisted | October19 release of August NCSC report; operational chatbot source ownership/update control and adopted human-review principles. No deployed-tool, savings, case or branch-wide inventory claim. Release/report/principles rechecked; parent verified public content, metadata/disclosures and News navigation at remote 456c42f. Original draft archived. |
 | articles/inl-software-browser-access-licensing.html | Published October 26 MDT; parent verified live October 27 UTC; The Idaho Stack, AI-assisted | October22 notice/DOE selections distinguish hosted applications and licensing storefronts; existing FieldSim/access records give a concrete example. No FieldSim selection, completed app, price or savings claim. Current DOE/INL, access and licensing records rechecked; parent verified public content and metadata/disclosures at remote 456c42f. Original draft archived. |
 | drafts/western-idaho-airborne-survey-rock-signals.html | Undated, unpublished local draft prepared October 26; The Idaho Stack, AI-assisted | Fresh USGS notice plus methods, earlier Idaho dataset and field investigation example explain how to read a future map. No observed flight, mineral discovery, new groundwater/hazard result or release date promised. Indexed notice body read; reopen before release. Noindex and absent from discovery. |
-| articles/sh21-debris-flow-rainfall-windows.html | October 27 reporting; pushed/Vercel success; new public-page check outstanding; The Idaho Stack, AI-assisted | Newly added IGS July-event report, USGS design-storm context and NOAA/ITD records explain different rainfall windows. No raw-data reanalysis, threshold crossing, current warning or road-status claim. See current source ledger/handoff. |
+| articles/sh21-debris-flow-rainfall-windows.html | October 27 reporting; parent independently verified live at 38a1ec1; The Idaho Stack, AI-assisted | Newly added IGS July-event report, USGS design-storm context and NOAA/ITD records explain different rainfall windows. No raw-data reanalysis, threshold crossing, current warning or road-status claim. Parent verified full public page/navigation, desktop visuals and primary sources. See source ledger/handoff. |
+| articles/idaho-fraud-report-handoff.html | October 28 public-document reporting and analysis; The Idaho Stack, AI-assisted | New November review, existing Idaho Finance guidance/form and IC3 records distinguish transfer response, intake/referral and regulatory review. No service testing, unique-victim count, new portal or recovery guarantee. Exact release state in HANDOFF. |
 | briefing-what-were-tracking-first.html | First briefing; updated May 19 | Seven operating beats. Article markup lacks author/publication dates. No invented historical data added. |
 | business-technology-baseline.html | Living resource; updated May 19, index says May 20 | 14-area maturity checklist. TechArticle and FAQPage; not a newly dated news story. Source-sensitive legal/security/vendor claims need evidence when revised. |
 | the-constraint.html | Series introduction | Defines bottlenecks, cost and execution frame; CollectionPage, not a fabricated new reported series installment. |
@@ -79,10 +80,20 @@ catalog addition supplies new public evidence about July events. Interpretation 
 rates/accumulations, caption windows and monitoring recommendations is tightly scoped.
 The three earlier research holds remain unchanged; no repeated inaccessible requests.
 
+## October 28 reporting
+
+[Fraud-report handoff ledger](../research/2026-10-28-idaho-fraud-report-handoff.md):
+new October 26 review announcement examined against existing state/FBI guidance,
+transaction/other-agency fields and the underlying 2025 complaint statistics.
+Follow November 17 records and findings ahead of the 2027 session; no new system,
+procurement, database connection, cost or case performance inferred. SH-21 release
+is independently verified by parent at exact 38a1ec1; former access limit is closed.
+
 ## Prioritized backlog (pitches; not verified or publication commitments)
 
 | Priority | Reader question / angle | Primary lead / verification gate |
 | --- | --- | --- |
+| October 28 report; follow actual decisions | What will a statewide fraud report receipt mean, and who handles the referral? | [Ledger](../research/2026-10-28-idaho-fraud-report-handoff.md). Need actual November review findings, implementation/authority decisions and published definitions before claims of a working system or results. |
 | October 27 report; follow actual monitoring/data developments | How would SH-21 monitoring retain the right location and rainfall interval? | New IGS report and USGS/NOAA methods in the [ledger](../research/2026-10-27-sh21-rainfall-windows.md). Need actual program/data records before claims of installation, performance or threshold crossing. |
 | Draft October 26; recheck survey/data status | How do airborne readings become useful geologic maps? | [Ledger](../research/2026-10-26-western-idaho-airborne-survey.md): planned western Idaho work, methods and prior data and field investigation examples. Reopen indexed notice and verify current status; no new measurements or discovery inferred. |
 | Research hold Oct 24–25 | Which trips does GIFT’s Ammon expansion actually enable? | [Dossier](../research/2026-10-24-ammon-gift-service-boundary.md): October board attachments and earlier launch/booking records; verify decisions, current boundary and rider instructions. No signed-contract, spending, ridership or universal coverage claim. |

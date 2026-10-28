@@ -12,6 +12,17 @@
     </news:news>
   </url>
   <url>
+    <loc>https://www.idahostack.com/articles/idaho-fraud-report-handoff.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>The Idaho Stack</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T09:37:24-06:00</news:publication_date>
+      <news:title>Idaho’s Fraud Review Raises a Practical Question: Who Gets the Report?</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.idahostack.com/articles/inl-software-browser-access-licensing.html</loc>
     <news:news>
       <news:publication>

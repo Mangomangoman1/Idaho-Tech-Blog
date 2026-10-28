@@ -1,122 +1,89 @@
-# Session handoff — October 27 daily reporting
+# Session handoff — October 28 reporting
 
 Read root AGENTS.md, [OPERATIONS.md](OPERATIONS.md), [INVENTORY.md](INVENTORY.md),
-[new source ledger](../research/2026-10-27-sh21-rainfall-windows.md) and
-[release metadata](release-2026-10-27-sh21.json). Earlier recovery session:
-[October 27 recovery](sessions/2026-10-27-recovery.md).
+[source ledger](../research/2026-10-28-idaho-fraud-report-handoff.md),
+[release record](release-2026-10-28-fraud.json) and
+[validation](validation-2026-10-28-fraud.json). Previous daily session is archived
+at [October 27](sessions/2026-10-27.md).
 
-## Recovery is complete; current authorization
+## Prior releases are complete
 
-Parent independently verified remote `456c42f0878ff0f0af6e87efcd0c01496e2606da`,
-Vercel success, both INL software and court AI articles fully rendered in cloud
-Chrome with accurate metadata/disclosures and live News navigation. The user
-already received the recovery completion notice. Earlier workspace-only fetch
-failures are historical; do not repeat them as an unresolved recovery blocker.
-[Recovery metadata](release-2026-10-27.json) records the exact confirmation scope.
-This does not establish October 20's first-serving date; preserve its clarification.
+Parent independently verified SH-21 at exact main
+`38a1ec1db8c415e70fecd6b384147fb0e6668de7`, Vercel success, full public page and
+index navigation, desktop visuals and IGS PDF/catalog, USGS, NOAA and ITD source
+spot checks. User already notified. The former workspace-only access limit is
+closed for SH-21; [its release record](release-2026-10-27-sh21.json) now records
+confirmation. INL/court recovery remains independently confirmed at 456c42f.
+October 20's historical first-serving date is still unestablished; preserve its
+truthful provenance clarification and intentionally absent publication timestamp.
 
-Routine task-only commits and normal main pushes remain authorized after checks.
-No force/protection bypass, alternate project/environment/Mac, outreach, interviews,
-accounts, spending, sensitive disclosures, serious allegations, security/domain or
-tracking changes. No new recurrence or second writer created.
+## Starting state and authorization
 
-## Safe starting state
+Started clean on work at 38a1ec1, verified origin Mangomangoman1/Idaho-Tech-Blog,
+safe fetch succeeded, zero ahead/behind. Read mission, instructions, roadmap,
+inventory, handoff, recent history and relevant reporting/format/check records.
+No competing writer, additional local skills or unrelated edits observed. No
+merge required. Same saved cloud environment only; no Mac, other project or second
+writer. Routine task-only commits and normal main pushes are authorized after checks.
+No force/protection bypass, PR approval, outreach/interviews, accounts, spending,
+sensitive disclosures, serious allegations, tracking or security/domain changes.
 
-Started clean on work at `456c42f0878ff0f0af6e87efcd0c01496e2606da`. Read mission,
-roadmap, current instructions/handoff/inventory/history and existing reporting
-context. No additional local skills or competing writer observed. Fetch succeeded;
-HEAD and origin/main match, zero ahead/behind. No unrelated work or merge needed.
-All prior article HTML, artwork/CSS, held drafts and the Ammon dossier are unchanged.
-Only the new piece and its discovery/desk/continuity records are task changes.
+## Today's piece
 
-## Today's piece and evidence
+**Idaho’s Fraud Review Raises a Practical Question: Who Gets the Report?**
 
-**SH-21's New Debris Flow Report Shows Why Rainfall Windows Matter**
+[Article](../../articles/idaho-fraud-report-handoff.html)
+Public target: https://www.idahostack.com/articles/idaho-fraud-report-handoff.html.
+Release timestamp: 2026-10-28T09:37:24-06:00, current Idaho morning.
 
-[Article](../../articles/sh21-debris-flow-rainfall-windows.html)
-Intended public URL: https://www.idahostack.com/articles/sh21-debris-flow-rainfall-windows.html.
-Timestamp: 2026-10-27T09:20:38-06:00 (current Idaho morning).
+New hook: governor's October 26 announcement of a November 17 review, with findings
+ahead of the 2027 session. Compare current Finance guidance and five-page paper form
+with FBI BEC instructions, IC3 FAQ and exact 2025 report tables/Appendix C. Core
+finding is the distinct function of an urgent bank request, crime-report intake/
+referral and regulatory complaint review. Paper form's other-agency question gives
+a concrete coordination detail. Future receipt/reference/privacy/counting questions
+are clearly our analysis, not state specifications or a finding of mishandled cases.
 
-An IGS catalog addition dated October 20 supplies the news hook; the report's July
-2026 events remain explicitly historical. Read the complete report's extracted
-text/captions, its publication record, USGS assessment FAQ, NOAA MRMS description
-and ITD travel-information page. Exact URLs/pages and inference limits in the ledger.
-No copied photos/maps/Planet imagery. Three original conceptual graphics identify
-time bases, not measured rainfall or a warning threshold.
+FBI's $88,725,284 and 4,479 complaints retain their reporting boundary; no distinct-
+victim count, statewide incidence estimate, new 2026 loss total or recovery finding.
+No new portal, adopted architecture, procurement, vendor, budget or implementation
+inferred. Honest Organization author, visible AI/no-contact/no-service-test method,
+contextual primary links, original three-ratio conceptual art. No copied maps,
+photos, personal case narratives or invented human reporting. Official current
+guidance is linked; no form submitted or personal information collected.
 
-Core comparison: a short-burst model scenario and longer accumulated observations
-are different measures. No raw sensor/radar data recomputed, matched-period claim,
-threshold crossing, new forecast, current closure, property-risk assessment or
-installed warning system inferred. Gauge interval is the published figure caption,
-not a new raw-series finding. Model/geospatial/recovery limitations are attributed.
-Recommendations are the report's suggestions; future monitoring questions are our
-analysis. Honest Organization author, visible AI/no-fieldwork method, near-claim
-links and official 511 route. No interview, quote or first-hand experience invented.
+Ledger includes exact URLs/pages, access/event dates, attribution, limits and next
+triggers. Alternative workforce lead needs actual tables/methods. LinkUp's moving
+event widget is not verified evidence of a new meeting. No quota rewrite.
 
-Used analyze-data-quality as a scoped companion on grain, units and interval/
-location comparability. Linked shared skill references were unavailable after a
-bounded lookup; no source or quantitative conclusion depends on those files.
-No extra Data app, notebook or automation. Existing repository/article destination
-and branding were retained. No new computed rainfall statistic.
+## Actual local validation
 
-## Actual local checks and resolved issue
+`npm run build` and `npm run check` passed, including five date/news-discovery tests.
+[Scoped audit](checks/2026-10-28-fraud.py) passed new metadata/links/partials/images,
+truthful dates and Organization author, canonical/OG, discovery, prior RSS GUIDs/
+dates, all previous articles/assets and held drafts preserved. Twelve Chromium
+cases cover the new article/home/news/business guide at 320, 390 and 1440 pixels:
+HTTP 200, no page overflow, broken images or page errors; mobile menu passed.
+Desktop/mobile article views and all three original graphic ratios reviewed.
 
-npm run build and npm run check passed, including five date/discovery regression
-tests. New Article/NewsArticle metadata, canonical/OG, actual visible date, author,
-image variants, links, RSS and regular/news sitemap inclusion checked. News sitemap
-has today's article plus the two recent recovered pieces; no old dates refreshed.
-RSS previous GUIDs/dates, including October 20's intentionally omitted pubDate,
-remain unchanged. Relevant home/news/agtech desk links integrated.
+New article/news/home/business baseline, RSS and regular/news sitemap integrated.
+No prior article HTML, dates, artwork or global CSS changed. Current news sitemap
+has four recent articles; the two recovery entries expire at 21:55:22 MDT today.
+Rebuild on the next run. Dated audit scripts intentionally describe their own
+snapshots. Google Article/canonical/news guidance reopened; no indexing/News
+inclusion guarantee or Search Console/Rich Results test claimed.
 
-[Custom audit](checks/2026-10-27-sh21.py) passed metadata/discovery, preservation of
-all prior articles/assets/held drafts and 12 responsive Chromium cases for the new
-article and three touched pages at 320/390/1440 pixels. HTTP 200, no page overflow,
-broken images or browser errors; mobile menus and keyboard table scrolling pass.
-[Validation record](validation-2026-10-27-sh21.json).
+## Editorial holds and next reporting steps
 
-Initial 320px check found the table widening its grid item. Fixed only the new
-article panel's minimum width so the table scrolls inside its region. Rerun passed.
-Caption, column/row headers and focusable named region provide accessible context.
-No global CSS or previous article change. New mobile/desktop views/artwork reviewed.
-Local Markdown targets and git diff --check checked before preservation commit.
+911 needs actual October decisions/current funding. Helicopter preview needs a
+readable complete current notice and survey/data status. Ammon needs decisions,
+current boundary/rider instructions and a defined outcome period. These previews
+and original sources remain unchanged, undated and outside discovery. No repeated
+blocked document chase. Follow the new fraud review's actual records/findings and
+any subsequent implementation/authority/budget decisions; do not infer them now.
 
-Google Article/date/news-sitemap guidance reopened. No Search Console, Rich Results
-Test, indexing, ranking or Google News inclusion guarantee. Prior recovery checks
-were not repeated; this validation focuses on today's changes.
+## Release verification
 
-## Remaining editorial holds
-
-911 still needs October decisions/current funding evidence. Helicopter draft needs
-a readable current complete notice and survey/data status. Ammon needs decision,
-current boundary/instructions and defined outcomes evidence. No repeated blocked
-requests today and no quota-driven rewrite. Their documents/images remain preserved
-and undated/noindex, outside discovery. Seek a genuine new record before revisiting.
-
-## Release verification and next steps
-
-Content commit `fa7665200f22a427f8853809c5b08c070112b7f0` was normally pushed to established main and
-verified by git ls-remote. Vercel reports success for this exact commit:
-[deployment status target](https://vercel.com/wpbfls-5183s-projects/idaho-tech-blog/DVyBZVFZ6XRA942RABXWTQVu25tT). No force push, protection bypass, empty
-trigger commit or hosting/configuration change.
-
-New-page verification attempted at 15:37:23 UTC through normal Chromium navigation
-inside this saved cloud workspace, without proxy/certificate/security overrides.
-The request to https://www.idahostack.com/articles/sh21-debris-flow-rainfall-windows.html
-failed with net::ERR_TUNNEL_CONNECTION_FAILED before a public page could be checked.
-[Exact browser record](public-check-2026-10-27-sh21.json). Web retrieval of the new
-article and news sitemap was also unavailable. These completed read failures are
-not an automatic approval denial, a pending mutation or evidence of a site failure.
-No attempts to bypass the access limit.
-
-Current outcome: new article pushed and Vercel-successful; this workspace has not
-verified its public body/metadata/rendering. The earlier INL/court recovery remains
-independently confirmed live; do not reopen that closed blocker. The single remaining
-release action is to verify this new article through the parent's already working
-cloud Chrome route: correct rendered title/body, October 27 date, Organization/AI
-disclosure, canonical/NewsArticle and relevant images/table, plus current News/feed/
-sitemap discovery. No new access, account or alternate project is requested.
-
-A task-only evidence commit follows this record; its final SHA is in local history
-and the task report. Prior articles, dates, assets, held drafts and October 20's
-truthful clarification remain preserved. Future reporting should follow a real
-new monitoring/data record or another evidenced Idaho development, without filler.
+Local checks completed. Normal push, exact remote/deployment and new public-page
+verification are the remaining release steps at this preparation checkpoint.
+Update this section and the release record with actual outcomes before completion.

@@ -293,3 +293,16 @@ web article/news-sitemap retrieval was unavailable. This new-page check remains 
 the parent's working cloud Chrome route. Previous INL/court public verification is
 complete and is not reopened. Exact new task evidence/target is in the current
 handoff and public-check JSON. No new live/indexing claim from this workspace.
+
+## October 28 article maintenance
+
+Reopened official [Article guidance](https://developers.google.com/search/docs/appearance/structured-data/article),
+[news sitemap guidance](https://developers.google.com/search/docs/crawling-indexing/sitemaps/news-sitemap)
+and [canonical guidance](https://developers.google.com/search/docs/crawling-indexing/consolidate-duplicate-urls).
+New fraud-report piece follows current visible Organization author/AI disclosure,
+genuine Idaho timestamp, matching NewsArticle/OG/canonical, three original image
+ratios, RSS and regular/news sitemap. Build/check and scoped responsive audit record
+actual local evidence. News sitemap has four articles at this run; the two recovered
+October 26 entries expire October 28 at 21:55:22 MDT. Daily rebuilding still matters.
+No indexing, ranking, Google News inclusion or Rich Results/Search Console claim.
+No accounts, tracking, deployment configuration or hosting changes.
