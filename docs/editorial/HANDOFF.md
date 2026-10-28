@@ -84,6 +84,28 @@ any subsequent implementation/authority/budget decisions; do not infer them now.
 
 ## Release verification
 
-Local checks completed. Normal push, exact remote/deployment and new public-page
-verification are the remaining release steps at this preparation checkpoint.
-Update this section and the release record with actual outcomes before completion.
+Content commit `6768bf0963612ba10116d86d6e3a1dba1ad956b0` was normally pushed to
+established main. git ls-remote confirmed that exact SHA. Vercel commit status is
+success for the exact commit: [deployment](https://vercel.com/wpbfls-5183s-projects/idaho-tech-blog/WEDpc4RBnjqufSqNdeEntYgMdCyk).
+The separate check-runs endpoint returned zero; no additional Actions test claimed.
+No force, bypass, empty trigger commit, account/configuration or hosting change.
+
+New-article public Chrome navigation at 15:40:49 UTC failed before a page loaded
+with `net::ERR_TUNNEL_CONNECTION_FAILED`. [Exact record](public-check-2026-10-28-fraud.json).
+Read-only web opens of new article/news sitemap/robots were unavailable. News
+returned an older cached extraction that lacks even the independently verified
+SH-21 piece; it cannot establish current origin behavior. These are completed read
+failures, not an automatic approval denial, pending mutation or evidence of outage.
+No override/bypass or repeated failing navigation attempted.
+
+Outcome: new article pushed and Vercel-successful; its public rendering remains
+unverified by this workspace. The single next release action belongs to the
+parent's already working cloud Chrome route: inspect the new article's complete
+body, October 28 date, Organization/AI disclosure, canonical/NewsArticle and image;
+check current home/news/business guide, feed, sitemap/news sitemap and robots.
+No additional account, environment, deploy or owner approval is required for those
+read-only checks. Earlier SH-21 and recovery confirmations remain complete.
+
+A task-only evidence commit preserves this verification record; final SHA and exact
+remote/deployment confirmation are reported at completion. Working tree is checked
+clean afterward. Do not repeat expensive completed local checks for docs-only edits.

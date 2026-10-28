@@ -1,11 +1,30 @@
 {
   "slug": "idaho-fraud-report-handoff",
-  "title": "Idaho\u2019s Fraud Review Raises a Practical Question: Who Gets the Report?",
+  "title": "Idaho’s Fraud Review Raises a Practical Question: Who Gets the Report?",
   "url": "https://www.idahostack.com/articles/idaho-fraud-report-handoff.html",
   "publication_stamp": "2026-10-28T09:37:24-06:00",
   "date": "October 28, 2026",
   "local_date": "2026-10-28",
   "description": "A new statewide review will consider fraud reporting. Existing Idaho and FBI documents explain the different jobs of a bank response, a crime report and regulatory review.",
   "base_sha": "38a1ec1db8c415e70fecd6b384147fb0e6668de7",
-  "status": "local_prepublication_checks"
+  "status": "pushed_vercel_success_public_verification_pending",
+  "remote_content_sha": "6768bf0963612ba10116d86d6e3a1dba1ad956b0",
+  "remote_verification": "git ls-remote origin refs/heads/main returned this exact SHA",
+  "deployment": {
+    "context": "Vercel",
+    "state": "success",
+    "target_url": "https://vercel.com/wpbfls-5183s-projects/idaho-tech-blog/WEDpc4RBnjqufSqNdeEntYgMdCyk"
+  },
+  "separate_check_runs": {
+    "total_count": 0,
+    "interpretation": "No separate check-runs returned; Vercel uses commit status."
+  },
+  "public_verification": {
+    "result": "unverified_in_this_workspace",
+    "browser_result": "net::ERR_TUNNEL_CONNECTION_FAILED",
+    "record": "public-check-2026-10-28-fraud.json",
+    "web_article_news_sitemap_robots": "unavailable",
+    "web_news_index": "older cached extraction, lacking even independently verified SH-21; not proof of current origin behavior",
+    "next_action": "Parent working cloud Chrome: verify new article body/date/disclosure/metadata/images plus current home/news/feed/sitemaps/robots. No additional access or deployment requested."
+  }
 }

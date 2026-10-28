@@ -1,0 +1,15 @@
+{
+  "checked_at": "2026-10-28T15:40:49.982423+00:00",
+  "url": "https://www.idahostack.com/articles/idaho-fraud-report-handoff.html",
+  "method": "Ordinary public Chromium navigation in the saved Idaho-Tech-Blog workspace; no proxy/certificate/security overrides",
+  "content_sha": "6768bf0963612ba10116d86d6e3a1dba1ad956b0",
+  "result": "public_read_failed",
+  "error": "Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://www.idahostack.com/articles/idaho-fraud-report-handoff.html",
+  "web_read": {
+    "article": "not accessible via tool",
+    "news_sitemap": "not accessible via tool",
+    "robots": "not accessible via tool",
+    "news": "cached extraction crawled yesterday; lacks independently verified SH-21 and new article; no fresh origin conclusion"
+  },
+  "action_status": "Completed read failures; no mutation, pending authorization, automatic approval denial or evidence of site outage"
+}

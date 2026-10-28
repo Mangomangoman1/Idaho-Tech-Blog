@@ -118,5 +118,17 @@
       "broken_images": [],
       "page_errors": []
     }
-  ]
+  ],
+  "manual_visual_review": [
+    "390px article top",
+    "1440px complete article",
+    "all three original image ratios"
+  ],
+  "additional_checks": {
+    "npm_build": "passed",
+    "npm_check": "passed; includes five date/news-sitemap tests",
+    "markdown_targets": 47,
+    "git_diff_check": "passed",
+    "prior_content_preservation": "all prior articles/assets and held drafts unchanged"
+  }
 }
