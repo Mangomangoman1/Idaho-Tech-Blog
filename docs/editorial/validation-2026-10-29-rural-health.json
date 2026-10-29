@@ -1,0 +1,134 @@
+{
+  "date": "2026-10-29",
+  "scope": "New rural-health technology article and changed home/news/desk only; prior fraud article independently public-verified by parent.",
+  "publication_stamp": "2026-10-29T10:01:27-06:00",
+  "checks": {
+    "article_metadata_links_images_partials": true,
+    "rss_previous_dates_guids_preserved": true,
+    "all_prior_articles_assets_held_drafts_unchanged": true,
+    "held_drafts_excluded": true,
+    "news_sitemap_two_recent_articles": true
+  },
+  "cases": [
+    {
+      "page": "health",
+      "width": 320,
+      "height": 740,
+      "http": 200,
+      "overflow": false,
+      "broken_images": [],
+      "page_errors": []
+    },
+    {
+      "page": "home",
+      "width": 320,
+      "height": 740,
+      "http": 200,
+      "overflow": false,
+      "broken_images": [],
+      "page_errors": []
+    },
+    {
+      "page": "news",
+      "width": 320,
+      "height": 740,
+      "http": 200,
+      "overflow": false,
+      "broken_images": [],
+      "page_errors": []
+    },
+    {
+      "page": "desk",
+      "width": 320,
+      "height": 740,
+      "http": 200,
+      "overflow": false,
+      "broken_images": [],
+      "page_errors": []
+    },
+    {
+      "page": "health",
+      "width": 390,
+      "height": 844,
+      "http": 200,
+      "overflow": false,
+      "broken_images": [],
+      "page_errors": []
+    },
+    {
+      "page": "home",
+      "width": 390,
+      "height": 844,
+      "http": 200,
+      "overflow": false,
+      "broken_images": [],
+      "page_errors": []
+    },
+    {
+      "page": "news",
+      "width": 390,
+      "height": 844,
+      "http": 200,
+      "overflow": false,
+      "broken_images": [],
+      "page_errors": []
+    },
+    {
+      "page": "desk",
+      "width": 390,
+      "height": 844,
+      "http": 200,
+      "overflow": false,
+      "broken_images": [],
+      "page_errors": []
+    },
+    {
+      "page": "health",
+      "width": 1440,
+      "height": 1000,
+      "http": 200,
+      "overflow": false,
+      "broken_images": [],
+      "page_errors": []
+    },
+    {
+      "page": "home",
+      "width": 1440,
+      "height": 1000,
+      "http": 200,
+      "overflow": false,
+      "broken_images": [],
+      "page_errors": []
+    },
+    {
+      "page": "news",
+      "width": 1440,
+      "height": 1000,
+      "http": 200,
+      "overflow": false,
+      "broken_images": [],
+      "page_errors": []
+    },
+    {
+      "page": "desk",
+      "width": 1440,
+      "height": 1000,
+      "http": 200,
+      "overflow": false,
+      "broken_images": [],
+      "page_errors": []
+    }
+  ],
+  "manual_visual_review": [
+    "390px article top",
+    "1440px complete article and 16:9 illustration",
+    "4:3 and 1:1 original graphics"
+  ],
+  "additional_checks": {
+    "npm_build": "passed",
+    "npm_check": "passed including five date/discovery tests",
+    "git_diff_check": "passed before staging",
+    "source_scope": "read primary HTML and original application sections; complete award list and newer annual/budget files unavailable, no current outcomes claimed",
+    "markdown_targets": 49
+  }
+}

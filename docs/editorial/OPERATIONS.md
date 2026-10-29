@@ -123,7 +123,7 @@ test lead should advance with released results and primary supply-chain evidence
 October 19 reporting rotates to Treasure/Payette Valley groundwater measurements,
 spatial/depth gaps and model funding. Follow actual survey data and coverage before
 claiming a new trend; next scheduled repeats are spring/fall 2027.
-October20 reporting covers North Idaho’s ITD payroll-tool change, document uploads,
+October 20 reporting covers North Idaho’s ITD payroll-tool change, document uploads,
 formats and certification. Follow actual phased district updates, public contract
 costs or measured outcomes; do not restate supplier savings promises as findings.
 Advance the energy docket only on an actual new filing/order, not its update date.
@@ -165,3 +165,13 @@ state/FBI complaint documents. Follow actual findings and authority/staffing/cos
 records, rather than infer an operating portal. 911, helicopter and Ammon remain
 editorial evidence holds; the two released archived previews remain historical.
 The chronological notes above retain their original preparation context.
+
+## Current reporting checkpoint — October 29
+
+Parent independently public-verified fraud at exact 743fbd0 and user notified; old
+workspace public-read limit is closed. New reporting follows October 28 rural health
+awards, physical/digital implementation and original-plan measurement boundaries.
+Future evidence is current service openings, scope/baselines and ongoing support.
+Do not double-count December 2025 federal allocation as new October money or treat
+historical application targets as completed services. Existing editorial holds
+remain unchanged. Source ledger and current handoff control release status.

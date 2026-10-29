@@ -306,3 +306,13 @@ actual local evidence. News sitemap has four articles at this run; the two recov
 October 26 entries expire October 28 at 21:55:22 MDT. Daily rebuilding still matters.
 No indexing, ranking, Google News inclusion or Rich Results/Search Console claim.
 No accounts, tracking, deployment configuration or hosting changes.
+
+## October 29 article maintenance
+
+Official Article, canonical and news-sitemap guidance reopened. Rural-health piece
+uses genuine current Idaho date, matching NewsArticle/visible/OG metadata, honest
+Organization author/AI method, three original image ratios and discovery links.
+Build pruned the expired recovered October26 and SH-21 October27 entries; current
+news sitemap contains the October28 fraud and new October29 article. Original
+published dates and prior RSS GUIDs remain preserved. No indexing/News inclusion
+promise, Search Console/Rich Results test, new account, tracking or hosting change.

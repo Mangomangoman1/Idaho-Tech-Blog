@@ -15,7 +15,7 @@ remain required; permission to publish does not establish that a page is live.
 - The 911 and western Idaho survey previews remain undated/unpublished. The former
   lacks needed decision/current funding evidence; the latter's direct notice still
   could not be read. Ammon remains a research hold, with no repeated document chase.
-- Use `npm run check` and `python3 docs/editorial/checks/2026-10-28-fraud.py`
+- Use `npm run check` and `python3 docs/editorial/checks/2026-10-29-rural-health.py`
   with root server on 5173 for current daily checks. The earlier recovery checker
   describes its historical two-article news snapshot. Dated checks describe their own discovery snapshots; current daily build prunes entries after 48 hours.
 

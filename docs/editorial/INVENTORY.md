@@ -1,7 +1,7 @@
 # Content inventory and maintenance priorities
 
 Read existing articles and mission/about/policy at takeover, October 16, 2026.
-Inventory maintained October 28 UTC; new reporting and source review recorded below.
+Inventory maintained October 29 UTC; new reporting and source review recorded below.
 Old display dates and bylines below are observations, not newly certified history.
 
 Recovery is complete: parent independently verified remote 456c42f and Vercel
@@ -22,13 +22,14 @@ its truthful clarification. Current reporting and release evidence is in HANDOFF
 | articles/cwi-micron-day-training-job-path.html | October 17 public-document reporting and analysis; The Idaho Stack, AI-assisted | Compares current certificate/catalog, course sequence, spring registration, employer hiring, cost and locations before Oct20 event. No current vacancy, class-seat or placement guarantee. See October 17 ledger/handoff for release state. |
 | articles/marvel-idaho-dry-criticality-physics-test.html | October 18 public-document reporting and analysis; The Idaho Stack, AI-assisted | Explains dry criticality versus thermal engineering and end-use demonstrations, using October announcement and technical report. Differing public forecasts and unavailable full safety analysis are explicit. See October 18 ledger/handoff for release state. |
 | articles/treasure-valley-well-survey-water-map.html | October 19 public-document reporting and analysis; The Idaho Stack, AI-assisted | Explains the fall survey’s spatial/depth gaps, private access, comparison methods and publicly funded model. No completion count, new trend or spending finding. See October 19 source ledger/handoff. |
-| articles/itd-north-idaho-certified-payroll-upload.html | Prepared October 20; first publication unestablished; provenance clarified October 26; The Idaho Stack, AI-assisted | District1 rollout plan, upload versus payroll-export routes, certification and project coordination; vendor compatibility attributed. No authenticated testing, completed-migration, savings or individual-contract compliance finding. See October20 ledger/handoff. |
+| articles/itd-north-idaho-certified-payroll-upload.html | Prepared October 20; first publication unestablished; provenance clarified October 26; The Idaho Stack, AI-assisted | District1 rollout plan, upload versus payroll-export routes, certification and project coordination; vendor compatibility attributed. No authenticated testing, completed-migration, savings or individual-contract compliance finding. See October 20 ledger/handoff. |
 | drafts/idaho-911-shared-technology-local-operations.html | Undated, unpublished local draft prepared Oct21; The Idaho Stack, AI-assisted | October contract agenda, approved GIS decisions and dated grant categories explain continuing responsibilities. No October vote, total cost or performance finding. Noindex; excluded from discovery; recheck and assign actual publication metadata only after hold ends. |
 | articles/idaho-court-ai-document-control.html | Published October 26 MDT; parent verified live October 27 UTC; The Idaho Stack, AI-assisted | October19 release of August NCSC report; operational chatbot source ownership/update control and adopted human-review principles. No deployed-tool, savings, case or branch-wide inventory claim. Release/report/principles rechecked; parent verified public content, metadata/disclosures and News navigation at remote 456c42f. Original draft archived. |
 | articles/inl-software-browser-access-licensing.html | Published October 26 MDT; parent verified live October 27 UTC; The Idaho Stack, AI-assisted | October22 notice/DOE selections distinguish hosted applications and licensing storefronts; existing FieldSim/access records give a concrete example. No FieldSim selection, completed app, price or savings claim. Current DOE/INL, access and licensing records rechecked; parent verified public content and metadata/disclosures at remote 456c42f. Original draft archived. |
 | drafts/western-idaho-airborne-survey-rock-signals.html | Undated, unpublished local draft prepared October 26; The Idaho Stack, AI-assisted | Fresh USGS notice plus methods, earlier Idaho dataset and field investigation example explain how to read a future map. No observed flight, mineral discovery, new groundwater/hazard result or release date promised. Indexed notice body read; reopen before release. Noindex and absent from discovery. |
 | articles/sh21-debris-flow-rainfall-windows.html | October 27 reporting; parent independently verified live at 38a1ec1; The Idaho Stack, AI-assisted | Newly added IGS July-event report, USGS design-storm context and NOAA/ITD records explain different rainfall windows. No raw-data reanalysis, threshold crossing, current warning or road-status claim. Parent verified full public page/navigation, desktop visuals and primary sources. See source ledger/handoff. |
-| articles/idaho-fraud-report-handoff.html | October 28 public-document reporting and analysis; The Idaho Stack, AI-assisted | New November review, existing Idaho Finance guidance/form and IC3 records distinguish transfer response, intake/referral and regulatory review. No service testing, unique-victim count, new portal or recovery guarantee. Content 6768bf0 pushed and exact-SHA Vercel success; new public-page verification pending through parent cloud Chrome. Exact release state in HANDOFF. |
+| articles/idaho-fraud-report-handoff.html | October 28 public-document reporting and analysis; The Idaho Stack, AI-assisted | New November review, existing Idaho Finance guidance/form and IC3 records distinguish transfer response, intake/referral and regulatory review. No service testing, unique-victim count, new portal or recovery guarantee. Parent independently public-verified at exact 743fbd0 and user notified; former workspace-only access limit is closed. Exact release state in HANDOFF. |
+| articles/idaho-rural-health-mobile-technology.html | October 29 public-document reporting and analysis; The Idaho Stack, AI-assisted | October 28 state awards and named SW/eastern mobile projects read against original application technology/evaluation plan and December 2025 federal allocation. No new second allocation, operating-service, current baseline, spending or clinical-outcome claim. Exact release state in HANDOFF. |
 | briefing-what-were-tracking-first.html | First briefing; updated May 19 | Seven operating beats. Article markup lacks author/publication dates. No invented historical data added. |
 | business-technology-baseline.html | Living resource; updated May 19, index says May 20 | 14-area maturity checklist. TechArticle and FAQPage; not a newly dated news story. Source-sensitive legal/security/vendor claims need evidence when revised. |
 | the-constraint.html | Series introduction | Defines bottlenecks, cost and execution frame; CollectionPage, not a fabricated new reported series installment. |
@@ -89,10 +90,20 @@ Follow November 17 records and findings ahead of the 2027 session; no new system
 procurement, database connection, cost or case performance inferred. SH-21 release
 is independently verified by parent at exact 38a1ec1; former access limit is closed.
 
+## October 29 reporting
+
+[Rural-health technology ledger](../research/2026-10-29-rural-health-mobile-technology.md):
+new October 28 state award announcement, two mobile project examples, original
+application metrics/shared infrastructure and distinct original federal allocation.
+Newer annual report, full award list and revised budget retrieval limits are
+explicit; no current implementation/performance inferred from older plans.
+Fraud public release independently confirmed by parent at exact 743fbd0.
+
 ## Prioritized backlog (pitches; not verified or publication commitments)
 
 | Priority | Reader question / angle | Primary lead / verification gate |
 | --- | --- | --- |
+| October 29 report; follow openings/current data | When do the rural mobile services operate, and how is their use measured? | [Ledger](../research/2026-10-29-rural-health-mobile-technology.md). Need service schedules, current metrics/baselines/reporting scope and recurring support evidence; no patient-level records or outcome promises. |
 | October 28 report; follow actual decisions | What will a statewide fraud report receipt mean, and who handles the referral? | [Ledger](../research/2026-10-28-idaho-fraud-report-handoff.md). Need actual November review findings, implementation/authority decisions and published definitions before claims of a working system or results. |
 | October 27 report; follow actual monitoring/data developments | How would SH-21 monitoring retain the right location and rainfall interval? | New IGS report and USGS/NOAA methods in the [ledger](../research/2026-10-27-sh21-rainfall-windows.md). Need actual program/data records before claims of installation, performance or threshold crossing. |
 | Draft October 26; recheck survey/data status | How do airborne readings become useful geologic maps? | [Ledger](../research/2026-10-26-western-idaho-airborne-survey.md): planned western Idaho work, methods and prior data and field investigation examples. Reopen indexed notice and verify current status; no new measurements or discovery inferred. |
@@ -116,3 +127,12 @@ is independently verified by parent at exact 38a1ec1; former access limit is clo
 Name the changed Idaho object, document, event date, reader consequence, what can
 be verified now, what cannot, and the next decision. Retire stale pitches. No
 scheduled date is more important than a defensible story.
+
+## Leads screened October 29
+
+Labor projections need the actual current spreadsheets, unavailable via normal
+workspace download (CONNECT403). INL transformer testing still lacks inspected
+published results; no outcome inferred. IDWR October 29 committee was canceled,
+not a new board decision. Micron October 27 transit commitment is a future lead:
+company release read, operator access/terms/timetable still needed. No generic
+announcement rewrite and no new draft produced for these leads.
