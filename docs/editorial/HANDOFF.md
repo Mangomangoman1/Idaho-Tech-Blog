@@ -96,5 +96,26 @@ coverage, not the carefully bounded original-plan explanation.
 
 ## Release verification
 
-Local checks are complete. Normal push, exact remote/deployment and this new public
-article verification remain to be recorded before completion.
+Content commit `9eb3e91cda16b5c8245dc57ec5db3644ccbdf799` normally pushed to
+established main. git ls-remote confirmed exact SHA; Vercel reports success for it:
+[deployment status](https://vercel.com/wpbfls-5183s-projects/idaho-tech-blog/3kHHktQFcpnaUPwTtV3f9EFWQivu).
+Separate check-runs returned zero, so no additional Actions check is claimed.
+No force/protection bypass, empty trigger commit or hosting/account change.
+
+Public Chromium navigation at 16:04:33 UTC failed before loading this new article
+with `net::ERR_TUNNEL_CONNECTION_FAILED`. [Exact record](public-check-2026-10-29-rural-health.json).
+This completed read failure is not a pending mutation, automatic approval denial
+or evidence that the public site failed. No security/proxy override or repeated
+failing navigation. Read-only web opens of the new article and news sitemap were also unavailable.
+
+Outcome: article pushed and Vercel-successful, but its new public body/rendering
+is unverified in this workspace. Exact remaining action is independent parent
+verification through its existing working cloud browser: article title/body,
+October 29 date, Organization/AI disclosure, canonical/NewsArticle and image;
+current home/news/AI desk, feed, regular/news sitemap and robots. No new account,
+environment, publication attempt or owner approval required for these read checks.
+The prior fraud, SH-21 and recovery verifications remain complete.
+
+A task-only documentation commit preserves this result. Final SHA and exact remote/
+Vercel status are reported at completion; tree checked clean and local server
+stopped. Do not repeat completed expensive local checks for documentation edits.

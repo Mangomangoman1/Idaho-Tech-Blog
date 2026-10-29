@@ -1,0 +1,13 @@
+{
+  "checked_at": "2026-10-29T16:04:33.414123+00:00",
+  "url": "https://www.idahostack.com/articles/idaho-rural-health-mobile-technology.html",
+  "method": "Ordinary Chromium navigation in saved Idaho-Tech-Blog workspace, no proxy/certificate/security overrides",
+  "content_sha": "9eb3e91cda16b5c8245dc57ec5db3644ccbdf799",
+  "result": "public_read_failed",
+  "error": "Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://www.idahostack.com/articles/idaho-rural-health-mobile-technology.html",
+  "web_read": {
+    "article": "not accessible via tool",
+    "news_sitemap": "not accessible via tool"
+  },
+  "action_status": "Completed read failures; no mutation, pending authorization, automatic approval denial or site-outage conclusion"
+}

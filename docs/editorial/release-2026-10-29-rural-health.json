@@ -7,5 +7,23 @@
   "local_date": "2026-10-29",
   "description": "Two newly announced mobile-care projects show the physical and digital work in Idaho’s rural health buildout. The original state plan explains shared technology and how progress would be measured.",
   "base_sha": "743fbd012fd6a2f465efb21c3cf7fe4edbdf2dd7",
-  "status": "local_prepublication_checks"
+  "status": "pushed_vercel_success_new_public_verification_pending",
+  "remote_content_sha": "9eb3e91cda16b5c8245dc57ec5db3644ccbdf799",
+  "remote_verification": "git ls-remote origin refs/heads/main returned exact content SHA",
+  "deployment": {
+    "context": "Vercel",
+    "state": "success",
+    "target_url": "https://vercel.com/wpbfls-5183s-projects/idaho-tech-blog/3kHHktQFcpnaUPwTtV3f9EFWQivu"
+  },
+  "separate_check_runs": {
+    "total_count": 0,
+    "interpretation": "No separate check-runs returned; Vercel uses commit status."
+  },
+  "public_verification": {
+    "result": "unverified_in_this_workspace",
+    "browser_result": "net::ERR_TUNNEL_CONNECTION_FAILED",
+    "record": "public-check-2026-10-29-rural-health.json",
+    "next_action": "Parent working cloud browser: verify new article body/date/author/disclosure/canonical/NewsArticle/image and current home/news/desk/feed/regular and news sitemaps/robots. Earlier articles independently verified, no repeat release.",
+    "web_article_and_news_sitemap": "not accessible via read-only web tool"
+  }
 }
