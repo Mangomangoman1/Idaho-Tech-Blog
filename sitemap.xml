@@ -2,11 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.idahostack.com/</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
   </url>
   <url>
     <loc>https://www.idahostack.com/news.html</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
   </url>
   <url>
     <loc>https://www.idahostack.com/articles/what-idahos-tech-economy-is-actually-made-of.html</loc>
@@ -22,7 +22,7 @@
   </url>
   <url>
     <loc>https://www.idahostack.com/semiconductors.html</loc>
-    <lastmod>2026-10-17</lastmod>
+    <lastmod>2026-10-30</lastmod>
   </url>
   <url>
     <loc>https://www.idahostack.com/repair-hardware.html</loc>
@@ -135,5 +135,9 @@
   <url>
     <loc>https://www.idahostack.com/articles/idaho-rural-health-mobile-technology.html</loc>
     <lastmod>2026-10-29</lastmod>
+  </url>
+  <url>
+    <loc>https://www.idahostack.com/articles/micron-route41-seven-day-transit.html</loc>
+    <lastmod>2026-10-30</lastmod>
   </url>
 </urlset>

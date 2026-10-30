@@ -175,3 +175,11 @@ Future evidence is current service openings, scope/baselines and ongoing support
 Do not double-count December 2025 federal allocation as new October money or treat
 historical application targets as completed services. Existing editorial holds
 remain unchanged. Source ledger and current handoff control release status.
+
+## Current reporting checkpoint — October 30
+
+Rural-health article independently verified live by parent at exact be69342 and
+user notified; earlier workspace read limit is closed. New reporting advances the
+Micron/VRT lead through a readable operator notice and current timetable documents.
+Follow Route 41's actual launch, departures, fare and connections, not just the
+commitment. Preserve 911/helicopter/Ammon holds and all prior article history.

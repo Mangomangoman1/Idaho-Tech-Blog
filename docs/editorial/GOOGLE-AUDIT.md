@@ -316,3 +316,13 @@ Build pruned the expired recovered October26 and SH-21 October27 entries; curren
 news sitemap contains the October28 fraud and new October29 article. Original
 published dates and prior RSS GUIDs remain preserved. No indexing/News inclusion
 promise, Search Console/Rich Results test, new account, tracking or hosting change.
+
+## October 30 article maintenance
+
+Reopened official Article, canonical and news-sitemap guidance. New Route 41 piece
+uses genuine current Idaho date, matching visible/NewsArticle/OG/canonical fields,
+Organization author/AI disclosure, three original images and normal discovery.
+News sitemap age is checked against the run's actual clock: October 28 fraud
+expires at 09:37:24 MDT today; rebuild if the release crosses that point. No older
+publication date refreshed. No indexing/Google News guarantee, external validator
+claim, tracking, hosting/account/domain or configuration change.

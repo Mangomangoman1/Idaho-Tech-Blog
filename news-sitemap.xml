@@ -22,4 +22,15 @@
       <news:title>Idaho’s Rural Health Awards Include the Technology Behind Mobile Care</news:title>
     </news:news>
   </url>
+  <url>
+    <loc>https://www.idahostack.com/articles/micron-route41-seven-day-transit.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>The Idaho Stack</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T09:25:08-06:00</news:publication_date>
+      <news:title>Micron’s Transit Plan Would Add a Seven-Day Caldwell–Boise Route</news:title>
+    </news:news>
+  </url>
 </urlset>

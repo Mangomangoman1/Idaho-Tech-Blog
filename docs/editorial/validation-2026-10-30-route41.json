@@ -1,0 +1,136 @@
+{
+  "date": "2026-10-30",
+  "tested_at": "2026-10-30T15:26:07.689308+00:00",
+  "news_sitemap_entries": 3,
+  "scope": "New Route 41 article and home/news/semiconductors desk only; previous rural-health article independently verified live by parent.",
+  "publication_stamp": "2026-10-30T09:25:08-06:00",
+  "checks": {
+    "article_metadata_links_images_partials": true,
+    "rss_previous_dates_guids_preserved": true,
+    "all_prior_articles_assets_held_drafts_unchanged": true,
+    "held_drafts_excluded": true,
+    "news_sitemap_recent_dates_only": true
+  },
+  "cases": [
+    {
+      "page": "route41",
+      "width": 320,
+      "height": 740,
+      "http": 200,
+      "overflow": false,
+      "broken_images": [],
+      "page_errors": []
+    },
+    {
+      "page": "home",
+      "width": 320,
+      "height": 740,
+      "http": 200,
+      "overflow": false,
+      "broken_images": [],
+      "page_errors": []
+    },
+    {
+      "page": "news",
+      "width": 320,
+      "height": 740,
+      "http": 200,
+      "overflow": false,
+      "broken_images": [],
+      "page_errors": []
+    },
+    {
+      "page": "desk",
+      "width": 320,
+      "height": 740,
+      "http": 200,
+      "overflow": false,
+      "broken_images": [],
+      "page_errors": []
+    },
+    {
+      "page": "route41",
+      "width": 390,
+      "height": 844,
+      "http": 200,
+      "overflow": false,
+      "broken_images": [],
+      "page_errors": []
+    },
+    {
+      "page": "home",
+      "width": 390,
+      "height": 844,
+      "http": 200,
+      "overflow": false,
+      "broken_images": [],
+      "page_errors": []
+    },
+    {
+      "page": "news",
+      "width": 390,
+      "height": 844,
+      "http": 200,
+      "overflow": false,
+      "broken_images": [],
+      "page_errors": []
+    },
+    {
+      "page": "desk",
+      "width": 390,
+      "height": 844,
+      "http": 200,
+      "overflow": false,
+      "broken_images": [],
+      "page_errors": []
+    },
+    {
+      "page": "route41",
+      "width": 1440,
+      "height": 1000,
+      "http": 200,
+      "overflow": false,
+      "broken_images": [],
+      "page_errors": []
+    },
+    {
+      "page": "home",
+      "width": 1440,
+      "height": 1000,
+      "http": 200,
+      "overflow": false,
+      "broken_images": [],
+      "page_errors": []
+    },
+    {
+      "page": "news",
+      "width": 1440,
+      "height": 1000,
+      "http": 200,
+      "overflow": false,
+      "broken_images": [],
+      "page_errors": []
+    },
+    {
+      "page": "desk",
+      "width": 1440,
+      "height": 1000,
+      "http": 200,
+      "overflow": false,
+      "broken_images": [],
+      "page_errors": []
+    }
+  ],
+  "manual_visual_review": [
+    "390px article top",
+    "1440px complete article and 16:9 calendar",
+    "4:3 and 1:1 original calendar"
+  ],
+  "additional_checks": {
+    "npm_build": "passed",
+    "npm_check": "passed including five date/discovery tests",
+    "markdown_targets": 51,
+    "git_diff_check": "passed before staging",
+    "keyboard_table_scroll": "passed at 320 and 390px"
+  }
+}

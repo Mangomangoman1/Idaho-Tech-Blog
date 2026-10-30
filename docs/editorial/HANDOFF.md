@@ -1,121 +1,98 @@
-# Session handoff — October 29 reporting
+# Session handoff — October 30 reporting
 
 Read root AGENTS.md, [OPERATIONS.md](OPERATIONS.md), [INVENTORY.md](INVENTORY.md),
-[source ledger](../research/2026-10-29-rural-health-mobile-technology.md),
-[release record](release-2026-10-29-rural-health.json) and
-[validation](validation-2026-10-29-rural-health.json). Previous session:
-[October 28](sessions/2026-10-28.md).
+[source ledger](../research/2026-10-30-micron-route41-weekly-service.md),
+[release record](release-2026-10-30-route41.json) and
+[validation](validation-2026-10-30-route41.json). Previous session:
+[October 29](sessions/2026-10-29.md).
 
-## Completed prior releases
+## Previous releases are complete
 
-Parent independently public-verified the fraud-report article at exact commit
-`743fbd012fd6a2f465efb21c3cf7fe4edbdf2dd7` and notified the user yesterday. Its old
-workspace-only public-read limit is closed; [release record](release-2026-10-28-fraud.json)
-now records that confirmation. No repeat release. SH-21 and INL/court confirmations
-remain complete. October 20's first-serving date remains unestablished; preserve
-its truthful clarification and absent publication timestamp.
+Parent independently verified rural-health live at exact commit
+`be693428b12d32d31c3a32e68eb4f55bb850b96f` and notified the user. Its old workspace
+public-read limit is closed; [release record](release-2026-10-29-rural-health.json)
+now records confirmation. No repeat publication. Fraud, SH-21 and INL/court
+confirmations remain complete. October 20's first-serving date remains
+unestablished; preserve its truthful clarification and absent publication timestamp.
 
-## Starting state and scope
+## Starting state and authorization
 
-Started clean on work at 743fbd0. Verified repository origin, safely fetched and
-found zero divergence from origin/main. No competing writer or unrelated work.
-Read local mission, roadmap, handoff, inventory, instructions, history and relevant
-reporting/format/check records. No additional local skills found. Same saved cloud
-environment only, no Mac, second writer or other project.
+Started clean on work at be69342. Verified origin identity, safely fetched and found
+zero divergence from main. No competing writer or unrelated work observed. Read
+mission, roadmap, handoff, inventory, instructions/history and relevant sources/
+format/check records. No new relevant local skill found. Same saved Idaho-Tech-Blog
+cloud environment only, no Mac, other project, second writer or new automation.
 
-Routine relevant commits and normal main pushes remain authorized after checks.
+Routine task-only commits and normal main push remain authorized after checks.
 No force/protection bypass, outreach/interviews, serious allegations, sensitive
-disclosures, purchases, accounts/subscriptions, tracking, security/domain changes
-or major commitments. No duplicate automation or new dependency created.
+disclosures, spending, accounts/subscriptions, tracking, security/domain changes
+or major business commitments. No dependency or hosting/configuration change.
 
-## Today's article and evidence
+## Today's article
 
-**Idaho’s Rural Health Awards Include the Technology Behind Mobile Care**
+**Micron’s Transit Plan Would Add a Seven-Day Caldwell–Boise Route**
 
-[Article](../../articles/idaho-rural-health-mobile-technology.html)
-Public target: https://www.idahostack.com/articles/idaho-rural-health-mobile-technology.html.
-Release timestamp: 2026-10-29T10:01:27-06:00, current Idaho morning.
+[Article](../../articles/micron-route41-seven-day-transit.html)
+Public target: https://www.idahostack.com/articles/micron-route41-seven-day-transit.html.
+Release timestamp: 2026-10-30T09:25:08-06:00, current Idaho morning.
 
-Fresh hook is the October 28 state award announcement, with southwest and eastern
-Idaho mobile project examples. Actual source digging links it to the original
-December 2025 federal allocation and the state's application technology/evaluation
-sections. Do not double-count the October announcement as another $186 million.
-Vehicles, clinical equipment, data sharing, staff support and measured service use
-have different implementation/evidence needs. Awards are not delivered services.
+VRT's actual October 27 operator article is readable now, advancing yesterday's
+Micron lead without repeating the failed homepage request. New Route 41 plan:
+all-day/seven-day regional service with named college, airport and Micron destinations.
+Current Route 42 page and dated October brochure supply a concrete weekday/hourly
+reference; this is not a claim the new itinerary replaces the existing one.
 
-Read relevant primary HTML and the narrative PDF's exact technology, metric and
-sustainability sections. Ledger records exact URLs/pages and historical/current
-boundaries. The original application's telehealth baseline is Unknown and its
-December 2030 percentage target cannot yield an absolute count. No claim baseline
-remains unknown today, final targets unchanged, spending completed, clinics open,
-records connected, costs saved or clinical benefit proved. No patient advice,
-provider allegation, interviews, visits, accounts or first-hand testing invented.
+Original synthesis: service days, hours, frequency, exact stop and return/connecting
+trip determine whether a weekly commute works. No individual itinerary, shift,
+travel-time saving, new fare, current Route 41 operation or precise opening promised.
+VRT's early-2027 supported-service expectation is not a dated Route 41 launch.
+Five-year commitment covers regional/On-Demand/Park & Ride improvements; no annual
+Route 41-only cost, executed funding agreement or spending finding inferred.
 
-Scoped analyze-data-quality companion checked metric units, unknown versus zero,
-plan dates and current-result limits; no calculation, raw patient data, new data
-app, notebook, metric framework or automation. Previously unavailable shared skill
-references were not retried. Existing repository/article destination retained.
+No forecasts converted into actual riders or residents. No interviews, rides,
+bookings, accounts, quotes, firsthand experience or scoops invented. Honest
+Organization author, visible AI/no-ride method, contextual primary links and
+original conceptual calendar in three ratios. No borrowed map/photos or fake
+operating timetable. Current Route 42 time-span differences are not used to create
+personal departure guidance; its live page/brochure remain linked for reference.
 
-Honest Organization byline/visible AI method and truthful date. Contextual official
-links and three original conceptual graphics; no copied photos or maps. Complete
-award-list/newer annual-report/budget files were inaccessible; article explicitly
-limits scope to read announcements, current program pages and original narrative.
-No full-portfolio or contract audit claimed.
+Ledger retains exact URLs/pages, factual limits, rejected shortcuts and next
+reporting trigger. No quantitative analysis workflow or unrelated skill/app used.
+Operator and company are interested partners, not independent spending verification.
+The October 19 board packet is not vote/execution or Route 41 timetable proof.
 
 ## Actual checks
 
 `npm run build` and `npm run check` passed, including five date/news-sitemap tests.
-[Scoped audit](checks/2026-10-29-rural-health.py) passed metadata, local links, shared
-partials, image dimensions, truthful byline/date/canonical, discovery, prior RSS
-GUIDs/dates and preservation of prior articles/assets/held drafts.
-Twelve Chromium cases cover article/home/news/AI desk at 320, 390 and 1440 pixels:
-HTTP 200, no page overflow, broken images or page errors; mobile navigation passed.
-Article mobile/desktop and original artwork visually reviewed.
+[Scoped audit](checks/2026-10-30-route41.py) passed metadata/local links/partials,
+image ratios, author/date/canonical/OG, discovery, previous RSS GUIDs/dates and
+preservation of all prior articles/assets/held drafts. Twelve Chromium cases cover
+article/home/news/semiconductors at 320, 390 and 1440 pixels: HTTP 200, no page
+overflow, broken images or page errors. Mobile navigation and keyboard table
+scrolling passed; named table region/caption/row and column headers present.
+Mobile/desktop article and original art visually reviewed.
 
-New home/news/desk, RSS, regular/news sitemap integration completed. Build pruned
-expired October 26 recovery and October 27 SH-21 entries; news sitemap now contains
-October 28 fraud and October 29 rural-health articles. No previous article date,
-body, image or global CSS changed. Official Google Article/canonical/news guidance
-reopened; no indexing, Google News, Search Console or Rich Results Test claim.
+Homepage lead/latest, News, semiconductors desk, RSS and regular/news sitemap are
+integrated. No previous article, date, image or global CSS changed. News-sitemap
+snapshot retains only recent dates; October 28 fraud expires at 09:37:24 MDT today.
+Rebuild before final preservation if the session crosses that point. Validation
+records the actual audit time and count rather than a permanent article count.
+Official Google Article/canonical/news guidance reopened; no indexing/News inclusion,
+Search Console or Rich Results Test claim.
 
-## Backlog and evidence holds
+## Next reporting and holds
 
-911 needs October decisions/current funding. Helicopter preview needs a complete
-readable current notice and survey/data status. Ammon needs decisions, current
-boundary/rider instructions and an outcome period. All preserved unchanged.
+Follow actual Route 41 launch, stop map, departures/frequency by day/direction,
+fares/holiday/accessibility and connection information. New Boise On-Demand rules
+need their own record; do not import Caldwell rules. Contract/payments and later
+usage results need actual records. No current-shift suitability asserted.
 
-Today's screened leads: Labor needs actual spreadsheets (normal download CONNECT
-403); transformer testing needs released results; IDWR October 29 committee was
-canceled; Micron transit commitment needs operator terms/timetable. Ledger preserves
-routes and reasons. No filler drafts or repeated blocked chase.
-
-Follow current rural mobile-service openings and schedules, program metric scope/
-baselines/reporting periods, and ongoing staffing/support costs. Seek public
-records, not patient-level data. The unavailable newer reports limit outcome
-coverage, not the carefully bounded original-plan explanation.
+911, helicopter and Ammon remain unchanged evidence holds. No repeated blocked
+chase. Rural-health follow-up needs service openings/current measured results;
+previous article is independently live, not a recovery task. Other ledgers/backlog
+remain preserved.
 
 ## Release verification
 
-Content commit `9eb3e91cda16b5c8245dc57ec5db3644ccbdf799` normally pushed to
-established main. git ls-remote confirmed exact SHA; Vercel reports success for it:
-[deployment status](https://vercel.com/wpbfls-5183s-projects/idaho-tech-blog/3kHHktQFcpnaUPwTtV3f9EFWQivu).
-Separate check-runs returned zero, so no additional Actions check is claimed.
-No force/protection bypass, empty trigger commit or hosting/account change.
-
-Public Chromium navigation at 16:04:33 UTC failed before loading this new article
-with `net::ERR_TUNNEL_CONNECTION_FAILED`. [Exact record](public-check-2026-10-29-rural-health.json).
-This completed read failure is not a pending mutation, automatic approval denial
-or evidence that the public site failed. No security/proxy override or repeated
-failing navigation. Read-only web opens of the new article and news sitemap were also unavailable.
-
-Outcome: article pushed and Vercel-successful, but its new public body/rendering
-is unverified in this workspace. Exact remaining action is independent parent
-verification through its existing working cloud browser: article title/body,
-October 29 date, Organization/AI disclosure, canonical/NewsArticle and image;
-current home/news/AI desk, feed, regular/news sitemap and robots. No new account,
-environment, publication attempt or owner approval required for these read checks.
-The prior fraud, SH-21 and recovery verifications remain complete.
-
-A task-only documentation commit preserves this result. Final SHA and exact remote/
-Vercel status are reported at completion; tree checked clean and local server
-stopped. Do not repeat completed expensive local checks for documentation edits.
+Local source/content/visual checks completed. Normal push, exact remote/deployment
+and public verification for this new article remain to be recorded before completion.
