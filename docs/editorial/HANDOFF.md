@@ -94,5 +94,26 @@ remain preserved.
 
 ## Release verification
 
-Local source/content/visual checks completed. Normal push, exact remote/deployment
-and public verification for this new article remain to be recorded before completion.
+Content commit `359ec71d8c550167a1cfe20b1d2ab8aea03caa27` normally pushed to
+established main. git ls-remote confirmed exact SHA; Vercel reports success for it:
+[deployment status](https://vercel.com/wpbfls-5183s-projects/idaho-tech-blog/EdqdNTkHVvGfaZPE95iuWEwZEyT9).
+Separate check-runs returned zero, so no additional Actions check is claimed.
+No force/protection bypass, empty trigger commit or hosting/account change.
+
+Ordinary public Chromium navigation at 15:28:24 UTC failed before loading the new
+article with `net::ERR_TUNNEL_CONNECTION_FAILED`. [Exact record](public-check-2026-10-30-route41.json).
+This completed read failure is not a pending mutation, automatic approval denial
+or evidence of an outage. No security/proxy override or repeated failing navigation.
+Read-only web opens of the new article and news sitemap were also unavailable.
+
+Outcome: new article pushed and Vercel-successful, public rendering unverified in
+this workspace. Exact remaining action is independent parent verification through
+its existing cloud browser: complete new title/body, October 30 date, Organization/
+AI disclosure, canonical/NewsArticle, calendar and table; current home/news/
+semiconductors, RSS, regular/news sitemaps and robots. No additional account,
+environment, publication attempt or owner approval required for those read checks.
+All previous parent confirmations remain complete.
+
+A task-only documentation commit preserves this outcome; final SHA and exact
+remote/Vercel status are reported at completion. Tree checked clean and task local
+preview server stopped. Do not repeat expensive completed local checks for docs edits.

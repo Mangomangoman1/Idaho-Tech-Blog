@@ -1,0 +1,13 @@
+{
+  "checked_at": "2026-10-30T15:28:24.315433+00:00",
+  "url": "https://www.idahostack.com/articles/micron-route41-seven-day-transit.html",
+  "method": "Ordinary Chromium navigation in saved Idaho-Tech-Blog workspace; no proxy/certificate/security overrides",
+  "content_sha": "359ec71d8c550167a1cfe20b1d2ab8aea03caa27",
+  "result": "public_read_failed",
+  "error": "Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://www.idahostack.com/articles/micron-route41-seven-day-transit.html",
+  "web_read": {
+    "article": "not accessible via tool",
+    "news_sitemap": "not accessible via tool"
+  },
+  "action_status": "Completed read failures; no mutation, pending authorization, automatic approval denial or outage conclusion"
+}

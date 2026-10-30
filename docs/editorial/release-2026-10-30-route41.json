@@ -7,5 +7,23 @@
   "local_date": "2026-10-30",
   "description": "VRT’s planned Route 41 would connect colleges, the airport and Micron throughout the week. Current timetable documents explain why departure times and the return journey matter.",
   "base_sha": "be693428b12d32d31c3a32e68eb4f55bb850b96f",
-  "status": "local_prepublication_checks"
+  "status": "pushed_vercel_success_new_public_verification_pending",
+  "remote_content_sha": "359ec71d8c550167a1cfe20b1d2ab8aea03caa27",
+  "remote_verification": "git ls-remote origin refs/heads/main returned exact content SHA",
+  "deployment": {
+    "context": "Vercel",
+    "state": "success",
+    "target_url": "https://vercel.com/wpbfls-5183s-projects/idaho-tech-blog/EdqdNTkHVvGfaZPE95iuWEwZEyT9"
+  },
+  "separate_check_runs": {
+    "total_count": 0,
+    "interpretation": "No separate check-runs returned; Vercel uses commit status."
+  },
+  "public_verification": {
+    "result": "unverified_in_this_workspace",
+    "browser_result": "net::ERR_TUNNEL_CONNECTION_FAILED",
+    "record": "public-check-2026-10-30-route41.json",
+    "next_action": "Parent working cloud browser: verify new article complete body/date/author/disclosure/canonical/NewsArticle/calendar/table and current home/news/semiconductors/feed/regular and news sitemaps/robots. Prior articles independently verified, no repeat release.",
+    "web_article_and_news_sitemap": "not accessible via read-only web tool"
+  }
 }
