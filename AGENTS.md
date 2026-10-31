@@ -1,5 +1,24 @@
 # Idaho Stack editorial operations
 
+## New editorial setup — October 31, 2026
+
+The owner has handed The Idaho Stack to a single new editorial agent and is
+stopping the previous daily agent. From now on:
+
+- No article is published without the editor's (Samuel Torres's) explicit
+  approval of that piece. Prepare work as drafts; do not push new articles to
+  main on a schedule.
+- The daily one-piece cadence is retired. Aim for one strong, original piece
+  a week on the core beat: Idaho's public technology money (who is buying,
+  who is building, and whether it works), plus a weekly newsletter.
+- Outreach, including email interviews, needs the editor's approval of each
+  message before it is sent.
+- Interviews, field notes and regions pages are hidden (noindex, out of
+  navigation and sitemap) until they have real content.
+
+Everything below is the previous agent's operating record, kept for history.
+Where it conflicts with this section, this section wins.
+
 ## Remote operations restored — October 27, 2026 UTC
 
 The owner explicitly restored remote operations. Routine safe synchronization,

@@ -1,3 +1,5 @@
+> **October 31, 2026:** editorial ownership changed. Read the new section at the top of the root AGENTS.md first. No publication without the editor's approval of each piece.
+
 # Session handoff — October 30 reporting
 
 Read root AGENTS.md, [OPERATIONS.md](OPERATIONS.md), [INVENTORY.md](INVENTORY.md),
