@@ -12,6 +12,7 @@
 - [Energy & Nuclear in Idaho](/energy-nuclear.html): A practical Idaho energy and nuclear hub: INL, Idaho Power planning, grid demand, advanced reactors, transmission, cybersecurity, storage, data centers, and workforce.
 - [Repair & Hardware in Idaho](/repair-hardware.html): A practical Idaho repair and hardware hub: right-to-repair, device repair, farm equipment, business maintenance, e-waste, workforce skills, and technology that keeps working.
 - [Semiconductors in Idaho](/semiconductors.html): A practical Idaho semiconductor hub: Micron, memory chips, CHIPS Act funding, Photronics, Boise State microelectronics, workforce, water, power, housing, and supplier constraints.
+- [Idaho BEAD Broadband Tracker](/broadband-tracker.html): Weekly-updated tracker of Idaho’s federal BEAD broadband awards: providers, withdrawals, the August 2026 re-bid and project stages, with CSV downloads.
 - [Idaho Business Technology Baseline](/business-technology-baseline.html): Practical scorecard for Idaho businesses deciding what to fix, implement, automate, document, secure, or leave alone.
 - [Idaho Tech Briefing: What We’re Tracking First](/briefing-what-were-tracking-first.html): First briefing on Micron, INL, broadband, water, AI, repair, and workforce.
 - [The Constraint](/the-constraint.html): Series intro on water, power, labor, housing, land, software, and time.

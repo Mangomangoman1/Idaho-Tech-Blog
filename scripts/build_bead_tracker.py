@@ -17,8 +17,8 @@ SITE = "https://www.idahostack.com"
 
 # Facts taken from the state's own documents. Each one is cited on the page.
 STATUS = {
-    "checked": "October 31, 2026",
-    "checked_iso": "2026-10-31",
+    "checked": "October 30, 2026",
+    "checked_iso": "2026-10-30",
     "program_total": "$583.2 million",
     "final_proposal_approved": "December 19, 2025",
     "notice_of_award": "January 26, 2026",
@@ -31,7 +31,7 @@ STATUS = {
 }
 
 SOURCES = OrderedDict([
-    ("final", ("Idaho BEAD Final Proposal page, Idaho Office of Broadband", "https://linkup.idaho.gov/idaho-bead-final-proposal/", "Read Oct. 31, 2026")),
+    ("final", ("Idaho BEAD Final Proposal page, Idaho Office of Broadband", "https://linkup.idaho.gov/idaho-bead-final-proposal/", "Read Oct. 30, 2026")),
     ("overview", ("BEAD Awards Overview and Map (updated Feb. 2–3, 2026)", "https://linkup.idaho.gov/wp-content/uploads/2026/02/BEAD-Awards-Overview_Map-2.3.26.pdf", "Provider award table")),
     ("board", ("Idaho Broadband Advisory Board packet, Oct. 1, 2026", "https://commerce.idaho.gov/wp-content/uploads/2026/09/10_1_2026-Board-Book.pdf", "BEAD executive summary, packet pages 2–9")),
     ("faq", ("Subgrantee FAQ, version 6 (Aug. 18, 2026)", "https://linkup.idaho.gov/wp-content/uploads/2026/08/Subgrantee-RFI-FAQ_V6_08.18.26.pdf", "Construction and payment gates")),

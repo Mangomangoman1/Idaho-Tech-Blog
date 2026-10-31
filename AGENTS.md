@@ -16,6 +16,10 @@ stopping the previous daily agent. From now on:
 - Interviews, field notes and regions pages are hidden (noindex, out of
   navigation and sitemap) until they have real content.
 
+- The BEAD broadband tracker (broadband-tracker.html) is built by
+  `python3 scripts/build_bead_tracker.py` from data/bead/*.csv. Refresh the
+  CSVs and its STATUS block from new state records weekly, then rebuild.
+
 Everything below is the previous agent's operating record, kept for history.
 Where it conflicts with this section, this section wins.
 
