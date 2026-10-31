@@ -1,0 +1,28 @@
+provider,technology,project_areas,bead_award_usd,locations_bsl,provider_match_usd,award_per_location_usd
+"Albion Telephone Company, Inc. dba ATC Communications",FTTP,10,2997512.25,835,5949725.25,3589.84
+Coeur d'Alene Tribe DBA Red Spectrum,FTTP,3,4019796.00,918,850318.00,4378.86
+"Concept Communications, LLC",FTTP,10,36564696.45,3043,12188232.14,12016.00
+Custer Telephone Cooperative Inc,FTTP,12,1874476.00,631,6851068.00,2970.64
+Direct Communications Rockland Inc.,FTTP,30,22670472.00,3892,25623060.50,5824.89
+Farmers Mutual Telephone Co.,FTTP,2,2727954.00,257,2469646.00,10614.61
+FyberCom LLC,FTTP,52,83057902.55,12461,28866691.24,6665.43
+Midvale Telephone Company dba MTE Communications,FTTP,2,1504970.00,125,5062500.00,12039.76
+Mud Lake Telephone Cooperative Assoc Inc.,FTTP,6,1351904.25,189,450634.75,7152.93
+Newmax LLC dba Intermax Networks,FTTP,4,17375317.00,1658,5791771.00,10479.68
+Northwest Fiber LLC dba Ziply,FTTP,19,26805914.34,3705,8935292.76,7235.06
+Rally Networks (Formerly Oregon Telephone Corp),FTTP,4,10641940.00,951,3547312.00,11190.26
+RTI (Rural Telecom Inc.),FTTP,4,5760219.00,1055,2261426.00,5459.92
+"White Cloud Communications, Inc",FTTP,5,2590263.92,370,863454.98,7000.71
+Wi-Fiber Inc,FTTP,22,58618679.00,7932,19539559.00,7390.15
+Anthem Broadband,Licensed Fixed Wireless,10,4464931.26,1931,1488308.69,2312.24
+"E.L. Automation, Inc. Dba E.L. Internet Northwest",Licensed Fixed Wireless,10,1089137.00,1350,316200.00,806.77
+IBT Group USA,Licensed Fixed Wireless,26,8878213.00,5683,3220113.00,1562.24
+Midvale Telephone Company dba MTE Communications,Licensed Fixed Wireless,3,1987132.56,967,962487.39,2054.95
+"White Cloud Communications, Inc",Licensed Fixed Wireless,57,8809947.22,5391,2936649.10,1634.20
+SpaceX,Low Earth Orbit Satellite,330,35730000.00,23819,32724833.00,1500.06
+"Albion Telephone Company, Inc. dba ATC Communications",Mixed Technology,1,162966.50,100,277483.50,1629.67
+ETS Management LLC,Mixed Technology,57,57367537.98,5594,20768390.54,10255.19
+Fremont Telcom Co. DBA Blackfoot Communications,Mixed Technology,23,13816358.46,3455,5000000.00,3998.95
+FyberCom LLC,Mixed Technology,21,3395988.00,2704,1131996.00,1255.91
+Inland Cellular LLC,Mixed Technology,1,1811284.58,211,452821.15,8584.29
+Nez Perce Tribe,Mixed Technology,3,10163050.00,2054,3400000.00,4947.93
