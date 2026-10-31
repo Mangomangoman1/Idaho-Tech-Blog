@@ -183,15 +183,15 @@ bar = f"""
 
 out_rows = "".join(
     f"<tr><th scope=\"row\">{esc(SHORT.get(n, n))}</th><td>{esc(' + '.join(sorted(set(providers[n]['tech']))))}</td>"
-    f"<td class=\"num\">{w['areas']}</td><td class=\"num\">{money(w['award'], 2)}</td><td class=\"num\">{w['bsl']:,}</td><td class=\"num\">{w['share']:.0%}</td></tr>"
+    f"<td class=\"num\">{money(w['award'], 2)}</td><td class=\"num\">{w['bsl']:,}</td><td class=\"num\">{w['share']:.0%}</td></tr>"
     for n, w in sorted(out.items(), key=lambda kv: -kv[1]["award"])
 )
 out_table = f"""
 <div class="table-wrap"><table class="baseline-table bt-table">
 <caption>Providers that withdrew, from the state’s Oct. 1 board packet</caption>
-<thead><tr><th scope="col">Provider</th><th scope="col">Technology</th><th scope="col" class="num">Awards</th><th scope="col" class="num">Money returned</th><th scope="col" class="num">Locations</th><th scope="col" class="num">Share of its award</th></tr></thead>
+<thead><tr><th scope="col">Provider</th><th scope="col">Technology</th><th scope="col" class="num">Money returned</th><th scope="col" class="num">Locations</th><th scope="col" class="num">Share of its award</th></tr></thead>
 <tbody>{out_rows}</tbody>
-<tfoot><tr><th scope="row">Total</th><td></td><td class="num">{sum(w['areas'] for w in out.values())}</td><td class="num">{money(wd_award, 2)}</td><td class="num">{wd_bsl:,}</td><td></td></tr></tfoot>
+<tfoot><tr><th scope="row">Total</th><td></td><td class="num">{money(wd_award, 2)}</td><td class="num">{wd_bsl:,}</td><td></td></tr></tfoot>
 </table></div>"""
 
 
