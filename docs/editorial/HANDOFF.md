@@ -1,3 +1,5 @@
+> **October 31, 2026 (late):** published the editor-approved desk note `articles/idaho-guard-cyber-savings-commercial-test.html` (ITS's $2.6M National Guard cyber "savings" vs DoDI 1100.24's commercial-availability rule). Now the homepage lead story. Questions to ITS (cyber@its.idaho.gov, the contact on its FY28 notice) are drafted for the editor to send from hello@idahostack.com; update the article's reporting note with any response.
+
 > **October 31, 2026:** editorial ownership changed. Read the new section at the top of the root AGENTS.md first. No publication without the editor's approval of each piece.
 
 # Session handoff — October 30 reporting
