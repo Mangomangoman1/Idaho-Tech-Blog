@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.idahostack.com/articles/idaho-capital-projects-fund-broadband-deadline.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>The Idaho Stack</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-01T12:28:00-07:00</news:publication_date>
+      <news:title>Idaho’s $120 Million Broadband Builds Have Two Months Left</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.idahostack.com/articles/idaho-guard-cyber-savings-commercial-test.html</loc>
     <news:news>
       <news:publication>
@@ -9,17 +20,6 @@
       </news:publication>
       <news:publication_date>2026-10-31T22:28:26-06:00</news:publication_date>
       <news:title>Idaho’s $2.6 Million Cyber Savings Figure Rests on Work It Says Industry Would Have Billed</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.idahostack.com/articles/micron-route41-seven-day-transit.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>The Idaho Stack</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T09:25:08-06:00</news:publication_date>
-      <news:title>Micron’s Transit Plan Would Add a Seven-Day Caldwell–Boise Route</news:title>
     </news:news>
   </url>
 </urlset>

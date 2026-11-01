@@ -378,6 +378,7 @@ page = f"""<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name
 <li>What the required low-cost internet plan will cost subscribers in each area.</li>
 <li>Which locations, if any, are still unclaimed after the re-bid. The state calls its current estimates preliminary.</li>
 </ol>
+<p>Idaho’s other federal broadband program, the $120 million Capital Projects Fund, has 18 builds due December 31. <a href="/articles/idaho-capital-projects-fund-broadband-deadline.html">Where those projects stand →</a></p>
 </div>
 <div>
 <p class="kicker">Notes on the numbers</p>
