@@ -1,0 +1,82 @@
+Subject: Idaho's broadband office answers on the $164 million handback
+
+The Idaho Stack
+
+Idaho Tech Briefing · No. 1
+
+Hi,
+
+This is the first Idaho Tech Briefing. Each week it follows Idaho's public technology money: who is buying, who is building, and whether it works. It's short, every number has a source, and when we don't know something we say so.
+
+This week, the state answered our questions about the broadband money that came back.
+
+Broadband · New this week
+
+Why $164 million in broadband money came back, in the state's words
+
+Four providers, FyberCom, Wi-Fiber, Intermax Networks and Custer Telephone Cooperative, gave back every Idaho award they had won under the federal BEAD program. That was 39% of the $426.2 million the state awarded in February. The state's board records listed the withdrawals but didn't say why, so we asked the Idaho Office of Broadband.
+
+It answered in writing on November 2. Here is what it told us.
+
+$164.35M
+
+in BEAD awards returned
+
+25,393
+
+homes, businesses and other locations
+
+$62.19M
+
+in the providers' own matching money, gone too
+
+Totals as the Idaho Office of Broadband gave them on November 2.
+
+- The reason: all four cited "changing market conditions and project economics." The office didn't give each provider's reasons or share the withdrawal notices.
+
+- Whose call: the office calls them "voluntary decisions made independently by the providers." It says neither the state nor the federal NTIA asked them to step back.
+
+- The cost to them: none. All four withdrew before signing their subgrant agreements, so the office says no penalties apply.
+
+- What happens next: the August re-bid for the returned locations is still in NTIA's review. There is no date yet for another round for any places still left out.
+
+The easy number to miss is the last one in the box. Those projects came with $62.19 million the providers would have put in themselves, for $226.54 million in planned investment in all. That private money left with them.
+
+One loose end. The office says to use $164.35 million and 25,393 locations. The four providers' own rows in the state's packet add to $164.32 million and 25,386, which is what our tracker shows. The office didn't explain the $30,315 and 7-location gap. We'll keep asking about that and about when each provider withdrew, and we've asked three of the four providers for their side.
+
+Open the BEAD tracker:
+https://www.idahostack.com/broadband-tracker.html
+
+Broadband · Deadline
+
+$120 million in builds, due December 31
+
+Idaho's other federal broadband program, the Capital Projects Fund, is paying for 18 projects that are due to be finished by the end of the year. The state's latest report to the U.S. Treasury says "79% of projects on track" but doesn't name the ones that aren't.
+
+It does flag trouble. A city permit for Gooding County's Wendell tower was denied, and the county has asked for six more months. A neighboring landowner appealed the permit for Camas County's Steve Miller tower. Some locations on Intermax's three North Idaho builds lack private road permission and may end up outside the final build. Treasury let states ask for extensions to June 30, 2027, but requests were due July 31, and the report doesn't say whether Idaho filed any.
+
+Read: Idaho's $120 Million Broadband Builds Have Two Months Left
+https://www.idahostack.com/articles/idaho-capital-projects-fund-broadband-deadline.html
+
+Cybersecurity · Public money
+
+A $2.6 million savings figure, and the rule it runs into
+
+The state's technology office wants Idaho National Guard cyber teams back for federal fiscal 2028, through a Defense Department training program. It reports $2.6 million in savings for state fiscal 2026: $3.1 million it says private firms would have charged, minus $500,000 of its own costs.
+
+The federal rule behind the program asks applicants to affirm the work "is not reasonably available from a commercial entity." Both can be true, but the public records don't show how the office squared them, how it priced the $3.1 million, or which 11 counties took part. We've sent it those questions.
+
+Read: Idaho's $2.6 Million Cyber Savings Figure
+https://www.idahostack.com/articles/idaho-guard-cyber-savings-commercial-test.html
+
+Know something about where Idaho's technology money goes? Reply to this email or write to hello@idahostack.com. Documents beat opinions.
+
+Sam Torres
+Editor, The Idaho Stack · Hailey, Idaho
+
+Researched with AI from public records and our own correspondence, then reviewed and approved by the editor. Figures are as the state reports them; we haven't audited them. Awards are grant commitments, not money spent.
+
+The Idaho Stack: https://www.idahostack.com/
+Editorial policy: https://www.idahostack.com/editorial-policy.html
+Unsubscribe: {{ unsubscribe_url }}
+{{ mailing_address }}
