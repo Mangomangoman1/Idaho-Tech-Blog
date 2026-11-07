@@ -123,3 +123,13 @@ All previous parent confirmations remain complete.
 A task-only documentation commit preserves this outcome; final SHA and exact
 remote/Vercel status are reported at completion. Tree checked clean and task local
 preview server stopped. Do not repeat expensive completed local checks for docs edits.
+
+## Nov 6, 2026: two desk notes staged for editor review (not published)
+
+Branch `claude/project-thread-puv8fv` only; nothing on main. Adds the data center sales tax note
+(`articles/idaho-data-center-sales-tax-break-unpriced.html`) and the IGEM payback note
+(`articles/idaho-igem-payback-clause-never-reported.html`), images, feed/sitemap/news entries and the homepage lead.
+Facts re-checked Nov 6 against the statute, bill pages, fiscal notes, DFM table and minutes.
+Before merging on the editor's yes: set the real publication timestamps (placeholders are Nov 6, 19:10 and 19:20 MST)
+in each article, feed.xml and sitemap, rebuild, and either send the questions the "What we're asking" sections describe
+or cut those lines. No outreach has been sent.
