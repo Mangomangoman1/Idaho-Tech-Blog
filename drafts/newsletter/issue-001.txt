@@ -8,7 +8,7 @@ Hi,
 
 This is the first Idaho Tech Briefing. Each week it follows Idaho's public technology money: who is buying, who is building, and whether it works. It's short, every number has a source, and when we don't know something we say so.
 
-This week, the state answered our questions about the broadband money that came back.
+This first issue starts with the state's answers about the broadband money that came back.
 
 Broadband · New this week
 
@@ -44,30 +44,33 @@ The easy number to miss is the last one in the box. Those projects came with $62
 
 One loose end. The office says to use $164.35 million and 25,393 locations. The four providers' own rows in the state's packet add to $164.32 million and 25,386, which is what our tracker shows. The office didn't explain the $30,315 and 7-location gap. We'll keep asking about that and about when each provider withdrew, and we've asked three of the four providers for their side.
 
-Open the BEAD tracker:
-https://www.idahostack.com/broadband-tracker.html
+Open the BEAD tracker (https://www.idahostack.com/broadband-tracker.html)
 
-Broadband · Deadline
+Data centers · Tax breaks
 
-$120 million in builds, due December 31
+Idaho has never priced its data center tax break
 
-Idaho's other federal broadband program, the Capital Projects Fund, is paying for 18 projects that are due to be finished by the end of the year. The state's latest report to the U.S. Treasury says "79% of projects on track" but doesn't name the ones that aren't.
+Since 2020, data centers that promise at least $250 million in investment and 30 full-time jobs have been able to skip Idaho sales tax on their servers, cooling, power gear and buildings. The state's own table prices its smaller tech exemptions one by one, down to $10.2 million for remotely accessed software in fiscal 2021. The data center break has no line, and no law requires one.
 
-It does flag trouble. A city permit for Gooding County's Wendell tower was denied, and the county has asked for six more months. A neighboring landowner appealed the permit for Camas County's Steve Miller tower. Some locations on Intermax's three North Idaho builds lack private road permission and may end up outside the final build. Treasury let states ask for extensions to June 30, 2027, but requests were due July 31, and the report doesn't say whether Idaho filed any.
+This year a bill that would have made the Tax Commission report the cost passed the House 68-0 and the Senate 34-0. It died anyway, because the House never voted on the Senate's changes. At Idaho's 6% sales tax, every $100 million in exempt purchases is $6 million the general fund doesn't collect.
 
-Read: Idaho's $120 Million Broadband Builds Have Two Months Left
-https://www.idahostack.com/articles/idaho-capital-projects-fund-broadband-deadline.html
+Read: Six Years In, Idaho Has Never Put a Price on Its Data Center Tax Break (https://www.idahostack.com/articles/idaho-data-center-sales-tax-break-unpriced.html)
 
-Cybersecurity · Public money
+Research · Public money
 
-A $2.6 million savings figure, and the rule it runs into
+A payback clause nobody reported against
 
-The state's technology office wants Idaho National Guard cyber teams back for federal fiscal 2028, through a Defense Department training program. It reports $2.6 million in savings for state fiscal 2026: $3.1 million it says private firms would have charged, minus $500,000 of its own costs.
+From fiscal 2013 to 2023, Idaho Commerce awarded $10.9 million to 56 university research projects through IGEM, a program meant to turn research into Idaho companies. The law said that once a project earned revenue, 25% of what remained would go back to the state until the grant was repaid.
 
-The federal rule behind the program asks applicants to affirm the work "is not reasonably available from a commercial entity." Both can be true, but the public records don't show how the office squared them, how it priced the $3.1 million, or which 11 counties took part. We've sent it those questions.
+The program's reports never counted a license, a company or a dollar returned. The Legislature repealed the Commerce grants and the payback clause in 2024 without an accounting. An IGEM program still runs at the State Board of Education, and we couldn't find its required impact reports published either.
 
-Read: Idaho's $2.6 Million Cyber Savings Figure
-https://www.idahostack.com/articles/idaho-guard-cyber-savings-commercial-test.html
+Read: Idaho Wrote a Payback Clause Into Its University Startup Grants (https://www.idahostack.com/articles/idaho-igem-payback-clause-never-reported.html)
+
+Also on the site
+
+$120 million in broadband builds are due December 31. (https://www.idahostack.com/articles/idaho-capital-projects-fund-broadband-deadline.html) Idaho's other broadband program has 18 projects due by year's end. The state's report says "79% of projects on track" without naming the rest, and flags permit fights in Gooding and Camas counties.
+
+A $2.6 million cyber savings figure. (https://www.idahostack.com/articles/idaho-guard-cyber-savings-commercial-test.html) The state's technology office measures National Guard cyber work against what private firms would have charged, under a federal rule that says the work must not be reasonably available from a business. We've sent the office our questions.
 
 Know something about where Idaho's technology money goes? Reply to this email or write to hello@idahostack.com. Documents beat opinions.
 
@@ -80,3 +83,4 @@ The Idaho Stack: https://www.idahostack.com/
 Editorial policy: https://www.idahostack.com/editorial-policy.html
 Unsubscribe: {{ unsubscribe_url }}
 {{ mailing_address }}
+
