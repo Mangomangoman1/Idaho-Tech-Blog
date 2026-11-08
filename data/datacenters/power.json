@@ -1,0 +1,29 @@
+{
+  "headline": "Idaho rewrote the rules this year. The bill is still being split.",
+  "intro": "Two 2026 laws now govern new data centers. One makes any new load of 50 MW or more pay its full cost of service under a contract the Public Utilities Commission must approve. The other bars new data centers from consuming water for cooling unless it comes from a city or water district system. How Idaho Power’s costs are divided between big new customers and everyone else is being argued in an open PUC case right now.",
+  "pipeline_mw": 4000,
+  "pipeline_stat": "of large-load requests in Idaho Power’s pipeline, its CEO told investors October 29, after 76 inquiries over 1 MW so far in 2026.",
+  "pipeline_url": "https://www.earningswhispers.com/transcript/IDA/Q32026",
+  "callout_title": "Public comments on large-load costs close December 14.",
+  "callout": "Case IPC-E-26-07 decides the method for splitting Idaho Power’s costs among customer classes, including how new large loads are treated. Anyone can comment through the PUC’s case page or by email to the commission secretary. The technical hearing starts January 19 in Boise.",
+  "callout_url": "https://puc.idaho.gov/Case/Details/7731",
+  "events": [
+    {"date": "2023-05-11", "title": "PUC approves Meta’s power contract", "note": "Order 35777 in case IPC-E-21-42 set the terms for Brisbie, LLC: the first 20 MW at standard large-customer rates, everything above at Idaho Power’s marginal cost.", "url": "https://puc.idaho.gov/Fileroom/PublicFiles/ELEC/IPC/IPCE2142/OrdNotc/20230511Final_Order_No_35777.pdf"},
+    {"date": "2026-03-31", "title": "Idaho Power opens the cost case", "note": "Its petition in IPC-E-26-07 asks the PUC to review how costs are assigned to customer classes and what to weigh for new large loads. It proposes no new tariff.", "url": "https://puc.idaho.gov/Case/Details/7731"},
+    {"date": "2026-04-02", "title": "Cooling water law signed", "note": "HB 895 (Idaho Code 42-252): data centers that begin construction after July 1 may not use water consumptively for cooling unless it comes from a city or water district system.", "url": "https://legislature.idaho.gov/sessioninfo/2026/legislation/H0895/"},
+    {"date": "2026-04-10", "title": "Large-load law signed", "note": "HB 911 (Idaho Code 61-335): from July 1, new loads of 50 MW or more need a PUC-approved contract that passes a no-harm test, pay their full cost and post security against stranded costs.", "url": "https://legislature.idaho.gov/sessioninfo/2026/legislation/H0911/"},
+    {"date": "2026-05-08", "title": "Micron’s contract approved", "note": "The PUC approved Micron’s fab power contract with changes and sent remaining cost questions to the open cost case.", "url": "https://puc.idaho.gov/Fileroom/PublicFiles/ELEC/IPC/IPCE2444/OrdNotc/20260508Final_Order_No_37039.pdf"},
+    {"date": "2026-10-29", "title": "Idaho Power: about 4,000 MW in the pipeline", "note": "Executives told investors the large-load pipeline is “right about 4,000 megawatts,” about a quarter of it promising, and that Meta began operating in September.", "url": "https://www.earningswhispers.com/transcript/IDA/Q32026"},
+    {"date": "2026-11-25", "title": "PUC staff and intervenors file", "note": "First public positions from PUC staff, Micron, irrigators, industrial customers, Boise and clean energy groups.", "url": "https://lf-puc.idaho.gov/WebLink/ElectronicFile.aspx?docid=161791&dbid=0"},
+    {"date": "2026-12-14", "deadline": true, "title": "Public comment deadline", "stat": "left to comment on how Idaho Power splits its costs, including for data centers (case IPC-E-26-07).", "note": "Last day for written public comments in IPC-E-26-07.", "url": "https://lf-puc.idaho.gov/WebLink/DocView.aspx?dbid=0&id=161863"},
+    {"date": "2027-01-19", "title": "Technical hearing", "note": "At PUC offices in Boise, continuing January 20 and 21 if needed.", "url": "https://lf-puc.idaho.gov/WebLink/ElectronicFile.aspx?docid=161791&dbid=0"}
+  ],
+  "questions": [
+    "Which companies hold Idaho’s data center sales tax exemption, and what it has cost. The Tax Commission publishes neither.",
+    "How many megawatts Meta’s Kuna campus draws today, and how much more its planned buildings would add.",
+    "Which project is the “unnamed” data center Idaho Power has added to its preliminary 2027 load forecast.",
+    "Whether any contract has been filed under the new 50 MW large-load law, which starts a 270-day PUC review.",
+    "Whether DOE has picked a developer for the INL site, and what Boise’s moratorium covers if it passes on November 10."
+  ],
+  "notes": "<p style=\"margin-top:0\">Megawatt and dollar figures are what developers or public bodies announced. They measure different things (computing capacity, utility load, on-site generation) and should not be added together. Kuna’s figures show the gap: Meta’s 2026 investment figure is $1.2 billion, up from $800 million at announcement, and estimates of its water use differ by outlet.</p><p>We leave out small server rooms and colocation sites listed only by commercial directories, and Avista’s 500 MW data center customer, which Avista places in Washington.</p>"
+}

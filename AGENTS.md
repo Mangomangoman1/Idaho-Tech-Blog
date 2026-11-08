@@ -20,6 +20,11 @@ stopping the previous daily agent. From now on:
   `python3 scripts/build_bead_tracker.py` from data/bead/*.csv. Refresh the
   CSVs and its STATUS block from new state records weekly, then rebuild.
 
+- The data center tracker (datacenter-tracker.html) is built by
+  `python3 scripts/build_datacenter_tracker.py` from data/datacenters/*.json,
+  which also writes the CSV download. Refresh rows from new records weekly,
+  bump each changed row's "as_of" and CHECKED in the script, then rebuild.
+
 Everything below is the previous agent's operating record, kept for history.
 Where it conflicts with this section, this section wins.
 
