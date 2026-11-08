@@ -44,9 +44,9 @@ IDAHO = [[-116.048, 49.0], [-116.048, 47.976], [-115.724, 47.697], [-115.719, 47
 TOWNS = [("Coeur d’Alene", -116.78, 47.68, "r"), ("Lewiston", -117.02, 46.42, "b"), ("Idaho Falls", -112.03, 43.49, "r"),
          ("Twin Falls", -114.46, 42.56, "l")]
 # Treasure Valley zoom: projects inside this box are drawn in an inset.
-TV = (-116.75, -115.45, 42.95, 43.75)  # lon min, lon max, lat min, lat max
+TV = (-116.70, -115.55, 43.00, 43.72)  # lon min, lon max, lat min, lat max
 TV_TOWNS = [("Boise", -116.20, 43.615, "r"), ("Nampa", -116.56, 43.54, "b"), ("Kuna", -116.42, 43.49, "l"),
-            ("Mountain Home", -115.69, 43.13, "b")]
+            ("Mountain Home", -115.69, 43.13, "l")]
 K = 100
 COS = math.cos(math.radians(45.5))
 PAD = 14
@@ -101,8 +101,8 @@ w = (-111.0 + 117.30) * COS * K + PAD * 2
 h = (49.05 - 41.95) * K + PAD * 2
 
 # Inset geometry: top-right corner of the canvas, which Idaho's shape leaves empty.
-K2 = 205
-IX, IY = 236.0, 18.0
+K2 = 300
+IX, IY = 214.0, 14.0
 IW = (TV[1] - TV[0]) * COS * K2
 IH = (TV[3] - TV[2]) * K2
 
@@ -115,8 +115,10 @@ def in_tv(p):
     return TV[0] <= p["lon"] <= TV[1] and TV[2] <= p["lat"] <= TV[3]
 
 
-def town_label(n, x, y, side, cls="dc-town"):
-    tx, ty, anchor = {"r": (x + 6, y + 4, "start"), "l": (x - 6, y + 4, "end"), "b": (x, y + 15, "middle")}[side]
+def town_label(n, x, y, side, cls="dc-town", gap=6):
+    # gap keeps a label clear of any pin drawn on top of the town's dot
+    tx, ty, anchor = {"r": (x + gap, y + 4, "start"), "l": (x - gap, y + 4, "end"),
+                      "b": (x, y + 9 + gap, "middle"), "t": (x, y - gap, "middle")}[side]
     return (f'<g class="{cls}"><circle cx="{x:.1f}" cy="{y:.1f}" r="2.6"/>'
             f'<text x="{tx:.1f}" y="{ty:.1f}" text-anchor="{anchor}">{esc(n)}</text></g>')
 
@@ -147,9 +149,9 @@ for i, p in enumerate(projects, 1):
         x, y = xy(p["lon"], p["lat"])
         dx, dy = p.get("nudge", [0, 0])
         pins.append(pin(i, p, x + dx, y + dy, 13))
-inset_towns = "".join(town_label(n, *ixy(lo, la), side, "dc-town dc-town-s") for n, lo, la, side in TV_TOWNS)
+inset_towns = "".join(town_label(n, *ixy(lo, la), side, "dc-town dc-town-s", 19) for n, lo, la, side in TV_TOWNS)
 inset = (f'<g class="dc-inset"><rect class="dc-inset-bg" x="{IX:.1f}" y="{IY:.1f}" width="{IW:.1f}" height="{IH:.1f}" rx="12"/>'
-         f'<text class="dc-inset-t" x="{IX + 12:.1f}" y="{IY + 20:.1f}">TREASURE VALLEY</text>'
+         f'<text class="dc-inset-t" x="{IX + 14:.1f}" y="{IY + IH - 14:.1f}">TREASURE VALLEY</text>'
          f'{inset_towns}{"".join(inset_pins)}</g>')
 map_svg = f"""<svg class="dc-map" viewBox="0 0 {w:.0f} {h:.0f}" role="img" aria-labelledby="dc-map-t">
 <title id="dc-map-t">Map of Idaho showing {n_projects} data center projects by status, with a close-up of the Treasure Valley</title>

@@ -7,8 +7,8 @@
     "lat": 43.46,
     "lon": -116.35,
     "nudge": [
-      12,
-      12
+      0,
+      9
     ],
     "developer": "Meta Platforms (utility customer of record: Brisbie, LLC)",
     "status": "operating",
@@ -58,8 +58,8 @@
     "lat": 43.52,
     "lon": -116.36,
     "nudge": [
-      -12,
-      -10
+      0,
+      -9
     ],
     "developer": "Diode Ventures, a Black & Veatch subsidiary (applicant: Gemstone Technology Park LLC)",
     "status": "paused",
@@ -104,8 +104,8 @@
     "lat": 43.605,
     "lon": -116.27,
     "nudge": [
-      6,
-      -8
+      0,
+      0
     ],
     "developer": "ValorC3 (formerly Fiberpipe), owned by Tonaquint",
     "status": "approved",
