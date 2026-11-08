@@ -4,7 +4,12 @@
     "name": "Meta Kuna Data Center",
     "place": "Kuna",
     "county": "Ada",
-    "lat": 43.46, "lon": -116.35, "nudge": [16, 12],
+    "lat": 43.46,
+    "lon": -116.35,
+    "nudge": [
+      12,
+      12
+    ],
     "developer": "Meta Platforms (utility customer of record: Brisbie, LLC)",
     "status": "operating",
     "as_of": "2026-09-04",
@@ -18,11 +23,31 @@
     "water": "Meta transferred about 2.5 million gallons a day of farm water rights to the City of Kuna and runs the site on a separate system. Expected summer peak use is just under 2 million gallons a day, BoiseDev reported.",
     "local": "Inside the Kuna East urban renewal district, created in 2022.",
     "sources": [
-      {"label": "Idaho Commerce announcement", "url": "https://commerce.idaho.gov/press/meta-announces-kuna-as-location-of-new-data-center/", "date": "Feb 16, 2022"},
-      {"label": "Idaho PUC release on the Brisbie contract (IPC-E-21-42)", "url": "https://puc.idaho.gov/Fileroom/PublicFiles/ELEC/IPC/IPCE2142/Staff/20230512News%20Release.pdf", "date": "May 12, 2023"},
-      {"label": "Baxtel: Meta’s Kuna data center goes live", "url": "https://baxtel.com/news/meta-s-1-2b-data-center-in-kuna-idaho-goes-live", "date": "Sep 4, 2026"},
-      {"label": "BoiseDev: how Kuna’s data centers get water", "url": "https://boisedev.com/2026/04/28/data-center-water/", "date": "Apr 28, 2026"},
-      {"label": "BoiseDev: data center exemption bill dies", "url": "https://boisedev.com/news/2026/03/16/data-micron-exemption/", "date": "Mar 16, 2026"}
+      {
+        "label": "Idaho Commerce announcement",
+        "url": "https://commerce.idaho.gov/press/meta-announces-kuna-as-location-of-new-data-center/",
+        "date": "Feb 16, 2022"
+      },
+      {
+        "label": "Idaho PUC release on the Brisbie contract (IPC-E-21-42)",
+        "url": "https://puc.idaho.gov/Fileroom/PublicFiles/ELEC/IPC/IPCE2142/Staff/20230512News%20Release.pdf",
+        "date": "May 12, 2023"
+      },
+      {
+        "label": "Baxtel: Meta’s Kuna data center goes live",
+        "url": "https://baxtel.com/news/meta-s-1-2b-data-center-in-kuna-idaho-goes-live",
+        "date": "Sep 4, 2026"
+      },
+      {
+        "label": "BoiseDev: how Kuna’s data centers get water",
+        "url": "https://boisedev.com/2026/04/28/data-center-water/",
+        "date": "Apr 28, 2026"
+      },
+      {
+        "label": "BoiseDev: data center exemption bill dies",
+        "url": "https://boisedev.com/news/2026/03/16/data-micron-exemption/",
+        "date": "Mar 16, 2026"
+      }
     ]
   },
   {
@@ -30,8 +55,13 @@
     "name": "Gemstone Technology Park",
     "place": "Kuna",
     "county": "Ada",
-    "lat": 43.52, "lon": -116.36, "nudge": [-16, -6],
-    "developer": "Diode Ventures, a Black &amp; Veatch subsidiary (applicant: Gemstone Technology Park LLC)",
+    "lat": 43.52,
+    "lon": -116.36,
+    "nudge": [
+      -12,
+      -10
+    ],
+    "developer": "Diode Ventures, a Black & Veatch subsidiary (applicant: Gemstone Technology Park LLC)",
     "status": "paused",
     "as_of": "2026-06-15",
     "mw": null,
@@ -44,10 +74,26 @@
     "water": "Plans to move three irrigation water rights, about 1.63 million gallons a day, to industrial use through a pending Idaho Department of Water Resources transfer, with on-site treatment and reinjection.",
     "local": "The developer offered about $40 million to Kuna’s fire district, police and schools.",
     "sources": [
-      {"label": "BoiseDev: Kuna farmers appeal to Idaho Supreme Court", "url": "https://boisedev.com/2026/08/19/kuna-farmers-appeal-to-idaho-supreme-court-after-petition-against-a-kuna-data-center-was-thrown-out/", "date": "Aug 19, 2026"},
-      {"label": "Idaho Press: Kuna council approves second data center", "url": "https://www.idahopress.com/news/local/another-data-center-in-kuna-city-council-approves-new-facility/article_f419d684-3934-446a-a910-c06ec0753473.html", "date": "Apr 5, 2025"},
-      {"label": "Diode Ventures project updates page", "url": "https://diodeventures.com/gemstone-project-updates", "date": "Undated"},
-      {"label": "BoiseDev: how Kuna’s data centers get water", "url": "https://boisedev.com/2026/04/28/data-center-water/", "date": "Apr 28, 2026"}
+      {
+        "label": "BoiseDev: Kuna farmers appeal to Idaho Supreme Court",
+        "url": "https://boisedev.com/2026/08/19/kuna-farmers-appeal-to-idaho-supreme-court-after-petition-against-a-kuna-data-center-was-thrown-out/",
+        "date": "Aug 19, 2026"
+      },
+      {
+        "label": "Idaho Press: Kuna council approves second data center",
+        "url": "https://www.idahopress.com/news/local/another-data-center-in-kuna-city-council-approves-new-facility/article_f419d684-3934-446a-a910-c06ec0753473.html",
+        "date": "Apr 5, 2025"
+      },
+      {
+        "label": "Diode Ventures project updates page",
+        "url": "https://diodeventures.com/gemstone-project-updates",
+        "date": "Undated"
+      },
+      {
+        "label": "BoiseDev: how Kuna’s data centers get water",
+        "url": "https://boisedev.com/2026/04/28/data-center-water/",
+        "date": "Apr 28, 2026"
+      }
     ]
   },
   {
@@ -55,7 +101,12 @@
     "name": "ValorC3 Emerald",
     "place": "Boise",
     "county": "Ada",
-    "lat": 43.605, "lon": -116.27, "nudge": [10, -18],
+    "lat": 43.605,
+    "lon": -116.27,
+    "nudge": [
+      6,
+      -8
+    ],
     "developer": "ValorC3 (formerly Fiberpipe), owned by Tonaquint",
     "status": "approved",
     "as_of": "2026-03-26",
@@ -69,7 +120,11 @@
     "water": "Not reported.",
     "local": "A colocation site inside Boise city limits, approved before the mayor’s November 2026 moratorium proposal.",
     "sources": [
-      {"label": "BoiseDev: ValorC3 plans expansion", "url": "https://boisedev.com/news/2026/03/26/valorc3-emerald/", "date": "Mar 26, 2026"}
+      {
+        "label": "BoiseDev: ValorC3 plans expansion",
+        "url": "https://boisedev.com/news/2026/03/26/valorc3-emerald/",
+        "date": "Mar 26, 2026"
+      }
     ]
   },
   {
@@ -77,7 +132,12 @@
     "name": "T5 Data Centers Nampa",
     "place": "Nampa",
     "county": "Canyon",
-    "lat": 43.585, "lon": -116.52, "nudge": [-14, 4],
+    "lat": 43.585,
+    "lon": -116.52,
+    "nudge": [
+      0,
+      0
+    ],
     "developer": "T5 Data Centers, for one unnamed tenant",
     "status": "approved",
     "as_of": "2025-09-02",
@@ -90,7 +150,11 @@
     "water": "Air-cooled; the developer compared water use to one or two homes.",
     "local": "Conditional use permit from Nampa.",
     "sources": [
-      {"label": "BoiseDev: data center planned in Nampa", "url": "https://boisedev.com/news/2025/09/02/data-center-nampa-september-2025/", "date": "Sep 2, 2025"}
+      {
+        "label": "BoiseDev: data center planned in Nampa",
+        "url": "https://boisedev.com/news/2025/09/02/data-center-nampa-september-2025/",
+        "date": "Sep 2, 2025"
+      }
     ]
   },
   {
@@ -98,7 +162,8 @@
     "name": "Rhea Data, Blacks Creek",
     "place": "Southeast of Boise (BLM land)",
     "county": "Ada",
-    "lat": 43.37, "lon": -116.0,
+    "lat": 43.37,
+    "lon": -116.0,
     "developer": "Rhea Data, a subsidiary of Nevada-based Arevia Power",
     "status": "proposed",
     "as_of": "2026-10-09",
@@ -112,10 +177,26 @@
     "local": "Federal land, so the BLM decides, not a city or county. Boise’s mayor called selling public land for mega data centers “shortsighted.”",
     "unconfirmed": "Acreage varies by outlet (3,226; 3,200; about 3,700; about 3,750). The gas plant size comes from one outlet’s reading of the filings.",
     "sources": [
-      {"label": "Boise State Public Radio", "url": "https://www.boisestatepublicradio.org/politics-government/2026-09-21/idaho-data-center-blacks-creek-blm", "date": "Sep 21, 2026"},
-      {"label": "KIVI: public land south of Boise eyed for data center", "url": "https://www.kivitv.com/news/local-news/in-your-neighborhood/south-boise/thousands-of-acres-of-public-land-south-of-boise-eyed-for-new-data-center", "date": "Sep 23, 2026"},
-      {"label": "The Arbiter: power demand concerns", "url": "https://www.arbiteronline.com/2026/10/09/rhea-data-center-proposal-on-public-land-raises-power-demand-concerns/", "date": "Oct 9, 2026"},
-      {"label": "Political.org: 17 data centers proposed on Western public land", "url": "https://political.org/2026/10/27/17-data-center-projects-proposed-on-western-public-land-with-new-idaho-pitch/", "date": "Oct 27, 2026"}
+      {
+        "label": "Boise State Public Radio",
+        "url": "https://www.boisestatepublicradio.org/politics-government/2026-09-21/idaho-data-center-blacks-creek-blm",
+        "date": "Sep 21, 2026"
+      },
+      {
+        "label": "KIVI: public land south of Boise eyed for data center",
+        "url": "https://www.kivitv.com/news/local-news/in-your-neighborhood/south-boise/thousands-of-acres-of-public-land-south-of-boise-eyed-for-new-data-center",
+        "date": "Sep 23, 2026"
+      },
+      {
+        "label": "The Arbiter: power demand concerns",
+        "url": "https://www.arbiteronline.com/2026/10/09/rhea-data-center-proposal-on-public-land-raises-power-demand-concerns/",
+        "date": "Oct 9, 2026"
+      },
+      {
+        "label": "Political.org: 17 data centers proposed on Western public land",
+        "url": "https://political.org/2026/10/27/17-data-center-projects-proposed-on-western-public-land-with-new-idaho-pitch/",
+        "date": "Oct 27, 2026"
+      }
     ]
   },
   {
@@ -123,8 +204,9 @@
     "name": "Bennett Ranch Industrial Campus",
     "place": "Mountain Home",
     "county": "Elmore",
-    "lat": 43.14, "lon": -115.70,
-    "developer": "Weitz &amp; Co.",
+    "lat": 43.14,
+    "lon": -115.7,
+    "developer": "Weitz & Co.",
     "status": "proposed",
     "as_of": "2026-10-27",
     "mw": null,
@@ -136,8 +218,16 @@
     "water": "Closed-loop cooling proposed. A 2005 agreement may allow a city water connection, KIVI reported.",
     "local": "Data centers are not a permitted or conditional use in any Mountain Home zone, the mayor said. Emergency moratorium adopted October 27, 2026.",
     "sources": [
-      {"label": "Idaho News 6: Mountain Home adopts moratorium", "url": "https://idahonews.com/news/local/mountain-home-adopts-emergency-moratorium-on-data-centers", "date": "Oct 27, 2026"},
-      {"label": "KIFI: Mountain Home passes moratorium", "url": "https://localnews8.com/news/local-news/2026/10/28/mountain-home-city-council-passes-emergency-moratorium-on-data-center-projects/", "date": "Oct 28, 2026"}
+      {
+        "label": "Idaho News 6: Mountain Home adopts moratorium",
+        "url": "https://idahonews.com/news/local/mountain-home-adopts-emergency-moratorium-on-data-centers",
+        "date": "Oct 27, 2026"
+      },
+      {
+        "label": "KIFI: Mountain Home passes moratorium",
+        "url": "https://localnews8.com/news/local-news/2026/10/28/mountain-home-city-council-passes-emergency-moratorium-on-data-center-projects/",
+        "date": "Oct 28, 2026"
+      }
     ]
   },
   {
@@ -145,7 +235,8 @@
     "name": "Copia Digital “Falcon”",
     "place": "South of Shoshone (BLM land)",
     "county": "Lincoln / Jerome",
-    "lat": 42.88, "lon": -114.38,
+    "lat": 42.88,
+    "lon": -114.38,
     "developer": "Copia Digital",
     "status": "proposed",
     "as_of": "2026-10-27",
@@ -159,7 +250,11 @@
     "local": "Federal land; the BLM decides.",
     "unconfirmed": "Acreage: about 3,013 acres in one analysis of the application records, about 3,700 in another report.",
     "sources": [
-      {"label": "Political.org: 17 data centers proposed on Western public land", "url": "https://political.org/2026/10/27/17-data-center-projects-proposed-on-western-public-land-with-new-idaho-pitch/", "date": "Oct 27, 2026"}
+      {
+        "label": "Political.org: 17 data centers proposed on Western public land",
+        "url": "https://political.org/2026/10/27/17-data-center-projects-proposed-on-western-public-land-with-new-idaho-pitch/",
+        "date": "Oct 27, 2026"
+      }
     ]
   },
   {
@@ -167,7 +262,8 @@
     "name": "TerraVolt Campus",
     "place": "East of Declo",
     "county": "Cassia",
-    "lat": 42.52, "lon": -113.55,
+    "lat": 42.52,
+    "lon": -113.55,
     "developer": "TerraVolt Holdings (formerly CalEthos), Tustin, Calif.",
     "status": "proposed",
     "as_of": "2026-10-30",
@@ -180,10 +276,26 @@
     "water": "The company says closed-loop or low-water cooling will be required of each site buyer.",
     "local": "Needs Cassia County zoning approval.",
     "sources": [
-      {"label": "TerraVolt release on the Declo land options", "url": "https://www.blackridgeresearch.com/news-releases/terravolt-holdings-secures-options-on-1077-acres-idaho-240-mw-behind-the-meter-data-center-campus-in-the-us", "date": "Oct 30, 2026"},
-      {"label": "KIVI: Declo residents react", "url": "https://www.kivitv.com/twin-falls/proposed-data-center-near-declo-idaho-sparks-mixed-reactions-among-residents-in-rural-farming-town", "date": "Nov 2, 2026"},
-      {"label": "Pipeline &amp; Gas Journal: gas supply deal", "url": "https://pgjonline.com/news/2026/may/terravolt-taps-northwest-pipeline-for-idaho-ai-data-center-project", "date": "May 12, 2026"},
-      {"label": "Cassia County meeting notice", "url": "https://www.cassia.gov/events/102396/", "date": "Nov 10, 2026"}
+      {
+        "label": "TerraVolt release on the Declo land options",
+        "url": "https://www.blackridgeresearch.com/news-releases/terravolt-holdings-secures-options-on-1077-acres-idaho-240-mw-behind-the-meter-data-center-campus-in-the-us",
+        "date": "Oct 30, 2026"
+      },
+      {
+        "label": "KIVI: Declo residents react",
+        "url": "https://www.kivitv.com/twin-falls/proposed-data-center-near-declo-idaho-sparks-mixed-reactions-among-residents-in-rural-farming-town",
+        "date": "Nov 2, 2026"
+      },
+      {
+        "label": "Pipeline & Gas Journal: gas supply deal",
+        "url": "https://pgjonline.com/news/2026/may/terravolt-taps-northwest-pipeline-for-idaho-ai-data-center-project",
+        "date": "May 12, 2026"
+      },
+      {
+        "label": "Cassia County meeting notice",
+        "url": "https://www.cassia.gov/events/102396/",
+        "date": "Nov 10, 2026"
+      }
     ]
   },
   {
@@ -191,7 +303,8 @@
     "name": "Lex Developments AI campus (former Hoku plant)",
     "place": "Pocatello",
     "county": "Bannock",
-    "lat": 42.91, "lon": -112.47,
+    "lat": 42.91,
+    "lon": -112.47,
     "developer": "Lex Developments LLC, Gilbert, Ariz.",
     "status": "contested",
     "as_of": "2026-10-26",
@@ -204,10 +317,26 @@
     "water": "No wastewater figure was given to the city.",
     "local": "The Shoshone-Bannock Tribes and more than 80 speakers at the first hearing opposed it. Bannock County separately adopted a moratorium for unincorporated areas.",
     "sources": [
-      {"label": "Post Register: developer sues Pocatello", "url": "http://www.postregister.com/news/local/hoku-data-center-developer-sues-pocatello-over-permit-denial/article_b1066f41-427d-53ac-8d84-c5bde4073ce1.html", "date": "Oct 28, 2026"},
-      {"label": "KIFI: council denies permit a second time", "url": "https://localnews8.com/news/2026/09/24/pocatello-city-council-votes-to-deny-conditional-use-permit-for-ai-data-center-applicant-for-a-second-time/", "date": "Sep 24, 2026"},
-      {"label": "BoiseDev: the Hoku site plan", "url": "https://boisedev.com/news/2026/05/14/lex-portneuf-data-center/", "date": "May 14, 2026"},
-      {"label": "DCD: Shoshone-Bannock Tribes oppose", "url": "https://www.datacenterdynamics.com/en/news/first-nation-opposes-plan-for-ai-data-center-in-pocatello-idaho/", "date": "Jul 13, 2026"}
+      {
+        "label": "Post Register: developer sues Pocatello",
+        "url": "http://www.postregister.com/news/local/hoku-data-center-developer-sues-pocatello-over-permit-denial/article_b1066f41-427d-53ac-8d84-c5bde4073ce1.html",
+        "date": "Oct 28, 2026"
+      },
+      {
+        "label": "KIFI: council denies permit a second time",
+        "url": "https://localnews8.com/news/2026/09/24/pocatello-city-council-votes-to-deny-conditional-use-permit-for-ai-data-center-applicant-for-a-second-time/",
+        "date": "Sep 24, 2026"
+      },
+      {
+        "label": "BoiseDev: the Hoku site plan",
+        "url": "https://boisedev.com/news/2026/05/14/lex-portneuf-data-center/",
+        "date": "May 14, 2026"
+      },
+      {
+        "label": "DCD: Shoshone-Bannock Tribes oppose",
+        "url": "https://www.datacenterdynamics.com/en/news/first-nation-opposes-plan-for-ai-data-center-in-pocatello-idaho/",
+        "date": "Jul 13, 2026"
+      }
     ]
   },
   {
@@ -215,7 +344,8 @@
     "name": "Idaho National Laboratory AI data center site",
     "place": "INL desert site, west of Idaho Falls",
     "county": "Butte / Bingham / Bonneville / Jefferson",
-    "lat": 43.62, "lon": -112.78,
+    "lat": 43.62,
+    "lon": -112.78,
     "developer": "U.S. Department of Energy, seeking private partners",
     "status": "proposed",
     "as_of": "2026-07-30",
@@ -229,9 +359,21 @@
     "local": "Federal land.",
     "unconfirmed": "Whether DOE has chosen an INL developer since August 2026.",
     "sources": [
-      {"label": "Hogan Lovells: DOE opens INL to AI data centers", "url": "https://www.hlc.com/en/publications/doe-opens-the-door-to-ai-data-centers-and-energy-projects-at-the-idaho-national-laboratory", "date": "Oct 1, 2025"},
-      {"label": "Ashurst Perkins Coie: federal lands as the AI data center frontier", "url": "https://www.ashurstperkinscoie.com/en/insights/federal-lands-as-the-new-ai-data-center-frontier/", "date": "Aug 7, 2026"},
-      {"label": "POWER: Aalo and Crusoe plan 2027 INL demonstration", "url": "https://powermag.com/aalo-crusoe-plan-2027-inl-demonstration-pairing-nuclear-power-and-ai-data-center-load", "date": "Jul 30, 2026"}
+      {
+        "label": "Hogan Lovells: DOE opens INL to AI data centers",
+        "url": "https://www.hlc.com/en/publications/doe-opens-the-door-to-ai-data-centers-and-energy-projects-at-the-idaho-national-laboratory",
+        "date": "Oct 1, 2025"
+      },
+      {
+        "label": "Ashurst Perkins Coie: federal lands as the AI data center frontier",
+        "url": "https://www.ashurstperkinscoie.com/en/insights/federal-lands-as-the-new-ai-data-center-frontier/",
+        "date": "Aug 7, 2026"
+      },
+      {
+        "label": "POWER: Aalo and Crusoe plan 2027 INL demonstration",
+        "url": "https://powermag.com/aalo-crusoe-plan-2027-inl-demonstration-pairing-nuclear-power-and-ai-data-center-load",
+        "date": "Jul 30, 2026"
+      }
     ]
   },
   {
@@ -239,7 +381,8 @@
     "name": "Orofino bitcoin mining center",
     "place": "Orofino",
     "county": "Clearwater",
-    "lat": 46.48, "lon": -116.25,
+    "lat": 46.48,
+    "lon": -116.25,
     "developer": "Megalodon Mining and Electric, a T-REX Acquisition Corp. subsidiary",
     "status": "operating",
     "as_of": "2026-04-07",
@@ -252,8 +395,16 @@
     "water": "Not reported.",
     "local": "None found.",
     "sources": [
-      {"label": "T-REX release on refinancing", "url": "https://www.newswire.com/news/t-rex-acquisition-corp-otcqb-trxa-completes-strategic-refinancing-of-22759504", "date": "Apr 7, 2026"},
-      {"label": "DCD: T-REX buys Peak Digital", "url": "https://www.datacenterdynamics.com/en/news/t-rex-purchases-peak-digital-to-expand-bitcoin-mining-operations", "date": "Undated"}
+      {
+        "label": "T-REX release on refinancing",
+        "url": "https://www.newswire.com/news/t-rex-acquisition-corp-otcqb-trxa-completes-strategic-refinancing-of-22759504",
+        "date": "Apr 7, 2026"
+      },
+      {
+        "label": "DCD: T-REX buys Peak Digital",
+        "url": "https://www.datacenterdynamics.com/en/news/t-rex-purchases-peak-digital-to-expand-bitcoin-mining-operations",
+        "date": "Undated"
+      }
     ]
   }
 ]
