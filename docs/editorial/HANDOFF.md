@@ -135,3 +135,16 @@ in each article, feed.xml and sitemap, rebuild, and either send the questions th
 or cut those lines. No outreach has been sent.
 
 Editor said "Publish both" Nov 6, 7:41pm MST. The question emails were not approved, so the "What we're asking" lines were replaced with what the public record doesn't show. Published 19:41 (IGEM) and 19:42 (tax) MST; tax note is the homepage lead.
+
+## Nov 8, 2026: two data center desk notes staged for editor review
+
+Branch `claude/project-thread-bjk4et` only; nothing on main. Adds
+`articles/declo-data-center-developer-terravolt-sec-filings.html` (TerraVolt 8-K of Oct 30 and Q2 10-Q,
+Cassia County Nov 10 meeting) and `articles/boise-data-center-moratorium-vote.html` (ORD-45-26, Boise council
+Nov 10, 6 p.m.), their images, feed/sitemap/news entries, and makes the Declo note the homepage lead.
+Facts checked Nov 8 against the SEC filings, Cassia notice, Boise agenda and release, Idaho Code 67-6523,
+H0911 and H0895. The Boise council packet (ordinance text) would not load; thresholds come from the Statesman.
+Before merging on the editor's yes: set real publication timestamps (placeholders Nov 8 16:00 and 16:05 MST)
+in each article, feed.xml and sitemap, rebuild and check. Tuesday night: add the Boise vote result and the
+Cassia meeting outcome to the Boise note (update dateModified), and check TerraVolt's Q3 10-Q (due mid-Nov).
+No outreach sent; TerraVolt was not contacted.
