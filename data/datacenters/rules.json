@@ -11,7 +11,7 @@
   {"place": "Pocatello", "kind": "Permit denied", "cls": "s-deny", "date": "2026-09-17",
    "summary": "Council upheld, 3-2, its denial of Lex Developments’ $2.6 billion campus at the former Hoku plant, and waived the one-year wait to reapply. The developer has gone to court.",
    "url": "https://localnews8.com/news/2026/09/24/pocatello-city-council-votes-to-deny-conditional-use-permit-for-ai-data-center-applicant-for-a-second-time/"},
-  {"place": "Sandpoint", "kind": "Ban", "cls": "s-deny", "date": "2026-09-16",
+  {"place": "Sandpoint", "kind": "Ban, reported passed", "cls": "s-deny", "date": "2026-09-16",
    "summary": "Council took up a code change banning data centers over 5,000 sq ft in the city’s industrial park zone, after its planning commission called the cap arbitrary. Local press reported approval on September 18; we could not open that report.",
    "url": "https://sandpointreader.com/sandpoint-pz-rejects-draft-data-center-ban/"},
   {"place": "Latah County", "kind": "Rules adopted", "cls": "s-ok", "date": "2026-09-15",
