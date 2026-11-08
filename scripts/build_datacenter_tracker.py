@@ -45,7 +45,7 @@ TOWNS = [("Coeur d’Alene", -116.78, 47.68, "r"), ("Lewiston", -117.02, 46.42, 
          ("Twin Falls", -114.46, 42.56, "l")]
 # Treasure Valley zoom: projects inside this box are drawn in an inset.
 TV = (-116.70, -115.55, 43.00, 43.72)  # lon min, lon max, lat min, lat max
-TV_TOWNS = [("Boise", -116.20, 43.615, "r"), ("Nampa", -116.56, 43.54, "b"), ("Kuna", -116.42, 43.49, "l"),
+TV_TOWNS = [("Boise", -116.20, 43.615, "r"), ("Nampa", -116.56, 43.54, "t", 34), ("Kuna", -116.42, 43.49, "l"),
             ("Mountain Home", -115.69, 43.13, "l")]
 K = 100
 COS = math.cos(math.radians(45.5))
@@ -149,7 +149,7 @@ for i, p in enumerate(projects, 1):
         x, y = xy(p["lon"], p["lat"])
         dx, dy = p.get("nudge", [0, 0])
         pins.append(pin(i, p, x + dx, y + dy, 13))
-inset_towns = "".join(town_label(n, *ixy(lo, la), side, "dc-town dc-town-s", 19) for n, lo, la, side in TV_TOWNS)
+inset_towns = "".join(town_label(t[0], *ixy(t[1], t[2]), t[3], "dc-town dc-town-s", t[4] if len(t) > 4 else 19) for t in TV_TOWNS)
 inset = (f'<g class="dc-inset"><rect class="dc-inset-bg" x="{IX:.1f}" y="{IY:.1f}" width="{IW:.1f}" height="{IH:.1f}" rx="12"/>'
          f'<text class="dc-inset-t" x="{IX + 14:.1f}" y="{IY + IH - 14:.1f}">TREASURE VALLEY</text>'
          f'{inset_towns}{"".join(inset_pins)}</g>')
