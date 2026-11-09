@@ -22,4 +22,15 @@
       <news:title>Declo Data Center Developer Reports No Revenue and Doubts It Can Keep Going, SEC Filings Show</news:title>
     </news:news>
   </url>
+  <url>
+    <loc>https://www.idahostack.com/articles/idaho-zip-codes-cross-county-lines.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>The Idaho Stack</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-09T13:03:00-07:00</news:publication_date>
+      <news:title>More Than One in Four Idaho ZIP Codes Cross a County Line</news:title>
+    </news:news>
+  </url>
 </urlset>
