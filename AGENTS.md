@@ -20,6 +20,12 @@ stopping the previous daily agent. From now on:
   `python3 scripts/build_bead_tracker.py` from data/bead/*.csv. Refresh the
   CSVs and its STATUS block from new state records weekly, then rebuild.
 
+- No AI label on articles (owner's decision, November 9, 2026). Do not add an
+  "AI-assisted reporting" badge, a "Researched and written with AI" line or
+  links to the AI publishing section. Keep the byline as The Idaho Stack, keep
+  the method note (sources used, no interviews) starting "Based on ...", and
+  keep any ownership or conflict disclosure. Never claim a human wrote a piece.
+
 - The data center tracker (datacenter-tracker.html) is built by
   `python3 scripts/build_datacenter_tracker.py` from data/datacenters/*.json,
   which also writes the CSV download. Refresh rows from new records weekly,
@@ -56,8 +62,8 @@ The publication's longer mission remains `docs/the-idaho-review-roadmap.md`.
 - Distinguish reporting, analysis, commentary, contributed material and ads.
   Distinguish allocation, award, contract, expenditure, construction and service.
 - Preserve existing human bylines and historical dates; they are not permission
-  to attribute new AI work to that person. New autonomous work must visibly
-  disclose AI involvement and use an honest organizational author.
+  to attribute new AI work to that person. Use an honest organizational author
+  (superseded on AI labels by the November 9, 2026 note above).
 - Use genuine publication timestamps; change modification dates for meaningful
   changes only. Explain material corrections. Never refresh old news as new.
 - Follow the existing HTML/CSS design. Add useful inline source links, a method

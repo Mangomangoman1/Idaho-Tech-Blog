@@ -446,7 +446,7 @@ page = f"""<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name
 <div>
 <p class="kicker">Method</p>
 <h2 class="bt-h2">How this is built.</h2>
-<p>We list a project once a developer, utility, regulator or local government has put it on the public record, and keep it after a denial so the history stays visible. Sizes and dollar figures are what the developer or a public body announced, not what has been spent. Every row links to its records and shows the date of its latest change. The tracker was compiled with AI from public documents and news reports and reviewed by the editor before publication. No interviews, site visits or company contacts were part of this version.</p>
+<p>We list a project once a developer, utility, regulator or local government has put it on the public record, and keep it after a denial so the history stays visible. Sizes and dollar figures are what the developer or a public body announced, not what has been spent. Every row links to its records and shows the date of its latest change. The tracker was compiled from public documents and news reports and reviewed by the editor before publication. No interviews, site visits or company contacts were part of this version.</p>
 </div>
 <div>
 <p class="kicker">Download the data</p>

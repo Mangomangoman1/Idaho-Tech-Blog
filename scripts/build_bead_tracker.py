@@ -390,7 +390,7 @@ page = f"""<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name
 <div>
 <p class="kicker">Method</p>
 <h2 class="bt-h2">How this is built.</h2>
-<p>Every figure comes from Idaho Office of Broadband and Idaho Commerce documents listed here. We transcribed the provider tables, then checked each one by adding every row and comparing it with the document’s own totals. The tracker was compiled with AI and reviewed by the editor before publication. No interviews, site visits or provider contacts were part of this version.</p>
+<p>Every figure comes from Idaho Office of Broadband and Idaho Commerce documents listed here. We transcribed the provider tables, then checked each one by adding every row and comparing it with the document’s own totals. The editor reviewed the tracker before publication. No interviews, site visits or provider contacts were part of this version.</p>
 <p>More context: <a href="/articles/idaho-bead-provider-withdrawals-rebid.html">the October withdrawal story</a> and <a href="/articles/idaho-broadband-bead-delivery-deadline.html">why delivery is the hard part</a>.</p>
 </div>
 <div>

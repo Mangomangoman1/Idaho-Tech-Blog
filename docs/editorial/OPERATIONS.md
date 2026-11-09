@@ -34,8 +34,8 @@ credential/security/domain changes, or tracking. Do independent work while a
 restricted action is pending. Do not invent a reporter, credential, interview,
 quotation, visit, quote review or human sign-off.
 
-Use The Idaho Stack as an Organization author for autonomous AI-assisted work and
-visibly disclose AI research/writing and whether any interviews/visits occurred.
+Use The Idaho Stack as an Organization author and say whether any interviews/visits
+occurred. Since November 9, 2026, articles carry no AI label (owner's decision).
 Do not assign Samuel Torres a new byline without his actual authorship. Preserve
 legacy bylines and publication dates. The About page already identifies Samuel,
 Hailey Device Repair and Actrix; disclose a relevant relationship in any future
