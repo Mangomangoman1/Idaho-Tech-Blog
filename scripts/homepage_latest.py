@@ -4,13 +4,17 @@ from html import escape
 import re
 from news_sitemap import ROOT, Metadata, nodes
 
+HOMEPAGE_OFF = '<meta name="stack:homepage" content="off">'
 MARKER = re.compile(r'(<!-- latest-articles:start -->).*?(<!-- latest-articles:end -->)', re.S)
 
 
 def dated_articles():
     for path in sorted((ROOT / 'articles').glob('*.html')):
+        html = path.read_text()
+        if HOMEPAGE_OFF in html:
+            continue  # quiet desk notes stay on News and RSS but off the homepage list
         metadata = Metadata()
-        metadata.feed(path.read_text())
+        metadata.feed(html)
         for article in nodes(metadata.jsonld):
             types = article.get('@type', [])
             if isinstance(types, str):
