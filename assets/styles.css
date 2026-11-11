@@ -75,3 +75,4 @@ footer a{display:block;text-decoration:none;margin:7px 0;color:var(--muted)}foot
 .document-report h1{font-size:clamp(2.2rem,5vw,3.6rem);line-height:1.04;letter-spacing:-.035em}
 
 .card-grid.three.tools-four{grid-template-columns:repeat(2,minmax(0,1fr))}@media(max-width:850px){.card-grid.three.tools-four{grid-template-columns:1fr}}
+.article-body section.update-box{border:1px solid var(--line-dark);border-left:4px solid var(--rust);background:var(--cream);border-radius:14px;padding:16px 18px;margin-top:22px}.update-box h2{margin-top:0;font-family:var(--serif);font-size:1.3rem;line-height:1.1}.update-box p:last-child{margin-bottom:0}

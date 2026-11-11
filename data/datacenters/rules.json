@@ -1,7 +1,7 @@
 [
-  {"place": "Boise", "kind": "Moratorium proposed", "cls": "s-prop", "date": "2026-11-06",
-   "summary": "Mayor Lauren McLean proposed an emergency moratorium on “mega data centers” inside city limits. The city says no such application is pending. Council takes public comment Tuesday, November 10, at 6 p.m.",
-   "url": "https://www.cityofboise.org/news/mayor/2026/november/boise-mayor-lauren-mclean-proposes-data-center-moratorium"},
+  {"place": "Boise", "kind": "Moratorium", "cls": "s-deny", "date": "2026-11-10",
+   "summary": "Council unanimously adopted a six-month emergency moratorium on data centers of 100,000 sq ft or 20 MW and up, effective immediately, with no application pending. Interim rules of up to 12 months could follow.",
+   "url": "https://idahonews.com/news/local/city-of-boise-approves-emergency-moratorium-on-large-data-centers"},
   {"place": "Mountain Home", "kind": "Moratorium", "cls": "s-deny", "date": "2026-10-27",
    "summary": "Emergency moratorium on data center applications and permits, a week after a 3.4 million sq ft concept reached City Hall. Idaho law caps emergency moratoriums at 182 days.",
    "url": "https://idahonews.com/news/local/mountain-home-adopts-emergency-moratorium-on-data-centers"},

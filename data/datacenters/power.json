@@ -70,20 +70,10 @@
     "How many megawatts Meta’s Kuna campus draws today, and how much more its planned buildings would add.",
     "Which project is the “unnamed” data center Idaho Power has added to its preliminary 2027 load forecast.",
     "Whether any contract has been filed under the new 50 MW large-load law, which starts a 270-day PUC review.",
-    "Whether DOE has picked a developer for the INL site, and what Boise’s moratorium covers if it passes on November 10."
+    "Whether DOE has picked a developer for the INL site, and what Boise’s adopted moratorium text says. The city has not posted it in a readable form."
   ],
   "notes": "<p style=\"margin-top:0\">Megawatt and dollar figures are what developers or public bodies announced. They measure different things (computing capacity, utility load, on-site generation) and should not be added together. Kuna’s figures show the gap: Meta’s 2026 investment figure is $1.2 billion, up from $800 million at announcement, and estimates of its water use differ by outlet.</p><p>We leave out small server rooms and colocation sites listed only by commercial directories, and Avista’s 500 MW data center customer, which Avista places in Washington.</p>",
   "upcoming": [
-    {
-      "date": "2026-11-10",
-      "what": "Boise City Council hearing on the mayor’s mega data center moratorium, 6 p.m.",
-      "url": "https://www.cityofboise.org/news/mayor/2026/november/boise-mayor-lauren-mclean-proposes-data-center-moratorium"
-    },
-    {
-      "date": "2026-11-10",
-      "what": "Cassia County commissioners’ public meeting on the TerraVolt campus, 7 p.m., Declo High School",
-      "url": "https://www.cassia.gov/events/102396/"
-    },
     {
       "date": "2026-11-25",
       "what": "PUC staff and intervenors file positions on large-load costs",
