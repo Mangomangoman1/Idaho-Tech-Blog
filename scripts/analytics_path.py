@@ -17,6 +17,8 @@ LOADER = ROOT / "assets" / "stack.js"
 
 def main():
     base = os.environ.get("VERCEL_OBSERVABILITY_BASEPATH", "").strip().strip("/")
+    names = sorted(k for k in os.environ if k.startswith("VERCEL"))
+    print("analytics: VERCEL env names:", ", ".join(names))
     if not base or not re.fullmatch(r"[A-Za-z0-9._~/-]+", base):
         print("analytics: no unique path set, using /_vercel/insights")
         return
