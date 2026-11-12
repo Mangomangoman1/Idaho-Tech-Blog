@@ -275,9 +275,9 @@ page = f"""<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name
 .bt-meta .bt-live{{border-color:rgba(111,128,109,.5);background:var(--sage-soft)}}
 .bt-meta .bt-live:before{{content:"";display:inline-block;width:8px;height:8px;border-radius:50%;background:var(--sage);margin-right:8px;vertical-align:1px}}
 .bt-stats{{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:14px}}
-.bt-stat{{border:1px solid var(--line);border-radius:22px;background:rgba(255,250,240,.78);padding:20px;box-shadow:0 12px 34px rgba(31,38,35,.06)}}
+.bt-stat{{border:1px solid var(--line);border-top:2px solid var(--ink);border-radius:0 0 var(--r) var(--r);background:rgba(255,250,240,.78);padding:20px;box-shadow:none}}
 .bt-stat p{{margin:8px 0 0;color:var(--basalt);font-size:.96rem}}
-.bt-num{{display:block;font-family:var(--serif);font-size:clamp(2.2rem,4.4vw,3.3rem);line-height:1;letter-spacing:-.03em;color:var(--ink)}}
+.bt-num{{display:block;font-family:var(--display,var(--serif));font-weight:700;font-size:clamp(2.2rem,4.4vw,3.3rem);line-height:1;letter-spacing:-.005em;color:var(--ink)}}
 .bt-stat-alert{{background:linear-gradient(160deg,rgba(234,208,197,.75),rgba(255,250,240,.85));border-color:rgba(169,88,49,.35)}}
 .bt-stat-alert .bt-num{{color:var(--rust)}}
 .cite{{font-size:.8rem;font-weight:800;color:var(--rust);text-underline-offset:3px;white-space:nowrap}}
@@ -295,7 +295,7 @@ page = f"""<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name
 .bt-unknown .bt-step-count{{color:var(--muted);font-style:italic}}
 .bt-step-note{{margin:0;font-size:.9rem;color:var(--muted)}}
 .bt-bar-fig{{margin:22px 0 0}}
-.bt-bar{{display:flex;width:100%;min-height:58px;border-radius:16px;overflow:hidden;border:1px solid var(--line-dark);background:rgba(255,250,240,.6)}}
+.bt-bar{{display:flex;width:100%;min-height:58px;border-radius:var(--r);overflow:hidden;border:1px solid var(--line-dark);background:rgba(255,250,240,.6)}}
 .bt-bar-sub{{margin-top:10px;min-height:44px;border-style:dashed}}
 .bt-seg{{display:flex;align-items:center;padding:8px 14px;font-size:.92rem;line-height:1.2;min-width:0}}
 .bt-seg b{{font-family:var(--serif);font-size:1.15rem;margin-right:6px;white-space:nowrap}}
@@ -313,12 +313,12 @@ page = f"""<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name
 .bt-chip-out{{background:var(--rust-soft);border-color:rgba(169,88,49,.45);color:var(--rust)}}
 .bt-two{{display:grid;grid-template-columns:1.1fr .9fr;gap:22px;align-items:start}}
 .bt-q{{counter-reset:q;list-style:none;padding:0;margin:0;display:grid;gap:10px}}
-.bt-q li{{counter-increment:q;position:relative;padding:14px 16px 14px 52px;border:1px solid var(--line);border-radius:16px;background:rgba(255,250,240,.74)}}
+.bt-q li{{counter-increment:q;position:relative;padding:14px 16px 14px 52px;border:1px solid var(--line);border-radius:var(--r);background:rgba(255,250,240,.74)}}
 .bt-q li:before{{content:counter(q);position:absolute;left:14px;top:12px;width:26px;height:26px;border-radius:50%;background:var(--basalt);color:var(--cream);display:grid;place-items:center;font-size:.85rem;font-weight:800}}
 .bt-list{{list-style:none;padding:0;margin:0;display:grid;gap:8px}}
 .bt-list li{{display:flex;justify-content:space-between;gap:12px;border-top:1px solid var(--line);padding-top:8px}}
 .bt-list span{{color:var(--muted);font-size:.88rem;text-align:right}}
-.bt-note{{border-left:4px solid var(--amber);background:rgba(234,215,184,.45);padding:14px 16px;border-radius:0 14px 14px 0;color:var(--basalt)}}
+.bt-note{{border-left:4px solid var(--amber);background:rgba(234,215,184,.45);padding:14px 16px;border-radius:0 var(--r) var(--r) 0;color:var(--basalt)}}
 @media(max-width:1000px){{.bt-stats{{grid-template-columns:1fr 1fr}}.bt-two{{grid-template-columns:1fr}}}}
 @media(max-width:850px){{.bt-pipe{{grid-template-columns:1fr;gap:0}}.bt-step{{padding:0 0 18px 40px}}.bt-step:before{{top:0;bottom:0;left:10px;right:auto;width:3px;height:auto}}.bt-dot{{top:0}}.bt-bar{{flex-direction:column}}.bt-seg{{width:auto!important}}.bt-bar-sub .bt-seg{{width:auto!important}}}}
 @media(max-width:560px){{.bt-stats{{grid-template-columns:1fr}}.bt-list li{{flex-direction:column;gap:2px}}.bt-list span{{text-align:left}}}}

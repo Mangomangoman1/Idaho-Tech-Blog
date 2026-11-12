@@ -290,10 +290,10 @@ page = f"""<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name
 .bt-hero{{padding:58px 0 18px}}
 .bt-hero h1{{font-family:var(--serif);font-size:clamp(2.6rem,7vw,5.6rem);line-height:.92;letter-spacing:-.045em;margin:10px 0 16px;max-width:14ch}}
 .dc-hero-grid{{display:grid;grid-template-columns:minmax(0,1.35fr) minmax(0,.65fr);gap:40px;align-items:end}}
-.dc-next{{border:1px solid var(--line);border-radius:24px;background:rgba(255,250,240,.86);padding:20px 22px 10px;box-shadow:var(--shadow)}}
+.dc-next{{border:1px solid var(--line);border-radius:var(--r);background:rgba(255,250,240,.86);padding:20px 22px 10px;box-shadow:var(--shadow)}}
 .dc-next ol{{list-style:none;margin:10px 0 0;padding:0}}
 .dc-next li{{display:grid;grid-template-columns:52px 1fr;gap:12px;align-items:center;padding:11px 0;border-top:1px solid var(--line)}}
-.dc-next time{{display:grid;place-items:center;width:52px;height:52px;border-radius:14px;background:var(--ink);color:var(--cream);font-family:var(--serif);font-size:1.35rem;line-height:1}}
+.dc-next time{{display:grid;place-items:center;width:52px;height:52px;border-radius:var(--r);background:var(--ink);color:var(--cream);font-family:var(--serif);font-size:1.35rem;line-height:1}}
 .dc-next time b{{font:800 .62rem var(--sans);letter-spacing:.1em;text-transform:uppercase;color:var(--amber-soft);margin-bottom:-6px}}
 .dc-next li:first-child time{{background:var(--rust)}}
 .dc-next a{{text-decoration:none;font-size:.95rem;line-height:1.35;color:var(--basalt)}}.dc-next a:hover{{text-decoration:underline}}
@@ -302,9 +302,9 @@ page = f"""<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name
 .bt-meta .bt-live{{border-color:rgba(111,128,109,.5);background:var(--sage-soft)}}
 .bt-meta .bt-live:before{{content:"";display:inline-block;width:8px;height:8px;border-radius:50%;background:var(--sage);margin-right:8px;vertical-align:1px}}
 .bt-stats{{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:14px}}
-.bt-stat{{border:1px solid var(--line);border-radius:22px;background:rgba(255,250,240,.78);padding:20px;box-shadow:0 12px 34px rgba(31,38,35,.06)}}
+.bt-stat{{border:1px solid var(--line);border-top:2px solid var(--ink);border-radius:0 0 var(--r) var(--r);background:rgba(255,250,240,.78);padding:20px;box-shadow:none}}
 .bt-stat p{{margin:8px 0 0;color:var(--basalt);font-size:.96rem}}
-.bt-num{{display:block;font-family:var(--serif);font-size:clamp(2.1rem,4.2vw,3.2rem);line-height:1;letter-spacing:-.03em;color:var(--ink)}}
+.bt-num{{display:block;font-family:var(--display,var(--serif));font-weight:700;font-size:clamp(2.1rem,4.2vw,3.2rem);line-height:1;letter-spacing:-.005em;color:var(--ink)}}
 .bt-stat-alert{{background:linear-gradient(160deg,rgba(234,208,197,.75),rgba(255,250,240,.85));border-color:rgba(169,88,49,.35)}}
 .bt-stat-alert .bt-num{{color:var(--rust)}}
 .cite{{font-size:.8rem;font-weight:800;color:var(--rust);text-underline-offset:3px;white-space:nowrap}}
@@ -315,18 +315,18 @@ page = f"""<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name
 .bt-table tbody th{{font-family:var(--sans);font-size:1rem;background:none;font-weight:700}}
 .bt-two{{display:grid;grid-template-columns:1.1fr .9fr;gap:22px;align-items:start}}
 .bt-q{{counter-reset:q;list-style:none;padding:0;margin:0;display:grid;gap:10px}}
-.bt-q li{{counter-increment:q;position:relative;padding:14px 16px 14px 52px;border:1px solid var(--line);border-radius:16px;background:rgba(255,250,240,.74)}}
+.bt-q li{{counter-increment:q;position:relative;padding:14px 16px 14px 52px;border:1px solid var(--line);border-radius:var(--r);background:rgba(255,250,240,.74)}}
 .bt-q li:before{{content:counter(q);position:absolute;left:14px;top:12px;width:26px;height:26px;border-radius:50%;background:var(--basalt);color:var(--cream);display:grid;place-items:center;font-size:.85rem;font-weight:800}}
 .bt-list{{list-style:none;padding:0;margin:0;display:grid;gap:8px}}
 .bt-list li{{display:flex;justify-content:space-between;gap:12px;border-top:1px solid var(--line);padding-top:8px}}
 .bt-list span{{color:var(--muted);font-size:.88rem;text-align:right;white-space:nowrap}}
-.bt-note{{border-left:4px solid var(--amber);background:rgba(234,215,184,.45);padding:14px 16px;border-radius:0 14px 14px 0;color:var(--basalt)}}
+.bt-note{{border-left:4px solid var(--amber);background:rgba(234,215,184,.45);padding:14px 16px;border-radius:0 var(--r) var(--r) 0;color:var(--basalt)}}
 /* status colours */
 .s-op{{--c:#2f5d50;--cs:#d3e3dc}}.s-build{{--c:#6f806d;--cs:var(--sage-soft)}}.s-ok{{--c:#3f6f8f;--cs:#d6e3ea}}
 .s-prop{{--c:#c58b32;--cs:var(--amber-soft)}}.s-hold{{--c:#7c7468;--cs:#e6e0d4}}.s-deny{{--c:#a95831;--cs:var(--rust-soft)}}
 /* map */
 .dc-atlas{{display:grid;grid-template-columns:minmax(0,.8fr) minmax(0,1.2fr);gap:28px;align-items:start}}
-.dc-mapwrap{{position:sticky;top:120px;border:1px solid var(--line);border-radius:26px;background:linear-gradient(170deg,rgba(255,250,240,.92),rgba(234,215,184,.35));padding:18px 18px 12px;box-shadow:var(--shadow)}}
+.dc-mapwrap{{position:sticky;top:120px;border:1px solid var(--line);border-radius:var(--r);background:linear-gradient(170deg,rgba(255,250,240,.92),rgba(234,215,184,.35));padding:18px 18px 12px;box-shadow:var(--shadow)}}
 .dc-map{{display:block;width:100%;height:auto;max-height:74vh}}
 .dc-state{{fill:rgba(255,250,240,.9);stroke:var(--basalt);stroke-width:1.6;stroke-linejoin:round}}
 .dc-town circle{{fill:var(--muted)}}.dc-town text{{font:600 13px var(--sans);fill:var(--muted)}}.dc-town-s text{{font-size:11.5px}}
@@ -349,8 +349,8 @@ page = f"""<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name
 .dc-chip b{{font-weight:800;color:var(--muted);margin-left:2px}}
 .dc-chip.is-on{{background:var(--ink);color:var(--cream);border-color:var(--ink)}}.dc-chip.is-on b{{color:var(--amber-soft)}}
 .dc-cards{{display:grid;gap:14px}}
-.dc-card{{border:1px solid var(--line);border-radius:22px;background:rgba(255,250,240,.86);padding:20px 22px;box-shadow:0 12px 34px rgba(31,38,35,.05);scroll-margin-top:130px;transition:box-shadow .3s,border-color .3s}}
-.dc-card:target{{border-color:var(--c,var(--rust));box-shadow:0 0 0 3px rgba(197,139,50,.35),0 12px 34px rgba(31,38,35,.08)}}
+.dc-card{{border:1px solid var(--line);border-radius:var(--r);background:rgba(255,250,240,.86);padding:20px 22px;box-shadow:none;scroll-margin-top:130px;transition:box-shadow .3s,border-color .3s}}
+.dc-card:target{{border-color:var(--c,var(--rust));box-shadow:0 0 0 3px rgba(197,139,50,.35)}}
 .dc-card[hidden]{{display:none}}
 .dc-card-head{{display:flex;gap:14px;align-items:flex-start}}
 .dc-card h3{{font-family:var(--serif);font-size:1.5rem;line-height:1.1;margin:2px 0 0}}
@@ -367,7 +367,7 @@ page = f"""<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name
 .dc-rows{{margin:0;display:grid;gap:8px}}
 .dc-row{{display:grid;grid-template-columns:104px 1fr;gap:12px;font-size:.95rem}}
 .dc-row dt{{font-weight:800;color:var(--basalt)}}.dc-row dd{{margin:0;color:var(--basalt)}}
-.dc-flag{{margin:12px 0 0;font-size:.88rem;color:var(--rust);background:rgba(234,208,197,.4);border-radius:10px;padding:8px 12px}}
+.dc-flag{{margin:12px 0 0;font-size:.88rem;color:var(--rust);background:rgba(234,208,197,.4);border-radius:var(--r);padding:8px 12px}}
 .dc-src{{margin-top:12px}}.dc-src summary{{cursor:pointer;font-size:.86rem;font-weight:800;color:var(--rust)}}.dc-src ul{{margin-top:10px;font-size:.9rem}}
 /* power timeline */
 .dc-tl{{list-style:none;margin:20px 0 0;padding:0;position:relative;display:grid;gap:0}}
@@ -380,7 +380,7 @@ page = f"""<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name
 .dc-ev-due time{{color:var(--rust)}}
 .dc-ev-t{{margin:2px 0 4px;font-family:var(--serif);font-size:1.25rem;line-height:1.2}}
 .dc-ev-n{{margin:0;color:var(--basalt);font-size:.95rem;max-width:640px}}
-.dc-callout{{border:1px solid var(--line);border-radius:22px;padding:22px;background:var(--ink);color:var(--cream)}}
+.dc-callout{{border:1px solid var(--line);border-radius:var(--r);padding:22px;background:var(--ink);color:var(--cream)}}
 .dc-callout h3{{font-family:var(--serif);font-size:1.6rem;line-height:1.1;margin:0 0 10px}}
 .dc-callout p{{color:rgba(255,250,240,.82)}}.dc-callout a{{color:var(--amber-soft)}}
 .dc-callout .button{{background:var(--cream);color:var(--ink);border-color:var(--cream);margin-top:6px}}
