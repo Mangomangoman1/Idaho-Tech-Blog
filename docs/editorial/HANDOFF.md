@@ -148,3 +148,14 @@ Before merging on the editor's yes: set real publication timestamps (placeholder
 in each article, feed.xml and sitemap, rebuild and check. Tuesday night: add the Boise vote result and the
 Cassia meeting outcome to the Boise note (update dateModified), and check TerraVolt's Q3 10-Q (due mid-Nov).
 No outreach sent; TerraVolt was not contacted.
+
+## Nov 12, 2026: ITD/Luma flagship and Tax Commission FAST desk note published (editor approved both)
+
+Editor said "Publish as is" and "Both" Nov 12, 4:30pm MST. Rebuilt from the desk previews (the desk's local draft branches were never
+pushed): `articles/itd-luma-advantage-finance-system.html` (flagship, homepage lead) and
+`articles/idaho-tax-commission-fast-collections-request.html`, original stat-card images, News, RSS and sitemaps.
+"As is" meant no holding for agency answers: no email went to ITD, the State Controller or the Tax Commission, and the
+draft's "questions sent" line, email text and editor notes were left out. Figures re-checked Nov 12 against the ITD board
+minutes (Aug 19-20, 2026), JFAC minutes (Feb 5, 2026), OPE r2403, Baker Tilly RCA, SCO 2026 survey, ITD Transporter 2005,
+StateScoop, the Tax Commission FY2028 request and the LSO base review; small wording fixes only.
+Watch: governor's FY2028 budget in January for the $13M Advantage upgrade; JFAC Tax Commission hearing in the 2027 session.
