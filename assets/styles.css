@@ -508,3 +508,8 @@ a.card{text-decoration:none}
   .article-meta-box span+span:before{display:none}
 }
 .baseline-panel h2{font-size:clamp(1.3rem,1.9vw,1.6rem);line-height:1.22}
+.article-layout>*,.front-grid>*,.hero-grid>*,.sector-hero-grid>*{min-width:0}
+h1,h2,h3{overflow-wrap:break-word}
+.meta{display:flex;flex-wrap:wrap;gap:4px 14px;font-family:var(--display);font-size:.98rem;letter-spacing:.06em;text-transform:uppercase}
+.deep-list>*,.directory-list>*,.card-grid>*,.content-grid>*,.split-section>*{min-width:0}
+.button{max-width:100%;text-align:center;line-height:1.15;padding-block:8px}

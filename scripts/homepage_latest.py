@@ -37,7 +37,8 @@ def dated_articles():
             if any(kind in types for kind in ['Article', 'NewsArticle', 'BlogPosting']):
                 article = dict(article)
                 article['_pinned'] = LEAD_PIN in html
-                article['_desk'] = bool(re.search(r'<p class="kicker">\s*Desk note', html))
+                kicker = re.search(r'<p class="kicker">\s*(Desk note|Flagship)', html)
+                article['_kind'] = kicker[1] if kicker else 'Report'
                 yield path.relative_to(ROOT).as_posix(), article
 
 
@@ -59,7 +60,7 @@ def display_date(stamp):
 
 
 def tag(article):
-    kind = 'Desk note' if article.get('_desk') else 'Report'
+    kind = article.get('_kind', 'Report')
     section = article.get('articleSection')
     return f'{kind} · {section}' if section else kind
 
