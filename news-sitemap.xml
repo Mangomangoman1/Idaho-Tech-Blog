@@ -11,37 +11,4 @@
       <news:title>Blaine County’s Power Line Surcharge Has No Price Yet, With the Line Due This Year</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://www.idahostack.com/articles/boise-data-center-moratorium-vote.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>The Idaho Stack</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T12:48:00-07:00</news:publication_date>
-      <news:title>Boise Adopts Six-Month Pause on Large Data Centers. Here’s What It Does and Doesn’t Stop.</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.idahostack.com/articles/declo-data-center-developer-terravolt-sec-filings.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>The Idaho Stack</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T12:45:00-07:00</news:publication_date>
-      <news:title>Declo Data Center Developer Reports No Revenue and Doubts It Can Keep Going, SEC Filings Show</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.idahostack.com/articles/idaho-zip-codes-cross-county-lines.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>The Idaho Stack</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T13:03:00-07:00</news:publication_date>
-      <news:title>More Than One in Four Idaho ZIP Codes Cross a County Line</news:title>
-    </news:news>
-  </url>
 </urlset>
