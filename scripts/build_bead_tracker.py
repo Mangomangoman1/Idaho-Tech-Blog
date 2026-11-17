@@ -17,8 +17,8 @@ SITE = "https://www.idahostack.com"
 
 # Facts taken from the state's own documents. Each one is cited on the page.
 STATUS = {
-    "checked": "October 30, 2026",
-    "checked_iso": "2026-10-30",
+    "checked": "November 13, 2026",
+    "checked_iso": "2026-11-13",
     "program_total": "$583.2 million",
     "final_proposal_approved": "December 19, 2025",
     "notice_of_award": "January 26, 2026",
@@ -28,6 +28,12 @@ STATUS = {
     "returned_pool": 26232,
     "printed_withdrawal_total": "$164,352,678.01",
     "printed_withdrawal_bsl": "25,393",
+    # The Idaho Office of Broadband's emailed answers of Nov. 2, 2026: use the
+    # packet's printed withdrawal totals, plus the providers' match.
+    "state_withdrawal_usd": 164352678.01,
+    "state_withdrawal_bsl": 25393,
+    "state_withdrawal_match_usd": 62191190.06,
+    "state_withdrawal_investment_usd": 226543868.07,
 }
 
 SOURCES = OrderedDict([
@@ -136,10 +142,12 @@ for r in rebid:
 bid_bsl = sum(b["bsl"] for b in bids.values())
 bid_req = sum(b["req"] for b in bids.values())
 
-held_award = total_award - wd_award
-held_bsl = total_bsl - wd_bsl
+rep_award = STATUS["state_withdrawal_usd"]
+rep_bsl = STATUS["state_withdrawal_bsl"]
+held_award = total_award - rep_award
+held_bsl = total_bsl - rep_bsl
 held_share = held_award / total_award
-wd_share = wd_award / total_award
+wd_share = rep_award / total_award
 n_providers = len(providers)
 n_out = len(out)
 all_out = all(abs(w["share"] - 1) < 1e-9 for w in out.values())
@@ -151,7 +159,7 @@ award_short = {SHORT.get(k, k) for k in providers}
 stats = f"""
 <div class="bt-stats">
   <div class="bt-stat"><span class="bt-num">{money(total_award)}</span><p>awarded in February 2026 to {n_providers} providers to reach {total_bsl:,} homes, businesses and other locations. {cite('overview')}</p></div>
-  <div class="bt-stat bt-stat-alert"><span class="bt-num">{money(wd_award)}</span><p>handed back. {n_out} providers withdrew every Idaho award they held, {wd_share:.0%} of the money and {wd_bsl:,} locations. {cite('board')}</p></div>
+  <div class="bt-stat bt-stat-alert"><span class="bt-num">{money(rep_award)}</span><p>handed back. {n_out} providers withdrew every Idaho award they held, {wd_share:.0%} of the money and {rep_bsl:,} locations. {cite('board')}</p></div>
   <div class="bt-stat"><span class="bt-num">{STATUS['signed_projects']}</span><p>projects with a signed grant agreement as of {STATUS['board_packet']}. Signing comes before environmental review and construction. {cite('board')}</p></div>
   <div class="bt-stat"><span class="bt-num">{bid_bsl:,}</span><p>returned locations offered to other providers in an August re-bid, asking {money(bid_req)}. Still awaiting federal approval. {cite('board')}</p></div>
 </div>"""
@@ -171,9 +179,9 @@ pipeline = '<ol class="bt-pipe">' + "".join(
 
 bar = f"""
 <figure class="bt-bar-fig">
-  <div class="bt-bar" role="img" aria-label="Of {money(total_award)} awarded, {money(held_award)} ({held_share:.0%}) is still held by the original providers and {money(wd_award)} ({wd_share:.0%}) was returned.">
+  <div class="bt-bar" role="img" aria-label="Of {money(total_award)} awarded, {money(held_award)} ({held_share:.0%}) is still held by the original providers and {money(rep_award)} ({wd_share:.0%}) was returned.">
     <span class="bt-seg bt-held" style="width:{held_share * 100:.2f}%"><b>{money(held_award)}</b> still held by {n_providers - n_out} original providers</span>
-    <span class="bt-seg bt-out" style="width:{wd_share * 100:.2f}%"><b>{money(wd_award)}</b> returned</span>
+    <span class="bt-seg bt-out" style="width:{wd_share * 100:.2f}%"><b>{money(rep_award)}</b> returned</span>
   </div>
   <div class="bt-bar bt-bar-sub" role="img" aria-label="August re-bid requests total {money(bid_req)}, pending federal approval.">
     <span class="bt-seg bt-rebid" style="width:{bid_req / total_award * 100:.2f}%"><b>{money(bid_req)}</b> re-bid, pending</span>
@@ -191,7 +199,7 @@ out_table = f"""
 <caption>Providers that withdrew, from the state’s Oct. 1 board packet</caption>
 <thead><tr><th scope="col">Provider</th><th scope="col">Technology</th><th scope="col" class="num">Money returned</th><th scope="col" class="num">Locations</th><th scope="col" class="num">Share of its award</th></tr></thead>
 <tbody>{out_rows}</tbody>
-<tfoot><tr><th scope="row">Total</th><td></td><td class="num">{money(wd_award, 2)}</td><td class="num">{wd_bsl:,}</td><td></td></tr></tfoot>
+<tfoot><tr><th scope="row">Rows add to</th><td></td><td class="num">{money(wd_award, 2)}</td><td class="num">{wd_bsl:,}</td><td></td></tr><tr><th scope="row">State’s total</th><td></td><td class="num">{money(rep_award, 2)}</td><td class="num">{rep_bsl:,}</td><td></td></tr></tfoot>
 </table></div>"""
 
 
@@ -233,11 +241,11 @@ prov_table = f"""
 
 sources_html = "".join(
     f'<li><a href="{u}">{esc(t)}</a><span>{esc(note)}</span></li>' for t, u, note in SOURCES.values()
-)
+) + '<li>Idaho Office of Broadband, emailed answers to The Idaho Stack<span>Nov. 2, 2026</span></li>'
 
 title = "Idaho BEAD Broadband Tracker | The Idaho Stack"
 desc = (f"Where Idaho’s federal broadband grant stands: {money(total_award)} awarded to {n_providers} providers, "
-        f"{money(wd_award)} returned by {n_out} that withdrew, and how many projects have reached each stage. Updated weekly from state records.")
+        f"{money(rep_award)} returned by {n_out} that withdrew, and how many projects have reached each stage. Updated weekly from state records.")
 canonical = f"{SITE}/broadband-tracker.html"
 csvs = [
     ("Idaho BEAD awards by provider and technology, February 2026", "idaho-bead-awards-2026-02.csv"),
@@ -348,15 +356,16 @@ page = f"""<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name
 
 <section class="section"><div class="wrap">
 <p class="kicker">Who withdrew</p>
-<h2 class="bt-h2">{n_out} providers, {wd_bsl:,} locations.</h2>
-<p class="bt-intro">The board packet lists the withdrawals but gives no reasons. A location is a home, business or other building the state counts as needing service; it is not a count of people.</p>
+<h2 class="bt-h2">{n_out} providers, {rep_bsl:,} locations.</h2>
+<p class="bt-intro">The board packet gives no reasons. Asked by The Idaho Stack, the Idaho Office of Broadband said on Nov. 2 that all four cited changing market conditions and project economics. It said each withdrawal was the provider’s own decision, came before any grant agreement was signed, and carried no penalty. A location is a home, business or other building the state counts as needing service; it is not a count of people.</p>
 {out_table}
+<p class="bt-intro" style="margin-top:14px">With the providers’ own match, the returned projects were worth ${STATUS['state_withdrawal_investment_usd'] / 1e6:,.1f} million: ${rep_award / 1e6:,.2f} million in BEAD money and ${STATUS['state_withdrawal_match_usd'] / 1e6:,.2f} million from the providers, per the state.</p>
 </div></section>
 
 <section class="section"><div class="wrap">
 <p class="kicker">What replaced them</p>
 <h2 class="bt-h2">The August re-bid.</h2>
-<p class="bt-intro">From August 14 to 24 the state invited bids on the returned locations. It says bids covered the full returned pool of {STATUS['returned_pool']:,} locations through new projects and changes to existing ones. The table below is the new-project portion only, so it does not add up to the full pool. None of it is final until the federal government approves it, and the state plans one more round after that, with no date yet. {cite('board')}</p>
+<p class="bt-intro">From August 14 to 24 the state invited bids on the returned locations. It says bids covered the full returned pool of {STATUS['returned_pool']:,} locations through new projects and changes to existing ones. The table below is the new-project portion only, so it does not add up to the full pool. None of it is final until the federal government approves it, and the state plans one more round after that, with no date yet. As of Nov. 2, the state said it was still working through the federal review of the re-bid and had no date for another round. {cite('board')}</p>
 {bid_table}
 </div></section>
 
@@ -374,7 +383,7 @@ page = f"""<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name
 <ol class="bt-q">
 <li>Which counties and towns were in the withdrawn project areas, and who now covers them. The state’s location spreadsheets hold this; county-level tracking is our next addition.</li>
 <li>How many of the {STATUS['signed_projects']} signed projects have cleared environmental review, and when the first construction starts.</li>
-<li>Why the four providers withdrew. The state’s packet does not say.</li>
+<li>Each provider’s own account. We asked FyberCom, Wi-Fiber and Intermax on Nov. 1. As of Nov. 13, the date we asked for, none had replied. We’ve also asked the state when each provider withdrew and for the withdrawal notices.</li>
 <li>What the required low-cost internet plan will cost subscribers in each area.</li>
 <li>Which locations, if any, are still unclaimed after the re-bid. The state calls its current estimates preliminary.</li>
 </ol>
@@ -382,7 +391,7 @@ page = f"""<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name
 </div>
 <div>
 <p class="kicker">Notes on the numbers</p>
-<div class="bt-note"><p style="margin-top:0">The packet prints the withdrawal total as {STATUS['printed_withdrawal_total']} and {STATUS['printed_withdrawal_bsl']} locations. Its own rows add to {money(wd_award, 2)} (${wd_award:,.2f}) and {wd_bsl:,} locations, the same figures as the four providers’ February awards. We use the row totals.</p><p>The packet says {STATUS['signed_projects']} projects have signed agreements in two places and 43 in another. The February overview’s table counts 727 project areas while a note on the same page says 588.</p><p style="margin-bottom:0">Corrections or records we’ve missed: <a href="mailto:hello@idahostack.com?subject=Broadband%20tracker">hello@idahostack.com</a></p></div>
+<div class="bt-note"><p style="margin-top:0">The packet’s withdrawal rows add to ${wd_award:,.2f} and {wd_bsl:,} locations. Its printed total, which the state told us to use, is {STATUS['printed_withdrawal_total']} and {STATUS['printed_withdrawal_bsl']} locations. We’ve asked the state what accounts for the ${rep_award - wd_award:,.0f} and {rep_bsl - wd_bsl}-location gap.</p><p>The packet says {STATUS['signed_projects']} projects have signed agreements in two places and 43 in another. The February overview’s table counts 727 project areas while a note on the same page says 588.</p><p style="margin-bottom:0">Corrections or records we’ve missed: <a href="mailto:hello@idahostack.com?subject=Broadband%20tracker">hello@idahostack.com</a></p></div>
 </div>
 </div></section>
 
@@ -390,7 +399,7 @@ page = f"""<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name
 <div>
 <p class="kicker">Method</p>
 <h2 class="bt-h2">How this is built.</h2>
-<p>Every figure comes from Idaho Office of Broadband and Idaho Commerce documents listed here. We transcribed the provider tables, then checked each one by adding every row and comparing it with the document’s own totals. The editor reviewed the tracker before publication. No interviews, site visits or provider contacts were part of this version.</p>
+<p>Every figure comes from Idaho Office of Broadband and Idaho Commerce documents listed here. We transcribed the provider tables, then checked each one by adding every row and comparing it with the document’s own totals. The editor reviewed the tracker before publication. This version adds the Idaho Office of Broadband’s emailed answers to our questions (Nov. 2, 2026). We also emailed three of the withdrawing providers; none had replied by the date we asked. No interviews or site visits were part of it.</p>
 <p>More context: <a href="/articles/idaho-bead-provider-withdrawals-rebid.html">the October withdrawal story</a> and <a href="/articles/idaho-broadband-bead-delivery-deadline.html">why delivery is the hard part</a>.</p>
 </div>
 <div>
