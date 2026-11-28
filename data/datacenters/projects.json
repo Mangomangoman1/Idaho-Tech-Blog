@@ -266,16 +266,26 @@
     "lon": -113.55,
     "developer": "TerraVolt Holdings (formerly CalEthos), Tustin, Calif.",
     "status": "proposed",
-    "as_of": "2026-10-30",
+    "as_of": "2026-11-27",
     "mw": 240,
     "size_note": "Options on 1,077 acres",
     "investment_usd": null,
-    "status_note": "Announced options to buy 1,077 acres on October 30, 2026. Data centers are not a permitted use in Cassia County, so the project needs county zoning approval. Commissioners hold a public meeting November 10.",
+    "status_note": "Announced options to buy 1,077 acres on October 30, 2026. Its September 30 quarterly report shows $4.03 million in cash, plus $6 million restricted for its gas supplier, and says it had not secured land as of that date. Data centers are not a permitted use in Cassia County, so the project needs county zoning approval. Commissioners held a community meeting November 10 with no vote.",
     "tax": "Not reported.",
-    "power": "240 MW of gas generation on site, separate from the grid, fed by the Williams Northwest Pipeline under a supply deal announced in May 2026.",
+    "power": "240 MW of gas generation on site, separate from the grid, fed by the Williams Northwest Pipeline. The supply deal reserves 55,000 MMBtu a day, about 12 percent of all the gas Idaho used in 2024.",
     "water": "The company says closed-loop or low-water cooling will be required of each site buyer.",
     "local": "Needs Cassia County zoning approval.",
     "sources": [
+      {
+        "label": "Idaho Stack: the size of TerraVolt’s gas deal",
+        "url": "https://www.idahostack.com/articles/terravolt-declo-gas-scale-idaho.html",
+        "date": "Nov 27, 2026"
+      },
+      {
+        "label": "TerraVolt 10-Q, quarter ended Sept. 30",
+        "url": "https://www.sec.gov/Archives/edgar/data/0001174891/000149315226052029/form10-q.htm",
+        "date": "Nov 2026"
+      },
       {
         "label": "TerraVolt release on the Declo land options",
         "url": "https://www.blackridgeresearch.com/news-releases/terravolt-holdings-secures-options-on-1077-acres-idaho-240-mw-behind-the-meter-data-center-campus-in-the-us",

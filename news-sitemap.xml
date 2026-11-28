@@ -1,25 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
-    <loc>https://www.idahostack.com/articles/idaho-bead-spacex-match-unexplained.html</loc>
+    <loc>https://www.idahostack.com/articles/terravolt-declo-gas-scale-idaho.html</loc>
     <news:news>
       <news:publication>
         <news:name>The Idaho Stack</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-25T16:04:00-07:00</news:publication_date>
-      <news:title>SpaceX Now Puts Up the Most Company Money in Idaho’s Broadband Awards. The State Hasn’t Said What It Is.</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.idahostack.com/articles/idaho-data-center-moratorium-clocks.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>The Idaho Stack</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-23T22:55:00-07:00</news:publication_date>
-      <news:title>Idaho’s First Data Center Pause Runs Out Dec. 31, and State Law Says It Can’t Simply Be Renewed</news:title>
+      <news:publication_date>2026-11-27T22:45:00-07:00</news:publication_date>
+      <news:title>TerraVolt’s Declo Gas Deal Is Sized at About an Eighth of All the Gas Idaho Uses</news:title>
     </news:news>
   </url>
 </urlset>
