@@ -7,7 +7,7 @@ Article: `articles/inl-battelle-contract-2029-rebid.html` (unpublished draft; pl
 - DOE-ID Annual Report 2023 (p. 12): extended to Sept. 30, 2029 with Secretarial approval; +$14.33B, ceiling $41.51B; based on BEA past performance; lets BEA focus on performance instead of a proposal. FY2023 business volume $1.823B.
 - DOE-ID Contract Management Plan, Rev. 1.0, April 2018: extended "without competition" for five years from Oct. 1, 2019 to Sept. 30, 2024.
 - DOE-OIG-23-10 (Nov 28, 2022): $16M available fee FY17-20, 96.25% average awarded; process "did not provide assurance..."; DOE-ID concurred with recommendations but disputed characterization.
-- DOE-OIG-27-03 (Oct 14, 2026), performed by DOI Interior Business Center: questioned ~$5M fringe education costs, ~$0.7M net S&S, >$30.5M proposed award fee in G&A; BEA nonconcurred; auditors maintained.
+- DOE-OIG-27-03 (Oct 14, 2026), performed by DOI Interior Business Center: questioned ~$5M fringe education costs, ~$0.7M net S&S, >$30.5M proposed award fee in G&A; BEA nonconcurred; auditors maintained. Report states no total; ~$36M is our sum of the three findings and is labeled as such in the story. Award fee (>$30.5M) is part of that ~$36M, not a separate finding.
 - INL FY2024 economic impact summary: $4.29B output, $2.36B GSP, 18,900 jobs, $1.76B income, $174.8M state/local taxes, $2.07B operations spending, $326M to Idaho businesses, average salary $125,000. INL FY2025 page: over 6,200 workforce, fifth-largest employer.
 
 ## Comparison labs
