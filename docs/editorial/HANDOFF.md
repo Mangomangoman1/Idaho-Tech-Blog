@@ -161,3 +161,11 @@ draft's "questions sent" line, email text and editor notes were left out. Figure
 minutes (Aug 19-20, 2026), JFAC minutes (Feb 5, 2026), OPE r2403, Baker Tilly RCA, SCO 2026 survey, ITD Transporter 2005,
 StateScoop, the Tax Commission FY2028 request and the LSO base review; small wording fixes only.
 Watch: governor's FY2028 budget in January for the $13M Advantage upgrade; JFAC Tax Commission hearing in the 2027 session.
+
+## Nov 28, 2026: INL/Battelle contract flagship staged for editor review
+
+Branch `claude/project-thread-kzted3` only; nothing on main. Adds `articles/inl-battelle-contract-2029-rebid.html`,
+its images, feed/sitemap/news/energy desk entries; the build makes it the homepage lead. Ledger:
+`docs/research/2026-11-28-inl-battelle-contract.md`. Before merging on the editor's yes: set the real publication
+timestamp (placeholder Nov 28, 12:15 MST) in the article, feed.xml, sitemap, news card and energy desk, rebuild and check.
+No outreach sent. Draft questions to DOE await the editor's approval; if answers come, add them and update dateModified.
